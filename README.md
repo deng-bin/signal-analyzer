@@ -1,1 +1,59 @@
-IyDkv6Hlj7fliIbmlL3lt6XlhbfnrbIgdjIuMSAtLSBTaWduYWwgQW5hbHl6ZXIgUHJvCgo+IFZTIENvZGUg6aOO5qC855WM6Z2i55qE5L+h5Y+35aSE55CG5LiO5YiG5p6Q5bmz5Y+wCgojIyDwn5qAIOW/q+mAn+W8gOWniwoKYGBgYmFzaAojIOWuieijhei1hOeUqAp1diBzeW5jCgojIOi/kOihjAp1diBydW4gcHl0aG9uIG1haW4ucHkKYGBgCgojIyDinIgg5qC45b+D5Yqf6IO9Cgp8IOaooeWdl+OAgSDlip/og70gfAp8LS0tLS0tfC0tLS0tLXwKfCAqKuacg+WPkeWIhuaekCoqIHwg5aSa5L+h5Y+35Y2g5Yqg5pi+56S644CB5YWJ5qCH5riy6YeP44CB57yp5pS+5bmz56e744CB5bOw5YC85qOA5rWLIHwKfCAqKkZGVCDpopHln5/sqIogIHwgRkZUL0RGVC9TVEZUL+WKm+eOh+iusS/lgJLmsavvvIjlh4zlsJTpsoHvvInlsIrmsqlBUFTjgIHljJjlj7flvKDph4zml6Xlj5jmjaIgKHwgCioq5ouJ5pmu5pat5pavKiogfCDmraPpgIbljJjlj7blj5jmjaLjgIHpgKDpgJLqlbDmlbDpopHnjoflupTjgIHpm7bmnoHngrnlm74gfAp8ICoq5ruk5rOi5ZmoKiogfCBGSVIo56qX5Ye95pWwL1JlbWV6KSArIElJUihCdXR0ZXJ3b3J0aC9DaGVieXNoZXYvRWxsaXB0aWMvQmVzc2VsL05vdGNoL1BlYWspIHwKfCAqKkRTUCDpopHosaroqIogfCDlm5vnu4TpmZDpopHnirbvvIzlhYPnu4Tml6Xlj5jmjaLjgIHov5DnrpfvvIjmsYLlr7xBUFTnpLvliIYv5Y2356eNL1og5Y+Y5o2i77yJIAp8ICoq6Z+z6aKRKiogfCDlrpLli5Hpo47lubvliLbjgIHlrp7ml7bmkq/mlL7jgIHlo7DorKblm74gfAp8ICoq5paH5Lu25a+85YWlKiogfCBDU1YgLyBXQVYgLyBNQVQg5a+85YWl5a+85Ye6IHwKCiMjIPCfk4sg55WM6Z2iCgotIFZTIENvZGUg6aOO5qC85pqX6Imy5Li76aKYICsg5rS75Yqo5qNPCi0gOCDkuKog5YiG5p6Q5qCH562+6aG1IDogVGltZSAvIEZGVCBMYXAgLyBGaWx0IERTUCAvIE1pYyBGaWxlIEhlbHAKLSDkv6Hlj7flvKDpg4nns7vnu58g4oCUIOmrmOW3quW+geesg+eahOS/oeWPt+WPg+S4juaIluWIhuaekO+8jOWFqOWPlua2iOWImea4heepuumAguaciemdouadvwotIOe8q+agh+S6pOS6kiDigJQg57ya6L6u57yp5pS+44CB5Y+z6ZSuL+S4remUruaLm+WKqOW5s+enu+OAgeWPjOWHu+i/lOWOnwogCgojIyDwn5OKIOS/oeWPt+exu+WeiyAoMjArKQoK5q2j5byn44CB5L2Z5byn44CB5pa55rOi44CB6ZS45bG95rOi44CB5LiJ6KeS5rOi44CB57q/5oCn6LCD6aKR44CB5Yay5o+844CB6Zi25q6177yI5Y2w5pel5oG85rOi77yJ5rOi44CBc2luYyDohZXlhqzjgIHml7PmlbDooajlh48sIEFNL0ZNIOiwg+WItuOAgeWkmumikeWQiOaIkOOAgeiwi+Wdk+e6p+aVsO+8jEVDRyDmqKHmi5/vvIzlsI/lmarioO+8jOeSoue6ouWZqOeJhyzoh6rlrprkuYnooajovr7lvI8KCiMjIPCfpLog5rWL6K+VCgpgYGBiYXNoCnV2IHJ1biBweXRlc3QgdGVzdHMvIC12CmBgYAoKIyMg8J+PiCDmnoPmnoQKYGBgCnNpZ25hbC1hbmFseXplci8K4pSc4pSA4pSAIG1haW4ucHkgICAgICAgICAgICAgIOOAkOS4u+eqpeWPowlBUFQg5YWl5Y+jCuOUnOKUgOKUgCBzaWduYWxfZW5naW5lLnB5ICAgICAg44CQ5L+h5Y+355Sf5oiQ5byV5pOO44CBCuOUnOKUgOKUgCBmaWx0ZXJfZW5naW5lLnB5ICAgICAg44CQRklSL0lJUiDmu6Tms6LlmajlvJXmk47jgIEK4pSc4pSA4pSAIHRyYW5zZm9ybV9lbmdpbmUucHkgICDjgJBGRlQvTGFwbGFjZS9aL1dhdmVsZXQg5Y+Y5o2i5byV5pOO44CBCuOUnOKUgOKUgCBwbG90X2NhbnZhcy5weSAgICAgICAg44CQ5Lqk5LqS5byPIG1hdHBsb3RsaWIg55S75biD44CBCuOUnOKUgOKUgCB1aS8K4pSCICAg4pSc4pSA4pSAIHRoZW1lLnB5ICAgICAgICAgIOOAkOaal+iJs+S4u+mimOOAgQogICDilJzilIDilIAgYWN0aXZpdHlfYmFyLnB5ICAg44CQ5rS75Yqo5qOP44CBCiAgIOOUnOKUgOKUgCBsb2dnZXIucHkgICAgICAgICDjgJBBSSDlj4vlpb0gSlNPTiDml6Xlv5fjgIEKICAg4pSU4pSA4pSAIHBhbmVscy8gICAgICAgICAgIOOAkDgg5LiqIOWIhuaekOmdouadv+OAgQrilJzilIDilIAgdGVzdHMvICAgICAgICAgICAgICAgIOOAkDYwIOS4qiDljZXlhYPmtYvor5XjgIEKYGBg
+# 信号分析工具箱 v2.1 — Signal Analyzer Pro
+
+> VS Code 风格界面的信号处理与分析平台
+
+## 🚀 快速开始
+
+```bash
+# 安装依赖
+uv sync
+
+# 运行
+uv run python main.py
+```
+
+## ✨ 核心功能
+
+| 模块 | 功能 |
+|------|------|
+| **时域分析** | 多信号叠加显示、光标测量、缩放平移、峰值检测 |
+| **FFT 频域** | FFT/DFT/STFT/功率谱/倒谱/希尔伯特/小波变换/相干性/符号傅里叶 |
+| **拉普拉斯** | 正/逆符号变换、传递函数频率响应、零极点图 |
+| **滤波器** | FIR(窗函数/Remez) + IIR(Butterworth/Chebyshev/Elliptic/Bessel/Notch/Peak) |
+| **DSP 频谱** | 四象限频谱、信号运算(求导/积分/卷积/互相关)、Z 变换 |
+| **音频** | 麦克风录制、实时播放、声谱图 |
+| **文件导入** | CSV / WAV / MAT 导入导出 |
+
+## 🎛️ 界面
+
+- VS Code 风格暗色主题 + 活动栏
+- 8 个分析标签页：Time / FFT / Lap / Filt / DSP / Mic / File / Help
+- 信号勾选系统 — 仅已勾选的信号参与分析，全取消则清空所有面板
+- 鼠标交互 — 滚轮缩放、右键/中键拖动平移、双击还原
+
+## 📊 信号类型 (20+)
+
+正弦、余弦、方波、锯齿波、三角波、线性调频、冲激、阶跃、高斯脉冲、sinc 脉冲、指数衰减、AM/FM 调制、多频合成、谐波级数、ECG 模拟、白噪声、粉红噪声、自定义表达式
+
+## 🧪 测试
+
+```bash
+uv run pytest tests/ -v
+```
+
+## 🏗️ 架构
+
+```
+signal-analyzer/
+├── main.py              # 主窗口入口
+├── signal_engine.py      # 信号生成引擎
+├── filter_engine.py      # FIR/IIR 滤波器引擎
+├── transform_engine.py   # FFT/Laplace/Z/Wavelet 变换引擎
+├── plot_canvas.py        # 交互式 matplotlib 画布
+├── ui/
+│   ├── theme.py          # 暗色主题
+│   ├── activity_bar.py   # 活动栏
+│   ├── logger.py         # AI 友好 JSON 日志
+│   └── panels/           # 8 个分析面板
+└── tests/                # 60 个单元测试
+```

@@ -1,1 +1,304 @@
-IiIi5Y+Y5o2i5byV5pOOIHYyLjAg4oCUIEZGVC9ERlQvU1RGVC9DV1QvSGlsYmVydC9aL0NlcHN0cnVtL0NvaGVyZW5jZSArIOespuWPt+WPmOaNoiIiIgppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gdHlwaW5nIGltcG9ydCBPcHRpb25hbCwgVHVwbGUKaW1wb3J0IHN5bXB5IGFzIHNwCgoKQGRhdGFjbGFzcwpjbGFzcyBUcmFuc2Zvcm1SZXN1bHQ6CiAgICBuYW1lOiBzdHIKICAgIGRhdGFfeDogbnAubmRhcnJheQogICAgZGF0YV95OiBucC5uZGFycmF5CiAgICBkYXRhX3kyOiBPcHRpb25hbFtucC5uZGFycmF5XSA9IE5vbmUKICAgIGRhdGFfeTM6IE9wdGlvbmFsW25wLm5kYXJyYXldID0gTm9uZQogICAgeGxhYmVsOiBzdHIgPSAiRnJlcXVlbmN5IChIeikiCiAgICB5bGFiZWw6IHN0ciA9ICJNYWduaXR1ZGUiCiAgICB5MmxhYmVsOiBzdHIgPSAiUGhhc2UgKHJhZCkiCiAgICB5M2xhYmVsOiBzdHIgPSAiIgogICAgZXh0cmE6IGRpY3QgPSBOb25lCgogICAgZGVmIF9fcG9zdF9pbml0X18oc2VsZik6CiAgICAgICAgaWYgc2VsZi5leHRyYSBpcyBOb25lOgogICAgICAgICAgICBzZWxmLmV4dHJhID0ge30KCgpjbGFzcyBGb3VyaWVyVHJhbnNmb3JtOgogICAgIiIi5YKF6YeM5Y+25Y+Y5o2i5pePIiIiCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGZmdChzaWduYWwsIG49Tm9uZSwgd2luZG93PSdub25lJywgZGV0cmVuZD1GYWxzZSkgLT4gVHJhbnNmb3JtUmVzdWx0OgogICAgICAgICIiIkZGVCB3aXRoIHdpbmRvd2luZyBhbmQgZGV0cmVuZCIiIgogICAgICAgIHkgPSBzaWduYWwueS5jb3B5KCkKICAgICAgICBpZiBkZXRyZW5kOgogICAgICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgZGV0cmVuZCBhcyBkdAogICAgICAgICAgICB5ID0gZHQoeSkKICAgICAgICBuID0gbiBvciBsZW4oeSkKICAgICAgICBpZiB3aW5kb3cgIT0gJ25vbmUnOgogICAgICAgICAgICB3aW5fZnVuY3MgPSB7CiAgICAgICAgICAgICAgICAnaGFtbWluZyc6IG5wLmhhbW1pbmcsICdoYW5uJzogbnAuaGFubmluZywgJ2JsYWNrbWFuJzogbnAuYmxhY2ttYW4sCiAgICAgICAgICAgICAgICAnYmFydGxldHQnOiBucC5iYXJ0bGV0dCwgJ2ZsYXR0b3AnOiBsYW1iZGEgbjogbnAua2Fpc2VyKG4sIDAuNSksCiAgICAgICAgICAgICAgICAna2Fpc2VyJzogbGFtYmRhIG46IG5wLmthaXNlcihuLCAxNCkKICAgICAgICAgICAgfQogICAgICAgICAgICB3ID0gd2luX2Z1bmNzW3dpbmRvd10obWluKGxlbih5KSwgbikpCiAgICAgICAgICAgIHkgPSB5WzpsZW4odyldICogdwogICAgICAgIFkgPSBucC5mZnQuZmZ0KHksIG49bikKICAgICAgICBmcmVxcyA9IG5wLmZmdC5mZnRmcmVxKG4sIGQ9MS9zaWduYWwuZnMpCiAgICAgICAgaGFsZiA9IG4gLy8gMgogICAgICAgIG1hZyA9IG5wLmFicyhZWzpoYWxmXSkgLyBuICogMgogICAgICAgIG1hZ1swXSAvPSAyCiAgICAgICAgcGhhc2UgPSBucC5hbmdsZShZWzpoYWxmXSkKICAgICAgICByZXR1cm4gVHJhbnNmb3JtUmVzdWx0KAogICAgICAgICAgICBuYW1lPWYiRkZUKHtzaWduYWwubmFtZX0pIiwgZGF0YV94PWZyZXFzWzpoYWxmXSwKICAgICAgICAgICAgZGF0YV95PW1hZywgZGF0YV95Mj1waGFzZSwKICAgICAgICAgICAgeGxhYmVsPSJGcmVxdWVuY3kgKEh6KSIsIHlsYWJlbD0iTWFnbml0dWRlIiwgeTJsYWJlbD0iUGhhc2UgKHJhZCkiCiAgICAgICAgKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBpZmZ0KG1hZ25pdHVkZSwgcGhhc2UsIGZzPTEwMDAuMCkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLpgIYgRkZUIiIiCiAgICAgICAgWSA9IG1hZ25pdHVkZSAqIG5wLmV4cCgxaiAqIHBoYXNlKQogICAgICAgIFlfZnVsbCA9IG5wLmNvbmNhdGVuYXRlKFtZLCBucC5jb25qKFlbLTI6MDotMV0pXSkKICAgICAgICByZXR1cm4gbnAuZmZ0LmlmZnQoWV9mdWxsKS5yZWFsCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGRmdChzaWduYWwsIE49Tm9uZSkgLT4gVHJhbnNmb3JtUmVzdWx0OgogICAgICAgICIiIk4g54K5IERGVCIiIgogICAgICAgIHkgPSBzaWduYWwueQogICAgICAgIE4gPSBOIG9yIGxlbih5KQogICAgICAgIHkgPSB5WzpOXSBpZiBsZW4oeSkgPj0gTiBlbHNlIG5wLnBhZCh5LCAoMCwgTi1sZW4oeSkpKQogICAgICAgIGsgPSBucC5hcmFuZ2UoTikKICAgICAgICBuID0gay5yZXNoYXBlKC0xLCAxKQogICAgICAgIFkgPSBucC5leHAoLTJqKm5wLnBpKmsqbi9OKSBAIHkKICAgICAgICBmcmVxcyA9IG5wLmFyYW5nZShOKSAqIHNpZ25hbC5mcyAvIE4KICAgICAgICBoYWxmID0gTiAvLyAyCiAgICAgICAgcmV0dXJuIFRyYW5zZm9ybVJlc3VsdCgKICAgICAgICAgICAgbmFtZT1mIkRGVHtOfSh7c2lnbmFsLm5hbWV9KSIsCiAgICAgICAgICAgIGRhdGFfeD1mcmVxc1s6aGFsZl0sIGRhdGFfeT1ucC5hYnMoWVs6aGFsZl0pL04qMiwgZGF0YV95Mj1ucC5hbmdsZShZWzpoYWxmXSksCiAgICAgICAgICAgIHhsYWJlbD0iRnJlcXVlbmN5IChIeikiLCB5bGFiZWw9Ik1hZ25pdHVkZSIsIHkybGFiZWw9IlBoYXNlIChyYWQpIgogICAgICAgICkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgc3RmdChzaWduYWwsIG5wZXJzZWc9MjU2LCBub3ZlcmxhcD0xMjgsIHdpbmRvdz0naGFubicpIC0+IFR1cGxlW25wLm5kYXJyYXksIG5wLm5kYXJyYXksIG5wLm5kYXJyYXldOgogICAgICAgICIiIuefreaXtuWChemHjOWPtuWPmOaNoiIiIgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBzcGVjdHJvZ3JhbQogICAgICAgIGYsIHQsIFN4eCA9IHNwZWN0cm9ncmFtKHNpZ25hbC55LCBmcz1zaWduYWwuZnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnBlcnNlZz1ucGVyc2VnLCBub3ZlcmxhcD1ub3ZlcmxhcCwgd2luZG93PXdpbmRvdykKICAgICAgICByZXR1cm4gZiwgdCwgU3h4CgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHBvd2VyX3NwZWN0cnVtKHNpZ25hbCwgbWV0aG9kPSdwZXJpb2RvZ3JhbScpIC0+IFRyYW5zZm9ybVJlc3VsdDoKICAgICAgICAiIiLlip/njofosLHlr4bluqbkvLDorqEiIiIKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgcGVyaW9kb2dyYW0sIHdlbGNoCiAgICAgICAgaWYgbWV0aG9kID09ICd3ZWxjaCc6CiAgICAgICAgICAgIGYsIFB4eCA9IHdlbGNoKHNpZ25hbC55LCBmcz1zaWduYWwuZnMsIG5wZXJzZWc9MjU2KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGYsIFB4eCA9IHBlcmlvZG9ncmFtKHNpZ25hbC55LCBmcz1zaWduYWwuZnMpCiAgICAgICAgcmV0dXJuIFRyYW5zZm9ybVJlc3VsdCgKICAgICAgICAgICAgbmFtZT1mIlBTRCh7c2lnbmFsLm5hbWV9KSIsIGRhdGFfeD1mLCBkYXRhX3k9MTAqbnAubG9nMTAoUHh4KzFlLTE1KSwKICAgICAgICAgICAgeGxhYmVsPSJGcmVxdWVuY3kgKEh6KSIsIHlsYWJlbD0iUG93ZXIvRnJlcSAoZEIvSHopIgogICAgICAgICkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgY29oZXJlbmNlKHMxLCBzMiwgbnBlcnNlZz0yNTYpIC0+IFRyYW5zZm9ybVJlc3VsdDoKICAgICAgICAiIiLnm7jlubLmgKfkvLDorqEiIiIKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgY29oZXJlbmNlIGFzIGNvaAogICAgICAgIGYsIEN4eSA9IGNvaChzMS55LCBzMi55LCBmcz1zMS5mcywgbnBlcnNlZz1ucGVyc2VnKQogICAgICAgIHJldHVybiBUcmFuc2Zvcm1SZXN1bHQoCiAgICAgICAgICAgIG5hbWU9ZiJDb2hlcmVuY2Uoe3MxLm5hbWV9LHtzMi5uYW1lfSkiLAogICAgICAgICAgICBkYXRhX3g9ZiwgZGF0YV95PUN4eSwKICAgICAgICAgICAgeGxhYmVsPSJGcmVxdWVuY3kgKEh6KSIsIHlsYWJlbD0iQ29oZXJlbmNlIM6zwrIiCiAgICAgICAgKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBjZXBzdHJ1bShzaWduYWwpIC0+IFRyYW5zZm9ybVJlc3VsdDoKICAgICAgICAiIiLlgJLosLHliIbmnpAiIiIKICAgICAgICBZID0gbnAuZmZ0LmZmdChzaWduYWwueSkKICAgICAgICBsb2dfc3BlY3RydW0gPSBucC5sb2cobnAuYWJzKFkpICsgMWUtMTUpCiAgICAgICAgY2VwcyA9IG5wLmZmdC5pZmZ0KGxvZ19zcGVjdHJ1bSkucmVhbAogICAgICAgIHF1ZWZyZW5jeSA9IG5wLmFyYW5nZShsZW4oY2VwcykpIC8gc2lnbmFsLmZzCiAgICAgICAgcmV0dXJuIFRyYW5zZm9ybVJlc3VsdCgKICAgICAgICAgICAgbmFtZT1mIkNlcHN0cnVtKHtzaWduYWwubmFtZX0pIiwKICAgICAgICAgICAgZGF0YV94PXF1ZWZyZW5jeVs6bGVuKHF1ZWZyZW5jeSkvLzJdLCBkYXRhX3k9Y2Vwc1s6bGVuKGNlcHMpLy8yXSwKICAgICAgICAgICAgeGxhYmVsPSJRdWVmcmVuY3kgKHMpIiwgeWxhYmVsPSJBbXBsaXR1ZGUiCiAgICAgICAgKQoKICAgICMgLS0tIOespuWPtyAtLS0KICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzeW1ib2xpY19mb3J3YXJkKGV4cHJfc3RyOiBzdHIpIC0+IGRpY3Q6CiAgICAgICAgdCwgb21lZ2EgPSBzcC5zeW1ib2xzKCd0IM+JJywgcmVhbD1UcnVlKQogICAgICAgIHRyeToKICAgICAgICAgICAgZl9leHByID0gc3Auc3ltcGlmeShleHByX3N0ciwgbG9jYWxzPXsKICAgICAgICAgICAgICAgICJ0IjogdCwgInNpbiI6IHNwLnNpbiwgImNvcyI6IHNwLmNvcywgImV4cCI6IHNwLmV4cCwKICAgICAgICAgICAgICAgICJIZWF2aXNpZGUiOiBzcC5IZWF2aXNpZGUsICJEaXJhY0RlbHRhIjogc3AuRGlyYWNEZWx0YSwgInBpIjogc3AucGkKICAgICAgICAgICAgfSkKICAgICAgICAgICAgRiA9IHNwLmZvdXJpZXJfdHJhbnNmb3JtKGZfZXhwciwgdCwgb21lZ2EpCiAgICAgICAgICAgIHJldHVybiB7ImlucHV0Ijogc3AubGF0ZXgoZl9leHByKSwgInJlc3VsdCI6IHNwLmxhdGV4KHNwLnNpbXBsaWZ5KEYpKSwKICAgICAgICAgICAgICAgICAgICAicmF3Ijogc3RyKHNwLnNpbXBsaWZ5KEYpKX0KICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybiB7ImVycm9yIjogc3RyKGUpfQoKCmNsYXNzIEhpbGJlcnRUcmFuc2Zvcm06CiAgICAiIiLluIzlsJTkvK/nibnlj5jmjaIg4oCUIOWMhee7nOOAgeeerOaXtumikeeOh+OAgeeerOaXtuebuOS9jSIiIgoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBhbmFseXRpY19zaWduYWwoc2lnbmFsKSAtPiBUcmFuc2Zvcm1SZXN1bHQ6CiAgICAgICAgZnJvbSBzY2lweS5zaWduYWwgaW1wb3J0IGhpbGJlcnQKICAgICAgICBhbmFseXRpYyA9IGhpbGJlcnQoc2lnbmFsLnkpCiAgICAgICAgZW52ZWxvcGUgPSBucC5hYnMoYW5hbHl0aWMpCiAgICAgICAgcGhhc2UgPSBucC51bndyYXAobnAuYW5nbGUoYW5hbHl0aWMpKQogICAgICAgIGluc3RfZnJlcSA9IG5wLmdyYWRpZW50KHBoYXNlLCBzaWduYWwudCkgLyAoMiAqIG5wLnBpKQogICAgICAgIHJldHVybiBUcmFuc2Zvcm1SZXN1bHQoCiAgICAgICAgICAgIG5hbWU9ZiJIaWxiZXJ0KHtzaWduYWwubmFtZX0pIiwKICAgICAgICAgICAgZGF0YV94PXNpZ25hbC50LCBkYXRhX3k9ZW52ZWxvcGUsIGRhdGFfeTI9cGhhc2UsIGRhdGFfeTM9aW5zdF9mcmVxLAogICAgICAgICAgICB4bGFiZWw9IlRpbWUgKHMpIiwgeWxhYmVsPSJFbnZlbG9wZSIsIHkybGFiZWw9IlBoYXNlIChyYWQpIiwKICAgICAgICAgICAgeTNsYWJlbD0iSW5zdC4gRnJlcSAoSHopIgogICAgICAgICkKCgpjbGFzcyBXYXZlbGV0VHJhbnNmb3JtOgogICAgIiIi6L+e57ut5bCP5rOi5Y+Y5o2iIChDV1QpIiIiCgogICAgIyDlj6/nlKjlsI/ms6LmmKDlsIQ6IOS8mOWFiCBzY2lweS5zaWduYWwg5bCP5rOiLCDlkKbliJnnlKjoh6rlrprkuYnlrp7njrAKICAgIF9XQVZFTEVUUyA9IHsKICAgICAgICAnbW9ybCc6ICdtb3JsZXQnLCAgICMgTW9ybGV0CiAgICAgICAgJ3JpY2tlcic6ICdyaWNrZXInLCAgIyBSaWNrZXIgKE1leGljYW4gaGF0KQogICAgICAgICdtZXhoJzogJ21leGgnLCAgICAgIyBNZXhpY2FuIGhhdCDliKvlkI0KICAgIH0KCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgY3d0KHNpZ25hbCwgd2F2ZWxldD0nbW9ybCcsIHNjYWxlcz1Ob25lLCBuX3NjYWxlcz0xMjgpIC0+IFRyYW5zZm9ybVJlc3VsdDoKICAgICAgICAiIiIKICAgICAgICDov57nu63lsI/ms6Llj5jmjaLjgIIKCiAgICAgICAg5LyY5YWI5L2/55SoIHNjaXB5LnNpZ25hbC5jd3QgKHNjaXB5IDwgMS4xNSnvvIwKICAgICAgICDlkKbliJnkvb/nlKjln7rkuo7ljbfnp6/nmoTpq5jmlYjoh6rlrprkuYnlrp7njrDjgIIKICAgICAgICAiIiIKICAgICAgICBpZiBzY2FsZXMgaXMgTm9uZToKICAgICAgICAgICAgc2NhbGVzID0gbnAuZ2VvbXNwYWNlKDEsIG1heChzaWduYWwubl9zYW1wbGVzIC8vIDIsIDIpLCBuX3NjYWxlcykKCiAgICAgICAgdHJ5OgogICAgICAgICAgICAjIHNjaXB5ID49IDEuNiDmj5Dkvpsgc2NpcHkuc2lnbmFsLmN3dCAoc2NpcHkgPj0gMS4xNSDlt7Lnp7vpmaQpCiAgICAgICAgICAgIGN3dF9tYXRyaXggPSBXYXZlbGV0VHJhbnNmb3JtLl9zY2lweV9jd3Qoc2lnbmFsLCB3YXZlbGV0LCBzY2FsZXMpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgY3d0X21hdHJpeCA9IFdhdmVsZXRUcmFuc2Zvcm0uX21hbnVhbF9jd3Qoc2lnbmFsLCBzY2FsZXMpCgogICAgICAgIHJldHVybiBUcmFuc2Zvcm1SZXN1bHQoCiAgICAgICAgICAgIG5hbWU9ZiJDV1Qoe3NpZ25hbC5uYW1lfSkiLCBkYXRhX3g9c2lnbmFsLnQsCiAgICAgICAgICAgIGRhdGFfeT1zY2FsZXMsIGRhdGFfeTI9Y3d0X21hdHJpeCwKICAgICAgICAgICAgeGxhYmVsPSJUaW1lIChzKSIsIHlsYWJlbD0iU2NhbGUiLAogICAgICAgICAgICBleHRyYT17InR5cGUiOiAiY3d0IiwgInNjYWxlcyI6IHNjYWxlc30KICAgICAgICApCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIF9zY2lweV9jd3Qoc2lnbmFsLCB3YXZlbGV0OiBzdHIsIHNjYWxlczogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLkvb/nlKggc2NpcHkuc2lnbmFsLmN3dCDorqHnrpfvvIjlhbzlrrnml6fniYggc2NpcHnvvIkiIiIKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgY3d0IGFzIHNjaXB5X2N3dCwgcmlja2VyLCBtb3JsZXQKCiAgICAgICAgd2F2ZWxldF9tYXAgPSB7CiAgICAgICAgICAgICdtb3JsJzogbGFtYmRhOiBtb3JsZXQsCiAgICAgICAgICAgICdyaWNrZXInOiBsYW1iZGE6IHJpY2tlciwKICAgICAgICAgICAgJ21leGgnOiBsYW1iZGE6IHJpY2tlciwKICAgICAgICB9CiAgICAgICAgd3YgPSB3YXZlbGV0X21hcC5nZXQod2F2ZWxldCwgbGFtYmRhOiByaWNrZXIpKCkKICAgICAgICB3aWR0aHMgPSBzY2FsZXMuYXN0eXBlKG5wLmZsb2F0NjQpCiAgICAgICAgcmV0dXJuIG5wLmFicyhzY2lweV9jd3Qoc2lnbmFsLnksIHd2LCB3aWR0aHMpKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbWFudWFsX2N3dChzaWduYWwsIHNjYWxlczogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLmiYvliqjlrp7njrAgUmlja2VyIOWwj+azoiBDV1TvvIjljbfnp6/ms5XvvIzpgILnlKjkuo4gc2NpcHkgPj0gMS4xNe+8iSIiIgogICAgICAgIGR0ID0gc2lnbmFsLmR0CiAgICAgICAgbiA9IGxlbihzaWduYWwueSkKICAgICAgICBjd3RfbWF0cml4ID0gbnAuemVyb3MoKGxlbihzY2FsZXMpLCBuKSkKCiAgICAgICAgZm9yIGksIHNjYWxlIGluIGVudW1lcmF0ZShzY2FsZXMpOgogICAgICAgICAgICBzID0gbWF4KGZsb2F0KHNjYWxlKSwgMS4wKQogICAgICAgICAgICAjIFJpY2tlciAoTWV4aWNhbiBoYXQpIHdhdmVsZXQ6IM+IKHQpID0gMi8o4oiaKDNzKcK3z4BeMS80KSDCtyAoMS0odC9zKcKyKSDCtyBleHAoLXTCsi8oMnPCsikpCiAgICAgICAgICAgIHRhdSA9IG5wLmFyYW5nZSgtNCAqIHMsIDQgKiBzICsgZHQsIGR0KQogICAgICAgICAgICB3YXZlbGV0X2FyciA9ICgKICAgICAgICAgICAgICAgIDIgLyAobnAuc3FydCgzICogcykgKiBucC5waSAqKiAwLjI1KQogICAgICAgICAgICAgICAgKiAoMSAtICh0YXUgLyBzKSAqKiAyKQogICAgICAgICAgICAgICAgKiBucC5leHAoLXRhdSAqKiAyIC8gKDIgKiBzICoqIDIpKQogICAgICAgICAgICApCiAgICAgICAgICAgIGNvbnYgPSBucC5jb252b2x2ZShzaWduYWwueSwgd2F2ZWxldF9hcnIsIG1vZGU9J3NhbWUnKQogICAgICAgICAgICBpZiBsZW4oY29udikgPiBuOgogICAgICAgICAgICAgICAgY29udiA9IGNvbnZbOm5dCiAgICAgICAgICAgIGVsaWYgbGVuKGNvbnYpIDwgbjoKICAgICAgICAgICAgICAgIGNvbnYgPSBucC5wYWQoY29udiwgKDAsIG4gLSBsZW4oY29udikpKQogICAgICAgICAgICBjd3RfbWF0cml4W2ksIDpdID0gY29udiAqIG5wLnNxcnQoZHQpCgogICAgICAgIHJldHVybiBjd3RfbWF0cml4CgoKY2xhc3MgTGFwbGFjZVRyYW5zZm9ybToKICAgICIiIuaLieaZruaLieaWr+WPmOaNoiDigJQg56ym5Y+35q2jL+mAhiArIOS8oOmAkuWHveaVsCIiIgoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBmb3J3YXJkKGV4cHJfc3RyOiBzdHIpIC0+IGRpY3Q6CiAgICAgICAgdCwgcyA9IHNwLnN5bWJvbHMoJ3QgcycsIHBvc2l0aXZlPVRydWUpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBsb2MgPSB7InQiOiB0LCAicyI6IHMsICJzaW4iOiBzcC5zaW4sICJjb3MiOiBzcC5jb3MsICJleHAiOiBzcC5leHAsCiAgICAgICAgICAgICAgICAgICAiSGVhdmlzaWRlIjogc3AuSGVhdmlzaWRlLCAiRGlyYWNEZWx0YSI6IHNwLkRpcmFjRGVsdGEsCiAgICAgICAgICAgICAgICAgICAicGkiOiBzcC5waSwgInNpbmgiOiBzcC5zaW5oLCAiY29zaCI6IHNwLmNvc2h9CiAgICAgICAgICAgIGZfZXhwciA9IHNwLnN5bXBpZnkoZXhwcl9zdHIsIGxvY2Fscz1sb2MpCiAgICAgICAgICAgIEYgPSBzcC5sYXBsYWNlX3RyYW5zZm9ybShmX2V4cHIsIHQsIHMsIG5vY29uZHM9VHJ1ZSkKICAgICAgICAgICAgRiA9IHNwLnNpbXBsaWZ5KEYpCiAgICAgICAgICAgIHBvbGVzLCB6ZXJvcyA9IExhcGxhY2VUcmFuc2Zvcm0uX3B6KEYsIHMpCiAgICAgICAgICAgIHJldHVybiB7ImlucHV0Ijogc3AubGF0ZXgoZl9leHByKSwgInJlc3VsdCI6IHNwLmxhdGV4KEYpLAogICAgICAgICAgICAgICAgICAgICJyYXciOiBzdHIoRiksICJwb2xlcyI6IHBvbGVzLCAiemVyb3MiOiB6ZXJvc30KICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHJldHVybiB7ImVycm9yIjogc3RyKGUpfQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBpbnZlcnNlKGV4cHJfc3RyOiBzdHIpIC0+IGRpY3Q6CiAgICAgICAgdCwgcyA9IHNwLnN5bWJvbHMoJ3QgcycsIHBvc2l0aXZlPVRydWUpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBGX2V4cHIgPSBzcC5zeW1waWZ5KGV4cHJfc3RyLCBsb2NhbHM9eyJ0IjogdCwgInMiOiBzLCAicGkiOiBzcC5waX0pCiAgICAgICAgICAgIGYgPSBzcC5pbnZlcnNlX2xhcGxhY2VfdHJhbnNmb3JtKEZfZXhwciwgcywgdCwgbm9jb25kcz1UcnVlKQogICAgICAgICAgICByZXR1cm4geyJpbnB1dCI6IHNwLmxhdGV4KEZfZXhwciksICJyZXN1bHQiOiBzcC5sYXRleChzcC5zaW1wbGlmeShmKSksCiAgICAgICAgICAgICAgICAgICAgInJhdyI6IHN0cihzcC5zaW1wbGlmeShmKSl9CiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByZXR1cm4geyJlcnJvciI6IHN0cihlKX0KCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX3B6KGV4cHIsIHMpOgogICAgICAgIHRyeToKICAgICAgICAgICAgbnVtLCBkZW4gPSBzcC5mcmFjdGlvbihleHByKQogICAgICAgICAgICBwb2xlcyA9IFtjb21wbGV4KHNwLk4ocCkuZXZhbGYoKSkgZm9yIHAgaW4gc3Auc29sdmUoZGVuLCBzKSBpZiBwLmlzX251bWJlcl0KICAgICAgICAgICAgemVyb3MgPSBbY29tcGxleChzcC5OKHopLmV2YWxmKCkpIGZvciB6IGluIHNwLnNvbHZlKG51bSwgcykgaWYgei5pc19udW1iZXJdCiAgICAgICAgICAgIHJldHVybiBwb2xlcywgemVyb3MKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICByZXR1cm4gW10sIFtdCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHRyYW5zZmVyX3Jlc3BvbnNlKG51bSwgZGVuLCBmX3JhbmdlPSgwLjAwMSwgMTAwMCksIHB0cz0xMDAwKSAtPiBUcmFuc2Zvcm1SZXN1bHQ6CiAgICAgICAgZnJvbSBzY2lweS5zaWduYWwgaW1wb3J0IGZyZXFzCiAgICAgICAgdyA9IG5wLmxvZ3NwYWNlKG5wLmxvZzEwKGZfcmFuZ2VbMF0pLCBucC5sb2cxMChmX3JhbmdlWzFdKSwgcHRzKQogICAgICAgIHcsIEggPSBmcmVxcyhudW0sIGRlbiwgd29yTj13KQogICAgICAgIHJldHVybiBUcmFuc2Zvcm1SZXN1bHQoCiAgICAgICAgICAgIG5hbWU9Ikgoas+JKSIsIGRhdGFfeD13LAogICAgICAgICAgICBkYXRhX3k9MjAqbnAubG9nMTAobnAuYWJzKEgpKzFlLTE1KSwgZGF0YV95Mj1ucC51bndyYXAobnAuYW5nbGUoSCkpLAogICAgICAgICAgICB4bGFiZWw9IkZyZXF1ZW5jeSAocmFkL3MpIiwgeWxhYmVsPSJNYWduaXR1ZGUgKGRCKSIsIHkybGFiZWw9IlBoYXNlIChyYWQpIgogICAgICAgICkKCgpjbGFzcyBaVHJhbnNmb3JtOgogICAgIiIiWiDlj5jmjaIg4oCUIOaVsOWAvCIiIgoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBudW1lcmljKHNpZ25hbCwgbl9wdHM9NTEyKSAtPiBUcmFuc2Zvcm1SZXN1bHQ6CiAgICAgICAgb21lZ2EgPSBucC5saW5zcGFjZSgwLCBucC5waSwgbl9wdHMpCiAgICAgICAgeiA9IG5wLmV4cCgxaiAqIG9tZWdhKQogICAgICAgIHkgPSBzaWduYWwueVs6bWluKGxlbihzaWduYWwueSksIDEwMDApXQogICAgICAgIFkgPSBucC5hcnJheShbbnAuc3VtKHkgKiAoemsgKiogKC1ucC5hcmFuZ2UobGVuKHkpKSkpKSBmb3IgemsgaW4gel0pCiAgICAgICAgcmV0dXJuIFRyYW5zZm9ybVJlc3VsdCgKICAgICAgICAgICAgbmFtZT1mIlooe3NpZ25hbC5uYW1lfSkiLCBkYXRhX3g9b21lZ2EsCiAgICAgICAgICAgIGRhdGFfeT1ucC5hYnMoWSksIGRhdGFfeTI9bnAuYW5nbGUoWSksCiAgICAgICAgICAgIHhsYWJlbD0iz4kgKHJhZC9zYW1wbGUpIiwgeWxhYmVsPSJ8SChlXntqz4l9KXwiLCB5MmxhYmVsPSJQaGFzZSAocmFkKSIKICAgICAgICApCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHpwbGFuZShiLCBhKSAtPiBUdXBsZVtucC5uZGFycmF5LCBucC5uZGFycmF5XToKICAgICAgICAiIiLorqHnrpfpm7bmnoHngrnvvIha5bmz6Z2i77yJIiIiCiAgICAgICAgcmV0dXJuIG5wLnJvb3RzKGIpLCBucC5yb290cyhhKQo=
+"""变换引擎 v2.0 — FFT/DFT/STFT/CWT/Hilbert/Z/Cepstrum/Coherence + 符号变换"""
+import numpy as np
+from dataclasses import dataclass
+from typing import Optional, Tuple
+import sympy as sp
+
+
+@dataclass
+class TransformResult:
+    name: str
+    data_x: np.ndarray
+    data_y: np.ndarray
+    data_y2: Optional[np.ndarray] = None
+    data_y3: Optional[np.ndarray] = None
+    xlabel: str = "Frequency (Hz)"
+    ylabel: str = "Magnitude"
+    y2label: str = "Phase (rad)"
+    y3label: str = ""
+    extra: dict = None
+
+    def __post_init__(self):
+        if self.extra is None:
+            self.extra = {}
+
+
+class FourierTransform:
+    """傅里叶变换族"""
+
+    @staticmethod
+    def fft(signal, n=None, window='none', detrend=False) -> TransformResult:
+        """FFT with windowing and detrend"""
+        y = signal.y.copy()
+        if detrend:
+            from scipy.signal import detrend as dt
+            y = dt(y)
+        n = n or len(y)
+        if window != 'none':
+            win_funcs = {
+                'hamming': np.hamming, 'hann': np.hanning, 'blackman': np.blackman,
+                'bartlett': np.bartlett, 'flattop': lambda n: np.kaiser(n, 0.5),
+                'kaiser': lambda n: np.kaiser(n, 14)
+            }
+            w = win_funcs[window](min(len(y), n))
+            y = y[:len(w)] * w
+        Y = np.fft.fft(y, n=n)
+        freqs = np.fft.fftfreq(n, d=1/signal.fs)
+        half = n // 2
+        mag = np.abs(Y[:half]) / n * 2
+        mag[0] /= 2
+        phase = np.angle(Y[:half])
+        return TransformResult(
+            name=f"FFT({signal.name})", data_x=freqs[:half],
+            data_y=mag, data_y2=phase,
+            xlabel="Frequency (Hz)", ylabel="Magnitude", y2label="Phase (rad)"
+        )
+
+    @staticmethod
+    def ifft(magnitude, phase, fs=1000.0) -> np.ndarray:
+        """逆 FFT"""
+        Y = magnitude * np.exp(1j * phase)
+        Y_full = np.concatenate([Y, np.conj(Y[-2:0:-1])])
+        return np.fft.ifft(Y_full).real
+
+    @staticmethod
+    def dft(signal, N=None) -> TransformResult:
+        """N 点 DFT"""
+        y = signal.y
+        N = N or len(y)
+        y = y[:N] if len(y) >= N else np.pad(y, (0, N-len(y)))
+        k = np.arange(N)
+        n = k.reshape(-1, 1)
+        Y = np.exp(-2j*np.pi*k*n/N) @ y
+        freqs = np.arange(N) * signal.fs / N
+        half = N // 2
+        return TransformResult(
+            name=f"DFT{N}({signal.name})",
+            data_x=freqs[:half], data_y=np.abs(Y[:half])/N*2, data_y2=np.angle(Y[:half]),
+            xlabel="Frequency (Hz)", ylabel="Magnitude", y2label="Phase (rad)"
+        )
+
+    @staticmethod
+    def stft(signal, nperseg=256, noverlap=128, window='hann') -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
+        """短时傅里叶变换"""
+        from scipy.signal import spectrogram
+        f, t, Sxx = spectrogram(signal.y, fs=signal.fs,
+                                nperseg=nperseg, noverlap=noverlap, window=window)
+        return f, t, Sxx
+
+    @staticmethod
+    def power_spectrum(signal, method='periodogram') -> TransformResult:
+        """功率谱密度估计"""
+        from scipy.signal import periodogram, welch
+        if method == 'welch':
+            f, Pxx = welch(signal.y, fs=signal.fs, nperseg=256)
+        else:
+            f, Pxx = periodogram(signal.y, fs=signal.fs)
+        return TransformResult(
+            name=f"PSD({signal.name})", data_x=f, data_y=10*np.log10(Pxx+1e-15),
+            xlabel="Frequency (Hz)", ylabel="Power/Freq (dB/Hz)"
+        )
+
+    @staticmethod
+    def coherence(s1, s2, nperseg=256) -> TransformResult:
+        """相干性估计"""
+        from scipy.signal import coherence as coh
+        f, Cxy = coh(s1.y, s2.y, fs=s1.fs, nperseg=nperseg)
+        return TransformResult(
+            name=f"Coherence({s1.name},{s2.name})",
+            data_x=f, data_y=Cxy,
+            xlabel="Frequency (Hz)", ylabel="Coherence γ²"
+        )
+
+    @staticmethod
+    def cepstrum(signal) -> TransformResult:
+        """倒谱分析"""
+        Y = np.fft.fft(signal.y)
+        log_spectrum = np.log(np.abs(Y) + 1e-15)
+        ceps = np.fft.ifft(log_spectrum).real
+        quefrency = np.arange(len(ceps)) / signal.fs
+        return TransformResult(
+            name=f"Cepstrum({signal.name})",
+            data_x=quefrency[:len(quefrency)//2], data_y=ceps[:len(ceps)//2],
+            xlabel="Quefrency (s)", ylabel="Amplitude"
+        )
+
+    # --- 符号 ---
+    @staticmethod
+    def symbolic_forward(expr_str: str) -> dict:
+        t, omega = sp.symbols('t ω', real=True)
+        try:
+            f_expr = sp.sympify(expr_str, locals={
+                "t": t, "sin": sp.sin, "cos": sp.cos, "exp": sp.exp,
+                "Heaviside": sp.Heaviside, "DiracDelta": sp.DiracDelta, "pi": sp.pi
+            })
+            F = sp.fourier_transform(f_expr, t, omega)
+            return {"input": sp.latex(f_expr), "result": sp.latex(sp.simplify(F)),
+                    "raw": str(sp.simplify(F))}
+        except Exception as e:
+            return {"error": str(e)}
+
+
+class HilbertTransform:
+    """希尔伯特变换 — 包络、瞬时频率、瞬时相位"""
+
+    @staticmethod
+    def analytic_signal(signal) -> TransformResult:
+        from scipy.signal import hilbert
+        analytic = hilbert(signal.y)
+        envelope = np.abs(analytic)
+        phase = np.unwrap(np.angle(analytic))
+        inst_freq = np.gradient(phase, signal.t) / (2 * np.pi)
+        return TransformResult(
+            name=f"Hilbert({signal.name})",
+            data_x=signal.t, data_y=envelope, data_y2=phase, data_y3=inst_freq,
+            xlabel="Time (s)", ylabel="Envelope", y2label="Phase (rad)",
+            y3label="Inst. Freq (Hz)"
+        )
+
+
+class WaveletTransform:
+    """连续小波变换 (CWT)"""
+
+    # 可用小波映射: 优先 scipy.signal 小波, 否则用自定义实现
+    _WAVELETS = {
+        'morl': 'morlet',   # Morlet
+        'ricker': 'ricker',  # Ricker (Mexican hat)
+        'mexh': 'mexh',     # Mexican hat 别名
+    }
+
+    @staticmethod
+    def cwt(signal, wavelet='morl', scales=None, n_scales=128) -> TransformResult:
+        """
+        连续小波变换。
+
+        优先使用 scipy.signal.cwt (scipy < 1.15)，
+        否则使用基于卷积的高效自定义实现。
+        """
+        if scales is None:
+            scales = np.geomspace(1, max(signal.n_samples // 2, 2), n_scales)
+
+        try:
+            # scipy >= 1.6 提供 scipy.signal.cwt (scipy >= 1.15 已移除)
+            cwt_matrix = WaveletTransform._scipy_cwt(signal, wavelet, scales)
+        except Exception:
+            cwt_matrix = WaveletTransform._manual_cwt(signal, scales)
+
+        return TransformResult(
+            name=f"CWT({signal.name})", data_x=signal.t,
+            data_y=scales, data_y2=cwt_matrix,
+            xlabel="Time (s)", ylabel="Scale",
+            extra={"type": "cwt", "scales": scales}
+        )
+
+    @staticmethod
+    def _scipy_cwt(signal, wavelet: str, scales: np.ndarray) -> np.ndarray:
+        """使用 scipy.signal.cwt 计算（兼容旧版 scipy）"""
+        from scipy.signal import cwt as scipy_cwt, ricker, morlet
+
+        wavelet_map = {
+            'morl': lambda: morlet,
+            'ricker': lambda: ricker,
+            'mexh': lambda: ricker,
+        }
+        wv = wavelet_map.get(wavelet, lambda: ricker)()
+        widths = scales.astype(np.float64)
+        return np.abs(scipy_cwt(signal.y, wv, widths))
+
+    @staticmethod
+    def _manual_cwt(signal, scales: np.ndarray) -> np.ndarray:
+        """手动实现 Ricker 小波 CWT（卷积法，适用于 scipy >= 1.15）"""
+        dt = signal.dt
+        n = len(signal.y)
+        cwt_matrix = np.zeros((len(scales), n))
+
+        for i, scale in enumerate(scales):
+            s = max(float(scale), 1.0)
+            # Ricker (Mexican hat) wavelet: ψ(t) = 2/(√(3s)·π^1/4) · (1-(t/s)²) · exp(-t²/(2s²))
+            tau = np.arange(-4 * s, 4 * s + dt, dt)
+            wavelet_arr = (
+                2 / (np.sqrt(3 * s) * np.pi ** 0.25)
+                * (1 - (tau / s) ** 2)
+                * np.exp(-tau ** 2 / (2 * s ** 2))
+            )
+            conv = np.convolve(signal.y, wavelet_arr, mode='same')
+            if len(conv) > n:
+                conv = conv[:n]
+            elif len(conv) < n:
+                conv = np.pad(conv, (0, n - len(conv)))
+            cwt_matrix[i, :] = conv * np.sqrt(dt)
+
+        return cwt_matrix
+
+
+class LaplaceTransform:
+    """拉普拉斯变换 — 符号正/逆 + 传递函数"""
+
+    @staticmethod
+    def forward(expr_str: str) -> dict:
+        t, s = sp.symbols('t s', positive=True)
+        try:
+            loc = {"t": t, "s": s, "sin": sp.sin, "cos": sp.cos, "exp": sp.exp,
+                   "Heaviside": sp.Heaviside, "DiracDelta": sp.DiracDelta,
+                   "pi": sp.pi, "sinh": sp.sinh, "cosh": sp.cosh}
+            f_expr = sp.sympify(expr_str, locals=loc)
+            F = sp.laplace_transform(f_expr, t, s, noconds=True)
+            F = sp.simplify(F)
+            poles, zeros = LaplaceTransform._pz(F, s)
+            return {"input": sp.latex(f_expr), "result": sp.latex(F),
+                    "raw": str(F), "poles": poles, "zeros": zeros}
+        except Exception as e:
+            return {"error": str(e)}
+
+    @staticmethod
+    def inverse(expr_str: str) -> dict:
+        t, s = sp.symbols('t s', positive=True)
+        try:
+            F_expr = sp.sympify(expr_str, locals={"t": t, "s": s, "pi": sp.pi})
+            f = sp.inverse_laplace_transform(F_expr, s, t, noconds=True)
+            return {"input": sp.latex(F_expr), "result": sp.latex(sp.simplify(f)),
+                    "raw": str(sp.simplify(f))}
+        except Exception as e:
+            return {"error": str(e)}
+
+    @staticmethod
+    def _pz(expr, s):
+        try:
+            num, den = sp.fraction(expr)
+            poles = [complex(sp.N(p).evalf()) for p in sp.solve(den, s) if p.is_number]
+            zeros = [complex(sp.N(z).evalf()) for z in sp.solve(num, s) if z.is_number]
+            return poles, zeros
+        except Exception:
+            return [], []
+
+    @staticmethod
+    def transfer_response(num, den, f_range=(0.001, 1000), pts=1000) -> TransformResult:
+        from scipy.signal import freqs
+        w = np.logspace(np.log10(f_range[0]), np.log10(f_range[1]), pts)
+        w, H = freqs(num, den, worN=w)
+        return TransformResult(
+            name="H(jω)", data_x=w,
+            data_y=20*np.log10(np.abs(H)+1e-15), data_y2=np.unwrap(np.angle(H)),
+            xlabel="Frequency (rad/s)", ylabel="Magnitude (dB)", y2label="Phase (rad)"
+        )
+
+
+class ZTransform:
+    """Z 变换 — 数值"""
+
+    @staticmethod
+    def numeric(signal, n_pts=512) -> TransformResult:
+        omega = np.linspace(0, np.pi, n_pts)
+        z = np.exp(1j * omega)
+        y = signal.y[:min(len(signal.y), 1000)]
+        Y = np.array([np.sum(y * (zk ** (-np.arange(len(y))))) for zk in z])
+        return TransformResult(
+            name=f"Z({signal.name})", data_x=omega,
+            data_y=np.abs(Y), data_y2=np.angle(Y),
+            xlabel="ω (rad/sample)", ylabel="|H(e^{jω})|", y2label="Phase (rad)"
+        )
+
+    @staticmethod
+    def zplane(b, a) -> Tuple[np.ndarray, np.ndarray]:
+        """计算零极点（Z平面）"""
+        return np.roots(b), np.roots(a)

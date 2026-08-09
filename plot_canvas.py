@@ -1,1 +1,204 @@
-IiIi5Lqk5LqS5byP57uY5Zu+55S75biDIHYyLjAg4oCUIOWFieagh+a1i+mHj+OAgee8qeaUvuW5s+enu+OAgeWzsOWAvOajgOa1iyIiIgppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG1hdHBsb3RsaWIKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIuYmFja2VuZHMuYmFja2VuZF9xdGFnZyBpbXBvcnQgRmlndXJlQ2FudmFzUVRBZ2cgYXMgRmlndXJlQ2FudmFzCmZyb20gbWF0cGxvdGxpYi5maWd1cmUgaW1wb3J0IEZpZ3VyZQpmcm9tIG1hdHBsb3RsaWIud2lkZ2V0cyBpbXBvcnQgQ3Vyc29yLCBTcGFuU2VsZWN0b3IKZnJvbSBQeVF0Ni5RdENvcmUgaW1wb3J0IFF0CgpjbGFzcyBJbnRlcmFjdGl2ZURDYW52YXMoRmlndXJlQ2FudmFzKToKICAgICIiIuWinuW8uueJiCBtYXRwbG90bGliIOeUu+W4gyDigJQg5YaF572u5ri45qCH44CB57yp5pS+5bmz56e744CB6Leo5bqm6YCJ5oupIiIiCiAgICBkZWYgX19pbml0X18oc2VsZiwgbnJvd3M9MSwgbmNvbHM9MSwgZmlnc2l6ZT0oOCwgNSksIGRwaT0xMDAsIGRhcms9VHJ1ZSk6CiAgICAgICAgc2VsZi5kYXJrX21vZGUgPSBkYXJrCiAgICAgICAgc2VsZi5fc2V0dXBfc3R5bGUoKQogICAgICAgIHNlbGYuZmlnID0gRmlndXJlKGZpZ3NpemU9Zmlnc2l6ZSwgZHBpPWRwaSwgdGlnaHRfbGF5b3V0PVRydWUpCiAgICAgICAgc2VsZi5heGVzX2FyciA9IHNlbGYuZmlnLnN1YnBsb3RzKG5yb3dzLCBuY29scywgc3F1ZWV6ZT1GYWxzZSkKICAgICAgICBzZWxmLmF4ZXMgPSBzZWxmLmF4ZXNfYXJyLmZsYXR0ZW4oKQogICAgICAgIHN1cGVyKCkuX19pbml0X18oc2VsZi5maWcpCiAgICAgICAgc2VsZi5jdXJzb3JzOiBsaXN0W0N1cnNvcl0gPSBbXQogICAgICAgIHNlbGYuc3Bhbl9zZWxlY3RvcnM6IGxpc3RbU3BhblNlbGVjdG9yXSA9IFtdCiAgICAgICAgc2VsZi5hbm5vdGF0aW9uczogbGlzdCA9IFtdCiAgICAgICAgc2VsZi5fcGFuX3N0YXJ0ID0gTm9uZQogICAgICAgIHNlbGYuX2hvbWVfdmlld3MgPSB7fSAgIyDkv53lrZjlkITlrZDlm77liJ3lp4vop4blm77ojIPlm7QKICAgICAgICBzZWxmLl9zZXR1cF9jdXJzb3IoKQogICAgICAgIHNlbGYuX2Nvbm5lY3RfZXZlbnRzKCkKCiAgICBkZWYgX3NldHVwX3N0eWxlKHNlbGYpOgogICAgICAgIGlmIHNlbGYuZGFya19tb2RlOgogICAgICAgICAgICBtYXRwbG90bGliLnJjUGFyYW1zLnVwZGF0ZSh7CiAgICAgICAgICAgICAgICAnZmlndXJlLmZhY2Vjb2xvcic6ICcjMWUxZTFlJywKICAgICAgICAgICAgICAgICdheGVzLmZhY2Vjb2xvcic6ICcjMjUyNTI2JywKICAgICAgICAgICAgICAgICdheGVzLmVkZ2Vjb2xvcic6ICcjNTU1JywKICAgICAgICAgICAgICAgICdheGVzLmxhYmVsY29sb3InOiAnI2NjY2NjYycsCiAgICAgICAgICAgICAgICAndGV4dC5jb2xvcic6ICcjY2NjY2NjJywKICAgICAgICAgICAgICAgICd4dGljay5jb2xvcic6ICcjOTk5JywKICAgICAgICAgICAgICAgICd5dGljay5jb2xvcic6ICcjOTk5JywKICAgICAgICAgICAgICAgICdncmlkLmNvbG9yJzogJyM0NDQnLAogICAgICAgICAgICAgICAgJ2dyaWQuYWxwaGEnOiAwLjUsCiAgICAgICAgICAgIH0pCgogICAgZGVmIF9zZXR1cF9jdXJzb3Ioc2VsZik6CiAgICAgICAgZm9yIGF4IGluIHNlbGYuYXhlczoKICAgICAgICAgICAgc2VsZi5jdXJzb3JzLmFwcGVuZChDdXJzb3IoYXgsIHVzZWJsaXQ9VHJ1ZSwgY29sb3I9JyM4ODgnLCBsaW5ld2lkdGg9MC41LCBsaW5lc3R5bGU9Jy0tJykpCgogICAgZGVmIF9jb25uZWN0X2V2ZW50cyhzZWxmKToKICAgICAgICBzZWxmLmZpZy5jYW52YXMubXBsX2Nvbm5lY3QoJ21vdGlvbl9ub3RpZnlfZXZlbnQnLCBzZWxmLl9vbl9tb3Rpb24pCiAgICAgICAgc2VsZi5maWcuY2FudmFzLm1wbF9jb25uZWN0KCdidXR0b25fcHJlc3NfZXZlbnQnLCBzZWxmLl9vbl9wcmVzcykKICAgICAgICBzZWxmLmZpZy5jYW52YXMubXBsX2Nvbm5lY3QoJ2J1dHRvbl9yZWxlYXNlX2V2ZW50Jywgc2VsZi5fb25fcmVsZWFzZSkKICAgICAgICBzZWxmLmZpZy5jYW52YXMubXBsX2Nvbm5lY3QoJ3Njcm9sbF9ldmVudCcsIHNlbGYuX29uX3Njcm9sbCkKICAgICAgICBzZWxmLl9ob3Zlcl9hbm5vdCA9IE5vbmUKICAgICAgICBzZWxmLl9wYW5fYXggPSBOb25lCgogICAgZGVmIF9vbl9tb3Rpb24oc2VsZiwgZXZlbnQpOgogICAgICAgICIiIum8oOagh+enu+WKqCDigJQg5oKs5YGc5Z2Q5qCHICsg5ouW5ou95bmz56e7IiIiCiAgICAgICAgIyDnirbmgIHmoI/lnZDmoIcKICAgICAgICBpZiBldmVudC5pbmF4ZXMgYW5kIGhhc2F0dHIoc2VsZiwgJ19zdGF0dXNfY2InKSBhbmQgc2VsZi5fc3RhdHVzX2NiOgogICAgICAgICAgICBzZWxmLl9zdGF0dXNfY2IoZiJ4PXtldmVudC54ZGF0YTouNGZ9LCB5PXtldmVudC55ZGF0YTouNGZ9IikKICAgICAgICAjIOW5s+enuwogICAgICAgIGlmIHNlbGYuX3Bhbl9heCBpcyBOb25lIG9yIHNlbGYuX3Bhbl9zdGFydCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBpZiBldmVudC5pbmF4ZXMgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgZHggPSBzZWxmLl9wYW5fc3RhcnRbMF0gLSBldmVudC54ZGF0YQogICAgICAgIGR5ID0gc2VsZi5fcGFuX3N0YXJ0WzFdIC0gZXZlbnQueWRhdGEKICAgICAgICB4bCA9IHNlbGYuX3Bhbl9heC5nZXRfeGxpbSgpCiAgICAgICAgeWwgPSBzZWxmLl9wYW5fYXguZ2V0X3lsaW0oKQogICAgICAgIHNlbGYuX3Bhbl9heC5zZXRfeGxpbSh4bFswXSArIGR4LCB4bFsxXSArIGR4KQogICAgICAgIHNlbGYuX3Bhbl9heC5zZXRfeWxpbSh5bFswXSArIGR5LCB5bFsxXSArIGR5KQogICAgICAgIHNlbGYuZHJhdygpCgogICAgZGVmIF9vbl9wcmVzcyhzZWxmLCBldmVudCk6CiAgICAgICAgaWYgZXZlbnQuaW5heGVzIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybgogICAgICAgICMg5Lit6ZSuL+WPs+mUruaLluWKqOW5s+enuwogICAgICAgIGlmIGV2ZW50LmJ1dHRvbiBpbiAoMiwgMyk6ICAjIOS4remUrj0yLCDlj7PplK49MwogICAgICAgICAgICBzZWxmLl9wYW5fYXggPSBldmVudC5pbmF4ZXMKICAgICAgICAgICAgc2VsZi5fcGFuX3N0YXJ0ID0gKGV2ZW50LnhkYXRhLCBldmVudC55ZGF0YSkKICAgICAgICAgICAgIyDnrKzkuIDmrKHlubPnp7vliY3kv53lrZjliJ3lp4vop4blm74KICAgICAgICAgICAgc2VsZi5faG9tZV92aWV3cy5zZXRkZWZhdWx0KGV2ZW50LmluYXhlcywKICAgICAgICAgICAgICAgIChldmVudC5pbmF4ZXMuZ2V0X3hsaW0oKSwgZXZlbnQuaW5heGVzLmdldF95bGltKCkpKQogICAgICAgICAgICAjIOaJi+Wei+WFieaghwogICAgICAgICAgICBzZWxmLnNldEN1cnNvcihRdC5DdXJzb3JTaGFwZS5DbG9zZWRIYW5kQ3Vyc29yKQogICAgICAgICMg5Y+M5Ye76YeN572uCiAgICAgICAgZWxpZiBldmVudC5kYmxjbGljayBhbmQgZXZlbnQuYnV0dG9uID09IDE6CiAgICAgICAgICAgICMg6L+Y5Y6f5Yiw5Yid5aeL6KeG5Zu+CiAgICAgICAgICAgIGZvciBheCBpbiBzZWxmLmF4ZXM6CiAgICAgICAgICAgICAgICBheC5hdXRvc2NhbGUoKQogICAgICAgICAgICAgICAgYXgucmVsaW0oKQogICAgICAgICAgICBpZiBldmVudC5pbmF4ZXMgaW4gc2VsZi5faG9tZV92aWV3czoKICAgICAgICAgICAgICAgIHhsLCB5bCA9IHNlbGYuX2hvbWVfdmlld3NbZXZlbnQuaW5heGVzXQogICAgICAgICAgICAgICAgZXZlbnQuaW5heGVzLnNldF94bGltKHhsKQogICAgICAgICAgICAgICAgZXZlbnQuaW5heGVzLnNldF95bGltKHlsKQogICAgICAgICAgICAgICAgZGVsIHNlbGYuX2hvbWVfdmlld3NbZXZlbnQuaW5heGVzXQogICAgICAgICAgICBzZWxmLmRyYXcoKQoKICAgIGRlZiBfb25fcmVsZWFzZShzZWxmLCBldmVudCk6CiAgICAgICAgc2VsZi5fcGFuX2F4ID0gTm9uZQogICAgICAgIHNlbGYuX3Bhbl9zdGFydCA9IE5vbmUKICAgICAgICBzZWxmLnNldEN1cnNvcihRdC5DdXJzb3JTaGFwZS5BcnJvd0N1cnNvcikKCiAgICBkZWYgX29uX3Njcm9sbChzZWxmLCBldmVudCk6CiAgICAgICAgaWYgZXZlbnQuaW5heGVzIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIHNjYWxlID0gMC44NSBpZiBldmVudC5idXR0b24gPT0gJ3VwJyBlbHNlIDEuMTUKICAgICAgICB4bCA9IGV2ZW50LmluYXhlcy5nZXRfeGxpbSgpCiAgICAgICAgeWwgPSBldmVudC5pbmF4ZXMuZ2V0X3lsaW0oKQogICAgICAgIGN4LCBjeSA9IGV2ZW50LnhkYXRhLCBldmVudC55ZGF0YQogICAgICAgICMg56ys5LiA5qyh5rua6L2u5pe25L+d5a2Y5Yid5aeL6KeG5Zu+CiAgICAgICAgc2VsZi5faG9tZV92aWV3cy5zZXRkZWZhdWx0KGV2ZW50LmluYXhlcywgKHhsLCB5bCkpCiAgICAgICAgZXZlbnQuaW5heGVzLnNldF94bGltKFtjeCAtIChjeCAtIHhsWzBdKSAqIHNjYWxlLCBjeCArICh4bFsxXSAtIGN4KSAqIHNjYWxlXSkKICAgICAgICBldmVudC5pbmF4ZXMuc2V0X3lsaW0oW2N5IC0gKGN5IC0geWxbMF0pICogc2NhbGUsIGN5ICsgKHlsWzFdIC0gY3kpICogc2NhbGVdKQogICAgICAgIHNlbGYuZHJhdygpCgogICAgZGVmIHNldF9zdGF0dXNfY2FsbGJhY2soc2VsZiwgY2IpOgogICAgICAgIHNlbGYuX3N0YXR1c19jYiA9IGNiCgogICAgZGVmIGNsZWFyX2FsbChzZWxmKToKICAgICAgICBmb3IgYXggaW4gc2VsZi5heGVzOgogICAgICAgICAgICBheC5jbGVhcigpCiAgICAgICAgc2VsZi5hbm5vdGF0aW9ucy5jbGVhcigpCgogICAgZGVmIGFkZF9zcGFuX3NlbGVjdG9yKHNlbGYsIGF4X2lkeD0wLCBjYWxsYmFjaz1Ob25lKToKICAgICAgICAiIiLmt7vliqDot6jluqbpgInmi6nlmagiIiIKICAgICAgICBzcyA9IFNwYW5TZWxlY3RvcihzZWxmLmF4ZXNbYXhfaWR4XSwgY2FsbGJhY2sgb3IgKGxhbWJkYSB4bWluLCB4bWF4OiBOb25lKSwKICAgICAgICAgICAgICAgICAgICAgICAgICdob3Jpem9udGFsJywgdXNlYmxpdD1UcnVlLAogICAgICAgICAgICAgICAgICAgICAgICAgcHJvcHM9ZGljdChhbHBoYT0wLjIsIGZhY2Vjb2xvcj0nIzU2OWNkNicpKQogICAgICAgIHNlbGYuc3Bhbl9zZWxlY3RvcnMuYXBwZW5kKHNzKQogICAgICAgIHJldHVybiBzcwoKICAgIGRlZiBhbm5vdGF0ZV9wZWFrKHNlbGYsIGF4X2lkeD0wLCB4PU5vbmUsIHk9Tm9uZSwgdGV4dD1Ob25lKToKICAgICAgICBpZiB4IGlzIE5vbmUgb3IgeSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBhbm4gPSBzZWxmLmF4ZXNbYXhfaWR4XS5hbm5vdGF0ZSgKICAgICAgICAgICAgdGV4dCBvciBmJyh7eDouM2Z9LCB7eTouM2Z9KScsIHh5PSh4LCB5KSwKICAgICAgICAgICAgeHl0ZXh0PSgxMCwgMTApLCB0ZXh0Y29vcmRzPSdvZmZzZXQgcG9pbnRzJywKICAgICAgICAgICAgY29sb3I9J3doaXRlJywgZm9udHNpemU9OCwKICAgICAgICAgICAgYmJveD1kaWN0KGJveHN0eWxlPSdyb3VuZCxwYWQ9MC4zJywgZmFjZWNvbG9yPScjMzMzJywgYWxwaGE9MC44KSwKICAgICAgICAgICAgYXJyb3dwcm9wcz1kaWN0KGFycm93c3R5bGU9Jy0+JywgY29sb3I9JyM1NjljZDYnKQogICAgICAgICkKICAgICAgICBzZWxmLmFubm90YXRpb25zLmFwcGVuZChhbm4pCgogICAgZGVmIGZpbmRfcGVha3NfcGxvdChzZWxmLCBheF9pZHg9MCwgZGF0YV94PU5vbmUsIGRhdGFfeT1Ob25lLCBuX3BlYWtzPTUpOgogICAgICAgICIiIuiHquWKqOaJvuWzsOWAvOW5tuagh+azqCIiIgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBmaW5kX3BlYWtzCiAgICAgICAgaWYgZGF0YV95IGlzIE5vbmUgYW5kIGxlbihzZWxmLmF4ZXNbYXhfaWR4XS5saW5lcykgPiAwOgogICAgICAgICAgICBsaW5lID0gc2VsZi5heGVzW2F4X2lkeF0ubGluZXNbLTFdCiAgICAgICAgICAgIGRhdGFfeCA9IGxpbmUuZ2V0X3hkYXRhKCkKICAgICAgICAgICAgZGF0YV95ID0gbGluZS5nZXRfeWRhdGEoKQogICAgICAgIGlmIGRhdGFfeSBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4KICAgICAgICBwZWFrcywgcHJvcHMgPSBmaW5kX3BlYWtzKG5wLmFicyhkYXRhX3kpLCBkaXN0YW5jZT0xMCkKICAgICAgICBpZiBsZW4ocGVha3MpID4gbl9wZWFrczoKICAgICAgICAgICAgaWR4ID0gbnAuYXJnc29ydChucC5hYnMoZGF0YV95W3BlYWtzXSkpWy1uX3BlYWtzOl0KICAgICAgICAgICAgcGVha3MgPSBwZWFrc1tpZHhdCiAgICAgICAgZm9yIHAgaW4gcGVha3M6CiAgICAgICAgICAgIHNlbGYuYW5ub3RhdGVfcGVhayhheF9pZHgsIGRhdGFfeFtwXSwgZGF0YV95W3BdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmJ3tkYXRhX3hbcF06LjJmfSwge2RhdGFfeVtwXTouM2Z9JykKCiAgICBkZWYgcmVmcmVzaChzZWxmKToKICAgICAgICBzZWxmLmZpZy50aWdodF9sYXlvdXQoKQogICAgICAgIHNlbGYuZHJhdygpCgogICAgZGVmIHNhdmVfZmlndXJlKHNlbGYsIHBhdGg6IHN0cik6CiAgICAgICAgc2VsZi5maWcuc2F2ZWZpZyhwYXRoLCBkcGk9MTUwLCBmYWNlY29sb3I9c2VsZi5maWcuZ2V0X2ZhY2Vjb2xvcigpKQoKCmNsYXNzIFNpZ25hbENhbnZhcyhJbnRlcmFjdGl2ZURDYW52YXMpOgogICAgIiIi5L+h5Y+35LiT55So55S75biDIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGRhcms9VHJ1ZSwgZmlnc2l6ZT0oMTAsIDYpKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5yb3dzPTEsIG5jb2xzPTEsIGZpZ3NpemU9Zmlnc2l6ZSwgZGFyaz1kYXJrKQoKICAgIGRlZiBwbG90X3NpZ25hbChzZWxmLCBzaWduYWwsIHN0eWxlPSdsaW5lJywgY29sb3I9JyM1NjljZDYnLCBhbHBoYT0xLjApOgogICAgICAgIGF4ID0gc2VsZi5heGVzWzBdCiAgICAgICAgaWYgc3R5bGUgPT0gJ3N0ZW0nOgogICAgICAgICAgICBzdGVwID0gbWF4KDEsIGxlbihzaWduYWwudCkgLy8gNTAwKQogICAgICAgICAgICBtbCwgc2wsIGJsID0gYXguc3RlbShzaWduYWwudFs6OnN0ZXBdLCBzaWduYWwueVs6OnN0ZXBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbD1zaWduYWwubmFtZSkKICAgICAgICAgICAgcGx0LnNldHAobWwsICdjb2xvcicsIGNvbG9yKQogICAgICAgICAgICBwbHQuc2V0cGEoc2wsICdjb2xvcicsIGNvbG9yKQogICAgICAgICAgICBwbHQuc2V0cChibCwgJ2NvbG9yJywgY29sb3IpCiAgICAgICAgZWxpZiBzdHlsZSA9PSAnZG90cyc6CiAgICAgICAgICAgIGF4LnNjYXR0ZXIoc2lnbmFsLnQsIHNpZ25hbC55LCBzPTEsIGNvbG9yPWNvbG9yLCBhbHBoYT1hbHBoYSwgbGFiZWw9c2lnbmFsLm5hbWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYXgucGxvdChzaWduYWwudCwgc2lnbmFsLnksIGNvbG9yPWNvbG9yLCBsaW5ld2lkdGg9MSwgYWxwaGE9YWxwaGEsIGxhYmVsPXNpZ25hbC5uYW1lKQogICAgICAgIGF4LnNldF94bGFiZWwoIlRpbWUgKHMpIikKICAgICAgICBheC5zZXRfeWxhYmVsKCJBbXBsaXR1ZGUiKQogICAgICAgIGF4LmdyaWQoVHJ1ZSwgYWxwaGE9MC4zKQogICAgICAgIGlmIGxlbihzZWxmLmF4ZXNbMF0ubGluZXMpID4gMToKICAgICAgICAgICAgYXgubGVnZW5kKGZvbnRzaXplPTgpCiAgICAgICAgc2VsZi5yZWZyZXNoKCkKCiAgICBkZWYgcGxvdF9tdWx0aShzZWxmLCBzaWduYWxzOiBsaXN0LCBjb2xvcnM9Tm9uZSk6CiAgICAgICAgYXggPSBzZWxmLmF4ZXNbMF0KICAgICAgICBpZiBjb2xvcnMgaXMgTm9uZToKICAgICAgICAgICAgY29sb3JzID0gWycjNTY5Y2Q2JywgJyNkY2RjYWEnLCAnI2NlOTE3OCcsICcjNGVjOWIwJywgJyNjNTg2YzAnLAogICAgICAgICAgICAgICAgICAgICAgJyM5Y2RjZmUnLCAnI2QxNjk2OScsICcjNjA4YjRlJ10KICAgICAgICBmb3Igc2lnLCBjIGluIHppcChzaWduYWxzLCBjb2xvcnMgKiAobGVuKHNpZ25hbHMpLy9sZW4oY29sb3JzKSsxKSk6CiAgICAgICAgICAgIGF4LnBsb3Qoc2lnLnQsIHNpZy55LCBjb2xvcj1jLCBsaW5ld2lkdGg9MSwgbGFiZWw9c2lnLm5hbWUsIGFscGhhPTAuOCkKICAgICAgICBheC5zZXRfeGxhYmVsKCJUaW1lIChzKSIpCiAgICAgICAgYXguc2V0X3lsYWJlbCgiQW1wbGl0dWRlIikKICAgICAgICBheC5ncmlkKFRydWUsIGFscGhhPTAuMykKICAgICAgICBheC5sZWdlbmQoZm9udHNpemU9OCwgbG9jPSd1cHBlciByaWdodCcpCiAgICAgICAgc2VsZi5yZWZyZXNoKCkK
+"""交互式绘图画布 v2.0 — 光标测量、缩放平移、峰值检测"""
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+from matplotlib.backends.backend_qtagg import FigureCanvasQTAgg as FigureCanvas
+from matplotlib.figure import Figure
+from matplotlib.widgets import Cursor, SpanSelector
+from PyQt6.QtCore import Qt
+
+
+class InteractiveCanvas(FigureCanvas):
+    """增强版 matplotlib 画布 — 内置游标、缩放平移、跨度选择"""
+    def __init__(self, nrows=1, ncols=1, figsize=(8, 5), dpi=100, dark=True):
+        self.dark_mode = dark
+        self._setup_style()
+        self.fig = Figure(figsize=figsize, dpi=dpi, tight_layout=True)
+        self.axes_arr = self.fig.subplots(nrows, ncols, squeeze=False)
+        self.axes = self.axes_arr.flatten()
+        super().__init__(self.fig)
+        self.cursors: list[Cursor] = []
+        self.span_selectors: list[SpanSelector] = []
+        self.annotations: list = []
+        self._pan_start = None
+        self._home_views = {}  # 保存各子图初始视图范围
+        self._setup_cursor()
+        self._connect_events()
+
+    def _setup_style(self):
+        if self.dark_mode:
+            matplotlib.rcParams.update({
+                'figure.facecolor': '#1e1e1e',
+                'axes.facecolor': '#252526',
+                'axes.edgecolor': '#555',
+                'axes.labelcolor': '#cccccc',
+                'text.color': '#cccccc',
+                'xtick.color': '#999',
+                'ytick.color': '#999',
+                'grid.color': '#444',
+                'grid.alpha': 0.5,
+            })
+
+    def _setup_cursor(self):
+        for ax in self.axes:
+            self.cursors.append(Cursor(ax, useblit=True, color='#888', linewidth=0.5, linestyle='--'))
+
+    def _connect_events(self):
+        self.fig.canvas.mpl_connect('motion_notify_event', self._on_motion)
+        self.fig.canvas.mpl_connect('button_press_event', self._on_press)
+        self.fig.canvas.mpl_connect('button_release_event', self._on_release)
+        self.fig.canvas.mpl_connect('scroll_event', self._on_scroll)
+        self._hover_annot = None
+        self._pan_ax = None
+
+    def _on_motion(self, event):
+        """鼠标移动 — 悬停坐标 + 拖拽平移"""
+        # 状态栏坐标
+        if event.inaxes and hasattr(self, '_status_cb') and self._status_cb:
+            self._status_cb(f"x={event.xdata:.4f}, y={event.ydata:.4f}")
+        # 平移
+        if self._pan_ax is None or self._pan_start is None:
+            return
+        if event.inaxes is None:
+            return
+        dx = self._pan_start[0] - event.xdata
+        dy = self._pan_start[1] - event.ydata
+        xl = self._pan_ax.get_xlim()
+        yl = self._pan_ax.get_ylim()
+        self._pan_ax.set_xlim(xl[0] + dx, xl[1] + dx)
+        self._pan_ax.set_ylim(yl[0] + dy, yl[1] + dy)
+        self.draw()
+
+    def _on_press(self, event):
+        if event.inaxes is None:
+            return
+        # 中键/右键拖动平移
+        if event.button in (2, 3):  # 中键=2, 右键=3
+            self._pan_ax = event.inaxes
+            self._pan_start = (event.xdata, event.ydata)
+            # 第一次平移前保存初始视图
+            self._home_views.setdefault(event.inaxes,
+                (event.inaxes.get_xlim(), event.inaxes.get_ylim()))
+            # 手型光标
+            self.setCursor(Qt.CursorShape.ClosedHandCursor)
+        # 双击重置
+        elif event.dblclick and event.button == 1:
+            # 还原到初始视图
+            for ax in self.axes:
+                ax.autoscale()
+                ax.relim()
+            if event.inaxes in self._home_views:
+                xl, yl = self._home_views[event.inaxes]
+                event.inaxes.set_xlim(xl)
+                event.inaxes.set_ylim(yl)
+                del self._home_views[event.inaxes]
+            self.draw()
+
+    def _on_release(self, event):
+        self._pan_ax = None
+        self._pan_start = None
+        self.setCursor(Qt.CursorShape.ArrowCursor)
+
+    def _on_scroll(self, event):
+        if event.inaxes is None:
+            return
+        scale = 0.85 if event.button == 'up' else 1.15
+        xl = event.inaxes.get_xlim()
+        yl = event.inaxes.get_ylim()
+        cx, cy = event.xdata, event.ydata
+        # 第一次滚轮时保存初始视图
+        self._home_views.setdefault(event.inaxes, (xl, yl))
+        event.inaxes.set_xlim([cx - (cx - xl[0]) * scale, cx + (xl[1] - cx) * scale])
+        event.inaxes.set_ylim([cy - (cy - yl[0]) * scale, cy + (yl[1] - cy) * scale])
+        self.draw()
+
+    def set_status_callback(self, cb):
+        self._status_cb = cb
+
+    def clear_all(self):
+        for ax in self.axes:
+            ax.clear()
+        self.annotations.clear()
+
+    def add_span_selector(self, ax_idx=0, callback=None):
+        """添加跨度选择器"""
+        ss = SpanSelector(self.axes[ax_idx], callback or (lambda xmin, xmax: None),
+                         'horizontal', useblit=True,
+                         props=dict(alpha=0.2, facecolor='#569cd6'))
+        self.span_selectors.append(ss)
+        return ss
+
+    def annotate_peak(self, ax_idx=0, x=None, y=None, text=None):
+        if x is None or y is None:
+            return
+        ann = self.axes[ax_idx].annotate(
+            text or f'({x:.3f}, {y:.3f})', xy=(x, y),
+            xytext=(10, 10), textcoords='offset points',
+            color='white', fontsize=8,
+            bbox=dict(boxstyle='round,pad=0.3', facecolor='#333', alpha=0.8),
+            arrowprops=dict(arrowstyle='->', color='#569cd6')
+        )
+        self.annotations.append(ann)
+
+    def find_peaks_plot(self, ax_idx=0, data_x=None, data_y=None, n_peaks=5):
+        """自动找峰值并标注"""
+        from scipy.signal import find_peaks
+        if data_y is None and len(self.axes[ax_idx].lines) > 0:
+            line = self.axes[ax_idx].lines[-1]
+            data_x = line.get_xdata()
+            data_y = line.get_ydata()
+        if data_y is None:
+            return
+        peaks, props = find_peaks(np.abs(data_y), distance=10)
+        if len(peaks) > n_peaks:
+            idx = np.argsort(np.abs(data_y[peaks]))[-n_peaks:]
+            peaks = peaks[idx]
+        for p in peaks:
+            self.annotate_peak(ax_idx, data_x[p], data_y[p],
+                              f'{data_x[p]:.2f}, {data_y[p]:.3f}')
+
+    def refresh(self):
+        self.fig.tight_layout()
+        self.draw()
+
+    def save_figure(self, path: str):
+        self.fig.savefig(path, dpi=150, facecolor=self.fig.get_facecolor())
+
+
+class SignalCanvas(InteractiveCanvas):
+    """信号专用画布 — 可切换连续/离散显示"""
+    def __init__(self, dark=True, figsize=(10, 6)):
+        super().__init__(nrows=1, ncols=1, figsize=figsize, dark=dark)
+
+    def plot_signal(self, signal, style='line', color='#569cd6', alpha=1.0):
+        ax = self.axes[0]
+        if style == 'stem':
+            step = max(1, len(signal.t) // 500)
+            ml, sl, bl = ax.stem(signal.t[::step], signal.y[::step],
+                                 label=signal.name)
+            plt.setp(ml, 'color', color)
+            plt.setp(sl, 'color', color)
+            plt.setp(bl, 'color', color)
+        elif style == 'dots':
+            ax.scatter(signal.t, signal.y, s=1, color=color, alpha=alpha, label=signal.name)
+        else:
+            ax.plot(signal.t, signal.y, color=color, linewidth=1, alpha=alpha, label=signal.name)
+        ax.set_xlabel("Time (s)")
+        ax.set_ylabel("Amplitude")
+        ax.grid(True, alpha=0.3)
+        if len(self.axes[0].lines) > 1:
+            ax.legend(fontsize=8)
+        self.refresh()
+
+    def plot_multi(self, signals: list, colors=None):
+        ax = self.axes[0]
+        if colors is None:
+            colors = ['#569cd6', '#dcdcaa', '#ce9178', '#4ec9b0', '#c586c0',
+                      '#9cdcfe', '#d16969', '#608b4e']
+        for sig, c in zip(signals, colors * (len(signals)//len(colors)+1)):
+            ax.plot(sig.t, sig.y, color=c, linewidth=1, label=sig.name, alpha=0.8)
+        ax.set_xlabel("Time (s)")
+        ax.set_ylabel("Amplitude")
+        ax.grid(True, alpha=0.3)
+        ax.legend(fontsize=8, loc='upper right')
+        self.refresh()

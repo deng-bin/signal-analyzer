@@ -1,1 +1,389 @@
-IiIi5L+h5Y+355Sf5oiQ44CB5a+85YWl5a+85Ye65byV5pOOIHYyLjAg4oCUIDIwKyDkv6Hlj7fnsbvlnosiIiIKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsLCBDYWxsYWJsZQppbXBvcnQgdXVpZAppbXBvcnQgY3N2CmltcG9ydCBvcwoKCkBkYXRhY2xhc3MKY2xhc3MgU2lnbmFsOgogICAgIiIi5L+h5Y+35pWw5o2u57uT5p6EIiIiCiAgICBuYW1lOiBzdHIKICAgIHQ6IG5wLm5kYXJyYXkKICAgIHk6IG5wLm5kYXJyYXkKICAgIHNpZ25hbF90eXBlOiBzdHIgPSAiY29udGludW91cyIKICAgIHBhcmFtczogZGljdCA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1kaWN0KQogICAgaWQ6IHN0ciA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1sYW1iZGE6IHN0cih1dWlkLnV1aWQ0KCkpWzo4XSkKICAgIGZzOiBmbG9hdCA9IDEwMDAuMAogICAgZGVzY3JpcHRpb246IHN0ciA9ICIiCgogICAgZGVmIF9fcG9zdF9pbml0X18oc2VsZik6CiAgICAgICAgaWYgc2VsZi5mcyA9PSAxMDAwLjAgYW5kIGxlbihzZWxmLnQpID4gMToKICAgICAgICAgICAgc2VsZi5mcyA9IDEuMCAvIChzZWxmLnRbMV0gLSBzZWxmLnRbMF0pCiAgICAgICAgaWYgbm90IHNlbGYuZGVzY3JpcHRpb246CiAgICAgICAgICAgIHNlbGYuZGVzY3JpcHRpb24gPSBzZWxmLm5hbWUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBkdChzZWxmKSAtPiBmbG9hdDoKICAgICAgICByZXR1cm4gMS4wIC8gc2VsZi5mcyBpZiBzZWxmLmZzID4gMCBlbHNlIDAuMDAxCgogICAgQHByb3BlcnR5CiAgICBkZWYgZHVyYXRpb24oc2VsZikgLT4gZmxvYXQ6CiAgICAgICAgcmV0dXJuIGZsb2F0KHNlbGYudFstMV0gLSBzZWxmLnRbMF0pIGlmIGxlbihzZWxmLnQpID4gMCBlbHNlIDAKCiAgICBAcHJvcGVydHkKICAgIGRlZiBuX3NhbXBsZXMoc2VsZikgLT4gaW50OgogICAgICAgIHJldHVybiBsZW4oc2VsZi55KQoKICAgIGRlZiBjb3B5KHNlbGYpIC0+ICJTaWduYWwiOgogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1zZWxmLm5hbWUgKyAiX2NvcHkiLCB0PXNlbGYudC5jb3B5KCksIHk9c2VsZi55LmNvcHkoKSwKICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbF90eXBlPXNlbGYuc2lnbmFsX3R5cGUsIHBhcmFtcz1zZWxmLnBhcmFtcy5jb3B5KCksCiAgICAgICAgICAgICAgICAgICAgICBmcz1zZWxmLmZzLCBkZXNjcmlwdGlvbj1zZWxmLmRlc2NyaXB0aW9uKQoKCmNsYXNzIFNpZ25hbEdlbmVyYXRvcjoKICAgICIiIuS/oeWPt+eUn+aIkOWZqCDigJQgMjArIOenjeS/oeWPt+exu+WeiyIiIgoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbWFrZV90aW1lKGR1cmF0aW9uOiBmbG9hdCwgZnM6IGZsb2F0LCBkaXNjcmV0ZTogYm9vbCkgLT4gbnAubmRhcnJheToKICAgICAgICBuID0gaW50KGR1cmF0aW9uICogZnMpCiAgICAgICAgcmV0dXJuIG5wLmFyYW5nZShuKSAvIGZzIGlmIGRpc2NyZXRlIGVsc2UgbnAubGluc3BhY2UoMCwgZHVyYXRpb24sIG4sIGVuZHBvaW50PUZhbHNlKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzaW5lKGZyZXE9MS4wLCBhbXA9MS4wLCBwaGFzZT0wLjAsIGR1cmF0aW9uPTIuMCwgZnM9MTAwMC4wLCBkaXNjcmV0ZT1GYWxzZSkgLT4gU2lnbmFsOgogICAgICAgIHQgPSBTaWduYWxHZW5lcmF0b3IuX21ha2VfdGltZShkdXJhdGlvbiwgZnMsIGRpc2NyZXRlKQogICAgICAgIHkgPSBhbXAgKiBucC5zaW4oMiAqIG5wLnBpICogZnJlcSAqIHQgKyBwaGFzZSkKICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9ZiJzaW4oe2ZyZXF9SHopIiwgdD10LCB5PXksIGZzPWZzLAogICAgICAgICAgICAgICAgICAgICAgc2lnbmFsX3R5cGU9ImRpc2NyZXRlIiBpZiBkaXNjcmV0ZSBlbHNlICJjb250aW51b3VzIiwKICAgICAgICAgICAgICAgICAgICAgIHBhcmFtcz17ImZyZXEiOiBmcmVxLCAiYW1wIjogYW1wLCAicGhhc2UiOiBwaGFzZX0sCiAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbj1mIuato+W8puazoiB7ZnJlcX1IeiIpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNvc2luZShmcmVxPTEuMCwgYW1wPTEuMCwgcGhhc2U9MC4wLCBkdXJhdGlvbj0yLjAsIGZzPTEwMDAuMCwgZGlzY3JldGU9RmFsc2UpIC0+IFNpZ25hbDoKICAgICAgICB0ID0gU2lnbmFsR2VuZXJhdG9yLl9tYWtlX3RpbWUoZHVyYXRpb24sIGZzLCBkaXNjcmV0ZSkKICAgICAgICB5ID0gYW1wICogbnAuY29zKDIgKiBucC5waSAqIGZyZXEgKiB0ICsgcGhhc2UpCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYiY29zKHtmcmVxfUh6KSIsIHQ9dCwgeT15LCBmcz1mcywKICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbF90eXBlPSJkaXNjcmV0ZSIgaWYgZGlzY3JldGUgZWxzZSAiY29udGludW91cyIsCiAgICAgICAgICAgICAgICAgICAgICBwYXJhbXM9eyJmcmVxIjogZnJlcSwgImFtcCI6IGFtcCwgInBoYXNlIjogcGhhc2V9KQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzcXVhcmUoZnJlcT0xLjAsIGFtcD0xLjAsIGR1dHk9MC41LCBkdXJhdGlvbj0yLjAsIGZzPTEwMDAuMCwgZGlzY3JldGU9RmFsc2UpIC0+IFNpZ25hbDoKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgc3F1YXJlIGFzIHNxCiAgICAgICAgdCA9IFNpZ25hbEdlbmVyYXRvci5fbWFrZV90aW1lKGR1cmF0aW9uLCBmcywgZGlzY3JldGUpCiAgICAgICAgeSA9IGFtcCAqIHNxKDIgKiBucC5waSAqIGZyZXEgKiB0LCBkdXR5KQogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mInNxdWFyZSh7ZnJlcX1IeikiLCB0PXQsIHk9eSwgZnM9ZnMsCiAgICAgICAgICAgICAgICAgICAgICBzaWduYWxfdHlwZT0iZGlzY3JldGUiIGlmIGRpc2NyZXRlIGVsc2UgImNvbnRpbnVvdXMiLAogICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXsiZnJlcSI6IGZyZXEsICJhbXAiOiBhbXAsICJkdXR5IjogZHV0eX0pCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHNhd3Rvb3RoKGZyZXE9MS4wLCBhbXA9MS4wLCB3aWR0aD0xLjAsIGR1cmF0aW9uPTIuMCwgZnM9MTAwMC4wLCBkaXNjcmV0ZT1GYWxzZSkgLT4gU2lnbmFsOgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBzYXd0b290aCBhcyBzdwogICAgICAgIHQgPSBTaWduYWxHZW5lcmF0b3IuX21ha2VfdGltZShkdXJhdGlvbiwgZnMsIGRpc2NyZXRlKQogICAgICAgIHkgPSBhbXAgKiBzdygyICogbnAucGkgKiBmcmVxICogdCwgd2lkdGgpCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYic2F3dG9vdGgoe2ZyZXF9SHopIiwgdD10LCB5PXksIGZzPWZzLAogICAgICAgICAgICAgICAgICAgICAgc2lnbmFsX3R5cGU9ImRpc2NyZXRlIiBpZiBkaXNjcmV0ZSBlbHNlICJjb250aW51b3VzIiwKICAgICAgICAgICAgICAgICAgICAgIHBhcmFtcz17ImZyZXEiOiBmcmVxLCAiYW1wIjogYW1wLCAid2lkdGgiOiB3aWR0aH0pCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHRyaWFuZ2xlKGZyZXE9MS4wLCBhbXA9MS4wLCBkdXJhdGlvbj0yLjAsIGZzPTEwMDAuMCwgZGlzY3JldGU9RmFsc2UpIC0+IFNpZ25hbDoKICAgICAgICB0ID0gU2lnbmFsR2VuZXJhdG9yLl9tYWtlX3RpbWUoZHVyYXRpb24sIGZzLCBkaXNjcmV0ZSkKICAgICAgICBwZXJpb2QgPSAxLjAgLyBmcmVxCiAgICAgICAgeSA9IGFtcCAqICgyICogbnAuYWJzKDIgKiAodCAvIHBlcmlvZCAtIG5wLmZsb29yKHQgLyBwZXJpb2QgKyAwLjUpKSkgLSAxKQogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mInRyaWFuZ2xlKHtmcmVxfUh6KSIsIHQ9dCwgeT15LCBmcz1mcywKICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbF90eXBlPSJkaXNjcmV0ZSIgaWYgZGlzY3JldGUgZWxzZSAiY29udGludW91cyIsCiAgICAgICAgICAgICAgICAgICAgICBwYXJhbXM9eyJmcmVxIjogZnJlcSwgImFtcCI6IGFtcH0pCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNoaXJwKGYwPTEuMCwgZjE9MTAwLjAsIGFtcD0xLjAsIGR1cmF0aW9uPTIuMCwgZnM9MTAwMC4wLAogICAgICAgICAgICAgIG1ldGhvZD0nbGluZWFyJywgZGlzY3JldGU9RmFsc2UpIC0+IFNpZ25hbDoKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgY2hpcnAgYXMgc2NpcHlfY2hpcnAKICAgICAgICB0ID0gU2lnbmFsR2VuZXJhdG9yLl9tYWtlX3RpbWUoZHVyYXRpb24sIGZzLCBkaXNjcmV0ZSkKICAgICAgICB5ID0gYW1wICogc2NpcHlfY2hpcnAodCwgZjA9ZjAsIGYxPWYxLCB0MT1kdXJhdGlvbiwgbWV0aG9kPW1ldGhvZCkKICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9ZiJjaGlycCh7ZjB9LXtmMX1IeikiLCB0PXQsIHk9eSwgZnM9ZnMsCiAgICAgICAgICAgICAgICAgICAgICBzaWduYWxfdHlwZT0iZGlzY3JldGUiIGlmIGRpc2NyZXRlIGVsc2UgImNvbnRpbnVvdXMiLAogICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXsiZjAiOiBmMCwgImYxIjogZjEsICJhbXAiOiBhbXAsICJtZXRob2QiOiBtZXRob2R9KQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBpbXB1bHNlKGR1cmF0aW9uPTIuMCwgZnM9MTAwMC4wLCBkaXNjcmV0ZT1GYWxzZSkgLT4gU2lnbmFsOgogICAgICAgIHQgPSBTaWduYWxHZW5lcmF0b3IuX21ha2VfdGltZShkdXJhdGlvbiwgZnMsIGRpc2NyZXRlKQogICAgICAgIHkgPSBucC56ZXJvc19saWtlKHQpCiAgICAgICAgeVswXSA9IDEuMAogICAgICAgIHJldHVybiBTaWduYWwobmFtZT0izrQodCkgaW1wdWxzZSIsIHQ9dCwgeT15LCBmcz1mcywKICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbF90eXBlPSJkaXNjcmV0ZSIgaWYgZGlzY3JldGUgZWxzZSAiY29udGludW91cyIpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHN0ZXAoZHVyYXRpb249Mi4wLCBmcz0xMDAwLjAsIGRpc2NyZXRlPUZhbHNlKSAtPiBTaWduYWw6CiAgICAgICAgdCA9IFNpZ25hbEdlbmVyYXRvci5fbWFrZV90aW1lKGR1cmF0aW9uLCBmcywgZGlzY3JldGUpCiAgICAgICAgeSA9IG5wLm9uZXNfbGlrZSh0KQogICAgICAgIHJldHVybiBTaWduYWwobmFtZT0idSh0KSBzdGVwIiwgdD10LCB5PXksIGZzPWZzLAogICAgICAgICAgICAgICAgICAgICAgc2lnbmFsX3R5cGU9ImRpc2NyZXRlIiBpZiBkaXNjcmV0ZSBlbHNlICJjb250aW51b3VzIikKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgbm9pc2UoZHVyYXRpb249Mi4wLCBmcz0xMDAwLjAsIHN0ZD0wLjEsIGNvbG9yPSd3aGl0ZScsIGRpc2NyZXRlPUZhbHNlKSAtPiBTaWduYWw6CiAgICAgICAgIiIi55m95Zmq5aOwL+eyiee6ouWZquWjsC/luIPmnJflmarlo7AiIiIKICAgICAgICB0ID0gU2lnbmFsR2VuZXJhdG9yLl9tYWtlX3RpbWUoZHVyYXRpb24sIGZzLCBkaXNjcmV0ZSkKICAgICAgICBuID0gbGVuKHQpCiAgICAgICAgaWYgY29sb3IgPT0gJ3doaXRlJzoKICAgICAgICAgICAgeSA9IHN0ZCAqIG5wLnJhbmRvbS5yYW5kbihuKQogICAgICAgIGVsaWYgY29sb3IgPT0gJ3BpbmsnOgogICAgICAgICAgICB3aGl0ZSA9IG5wLnJhbmRvbS5yYW5kbihuKQogICAgICAgICAgICBwaW5rID0gbnAuY3Vtc3VtKHdoaXRlKSAvIG5wLnNxcnQobnAuYXJhbmdlKDEsIG4gKyAxKSkKICAgICAgICAgICAgeSA9IHN0ZCAqIHBpbmsgLyBucC5zdGQocGluaykKICAgICAgICBlbGlmIGNvbG9yID09ICdicm93bic6CiAgICAgICAgICAgIHkgPSBzdGQgKiBucC5jdW1zdW0obnAucmFuZG9tLnJhbmRuKG4pKSAvIG5wLnNxcnQobikKICAgICAgICBlbHNlOgogICAgICAgICAgICB5ID0gc3RkICogbnAucmFuZG9tLnJhbmRuKG4pCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYie2NvbG9yfSBub2lzZSIsIHQ9dCwgeT15LCBmcz1mcywKICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbF90eXBlPSJkaXNjcmV0ZSIgaWYgZGlzY3JldGUgZWxzZSAiY29udGludW91cyIsCiAgICAgICAgICAgICAgICAgICAgICBwYXJhbXM9eyJzdGQiOiBzdGQsICJjb2xvciI6IGNvbG9yfSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZ2F1c3NpYW5fcHVsc2UoY2VudGVyPTAuNSwgc2lnbWE9MC4wNSwgYW1wPTEuMCwgZHVyYXRpb249MS4wLCBmcz0xMDAwLjAsIGRpc2NyZXRlPUZhbHNlKSAtPiBTaWduYWw6CiAgICAgICAgdCA9IFNpZ25hbEdlbmVyYXRvci5fbWFrZV90aW1lKGR1cmF0aW9uLCBmcywgZGlzY3JldGUpCiAgICAgICAgeSA9IGFtcCAqIG5wLmV4cCgtMC41ICogKCh0IC0gY2VudGVyKSAvIHNpZ21hKSAqKiAyKQogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mIkdhdXNzaWFuKM+DPXtzaWdtYX0pIiwgdD10LCB5PXksIGZzPWZzLAogICAgICAgICAgICAgICAgICAgICAgc2lnbmFsX3R5cGU9ImRpc2NyZXRlIiBpZiBkaXNjcmV0ZSBlbHNlICJjb250aW51b3VzIikKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgc2luY19wdWxzZShmYz0xMC4wLCBhbXA9MS4wLCBkdXJhdGlvbj0yLjAsIGZzPTEwMDAuMCwgZGlzY3JldGU9RmFsc2UpIC0+IFNpZ25hbDoKICAgICAgICB0ID0gU2lnbmFsR2VuZXJhdG9yLl9tYWtlX3RpbWUoZHVyYXRpb24sIGZzLCBkaXNjcmV0ZSkKICAgICAgICB0X2NlbnRlcmVkID0gdCAtIGR1cmF0aW9uIC8gMgogICAgICAgIHkgPSBhbXAgKiBucC5zaW5jKDIgKiBmYyAqIHRfY2VudGVyZWQpCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYic2luYyh7ZmN9SHopIiwgdD10LCB5PXksIGZzPWZzLAogICAgICAgICAgICAgICAgICAgICAgc2lnbmFsX3R5cGU9ImRpc2NyZXRlIiBpZiBkaXNjcmV0ZSBlbHNlICJjb250aW51b3VzIikKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZXhwb25lbnRpYWxfZGVjYXkodGF1PTAuMSwgYW1wPTEuMCwgZHVyYXRpb249MS4wLCBmcz0xMDAwLjAsIGRpc2NyZXRlPUZhbHNlKSAtPiBTaWduYWw6CiAgICAgICAgdCA9IFNpZ25hbEdlbmVyYXRvci5fbWFrZV90aW1lKGR1cmF0aW9uLCBmcywgZGlzY3JldGUpCiAgICAgICAgeSA9IGFtcCAqIG5wLmV4cCgtdCAvIHRhdSkKICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9ZiJkZWNheSjPhD17dGF1fSkiLCB0PXQsIHk9eSwgZnM9ZnMsCiAgICAgICAgICAgICAgICAgICAgICBzaWduYWxfdHlwZT0iZGlzY3JldGUiIGlmIGRpc2NyZXRlIGVsc2UgImNvbnRpbnVvdXMiKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBhbV9tb2R1bGF0aW9uKGNhcnJpZXI9MTAwLjAsIG1vZHVsYXRvcj01LjAsIGFtcD0xLjAsIGRlcHRoPTAuOCwKICAgICAgICAgICAgICAgICAgICAgIGR1cmF0aW9uPTEuMCwgZnM9MjAwMC4wLCBkaXNjcmV0ZT1GYWxzZSkgLT4gU2lnbmFsOgogICAgICAgIHQgPSBTaWduYWxHZW5lcmF0b3IuX21ha2VfdGltZShkdXJhdGlvbiwgZnMsIGRpc2NyZXRlKQogICAgICAgIHkgPSBhbXAgKiAoMSArIGRlcHRoICogbnAuc2luKDIgKiBucC5waSAqIG1vZHVsYXRvciAqIHQpKSAqIG5wLmNvcygyICogbnAucGkgKiBjYXJyaWVyICogdCkKICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9ZiJBTSh7Y2Fycmllcn1Ieit7bW9kdWxhdG9yfUh6KSIsIHQ9dCwgeT15LCBmcz1mcywKICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbF90eXBlPSJkaXNjcmV0ZSIgaWYgZGlzY3JldGUgZWxzZSAiY29udGludW91cyIpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGZtX21vZHVsYXRpb24oY2Fycmllcj0xMDAuMCwgbW9kdWxhdG9yPTUuMCwgYW1wPTEuMCwgZGV2aWF0aW9uPTIwLjAsCiAgICAgICAgICAgICAgICAgICAgICBkdXJhdGlvbj0xLjAsIGZzPTIwMDAuMCwgZGlzY3JldGU9RmFsc2UpIC0+IFNpZ25hbDoKICAgICAgICB0ID0gU2lnbmFsR2VuZXJhdG9yLl9tYWtlX3RpbWUoZHVyYXRpb24sIGZzLCBkaXNjcmV0ZSkKICAgICAgICBpbnRlZ3JhbCA9IG5wLmN1bXN1bShucC5zaW4oMiAqIG5wLnBpICogbW9kdWxhdG9yICogdCkpIC8gZnMKICAgICAgICB5ID0gYW1wICogbnAuY29zKDIgKiBucC5waSAqIGNhcnJpZXIgKiB0ICsgMiAqIG5wLnBpICogZGV2aWF0aW9uICogaW50ZWdyYWwpCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYiRk0oe2NhcnJpZXJ9SHore21vZHVsYXRvcn1IeikiLCB0PXQsIHk9eSwgZnM9ZnMsCiAgICAgICAgICAgICAgICAgICAgICBzaWduYWxfdHlwZT0iZGlzY3JldGUiIGlmIGRpc2NyZXRlIGVsc2UgImNvbnRpbnVvdXMiKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBtdWx0aV90b25lKGZyZXFzOiBsaXN0LCBhbXBzOiBsaXN0ID0gTm9uZSwgZHVyYXRpb249Mi4wLCBmcz0xMDAwLjAsIGRpc2NyZXRlPUZhbHNlKSAtPiBTaWduYWw6CiAgICAgICAgdCA9IFNpZ25hbEdlbmVyYXRvci5fbWFrZV90aW1lKGR1cmF0aW9uLCBmcywgZGlzY3JldGUpCiAgICAgICAgaWYgYW1wcyBpcyBOb25lOgogICAgICAgICAgICBhbXBzID0gWzEuMF0gKiBsZW4oZnJlcXMpCiAgICAgICAgeSA9IG5wLnplcm9zX2xpa2UodCkKICAgICAgICBmb3IgZiwgYSBpbiB6aXAoZnJlcXMsIGFtcHMpOgogICAgICAgICAgICB5ICs9IGEgKiBucC5zaW4oMiAqIG5wLnBpICogZiAqIHQpCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYibXVsdGkoe2xlbihmcmVxcyl9IHRvbmVzKSIsIHQ9dCwgeT15LCBmcz1mcywKICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbF90eXBlPSJkaXNjcmV0ZSIgaWYgZGlzY3JldGUgZWxzZSAiY29udGludW91cyIpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGhhcm1vbmljX3NlcmllcyhmMD01MC4wLCBuX2hhcm1vbmljcz01LCBhbXA9MS4wLCBkZWNheT0wLjUsCiAgICAgICAgICAgICAgICAgICAgICAgIGR1cmF0aW9uPTEuMCwgZnM9MTAwMC4wLCBkaXNjcmV0ZT1GYWxzZSkgLT4gU2lnbmFsOgogICAgICAgIHQgPSBTaWduYWxHZW5lcmF0b3IuX21ha2VfdGltZShkdXJhdGlvbiwgZnMsIGRpc2NyZXRlKQogICAgICAgIHkgPSBucC56ZXJvc19saWtlKHQpCiAgICAgICAgZm9yIGsgaW4gcmFuZ2UoMSwgbl9oYXJtb25pY3MgKyAxKToKICAgICAgICAgICAgeSArPSBhbXAgKiAoZGVjYXkgKiogKGsgLSAxKSkgKiBucC5zaW4oMiAqIG5wLnBpICogZjAgKiBrICogdCkKICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9ZiJoYXJtb25pY3Moe2YwfUh6w5d7bl9oYXJtb25pY3N9KSIsIHQ9dCwgeT15LCBmcz1mcywKICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbF90eXBlPSJkaXNjcmV0ZSIgaWYgZGlzY3JldGUgZWxzZSAiY29udGludW91cyIpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGVjZ19saWtlKGR1cmF0aW9uPTIuMCwgZnM9NTAwLjAsIGJwbT02MC4wLCBkaXNjcmV0ZT1GYWxzZSkgLT4gU2lnbmFsOgogICAgICAgICIiIuaooeaLn+W/g+eUteS/oeWPtyIiIgogICAgICAgIHQgPSBTaWduYWxHZW5lcmF0b3IuX21ha2VfdGltZShkdXJhdGlvbiwgZnMsIGRpc2NyZXRlKQogICAgICAgIHBlcmlvZCA9IDYwLjAgLyBicG0KICAgICAgICB5ID0gbnAuemVyb3NfbGlrZSh0KQogICAgICAgIGZvciBpIGluIHJhbmdlKGludChkdXJhdGlvbiAvIHBlcmlvZCkgKyAxKToKICAgICAgICAgICAgdDAgPSBpICogcGVyaW9kCiAgICAgICAgICAgIG1hc2sgPSAodCA+PSB0MCkgJiAodCA8IHQwICsgMC40KQogICAgICAgICAgICBpZiBtYXNrLmFueSgpOgogICAgICAgICAgICAgICAgdGMgPSB0W21hc2tdIC0gdDAKICAgICAgICAgICAgICAgIHlbbWFza10gKz0gMC4xICogbnAuZXhwKC0wLjUgKiAoKHRjIC0gMC4wNSkgLyAwLjAxKSAqKiAyKQogICAgICAgICAgICAgICAgeVttYXNrXSArPSAxLjAgKiBucC5leHAoLTAuNSAqICgodGMgLSAwLjA4KSAvIDAuMDA4KSAqKiAyKQogICAgICAgICAgICAgICAgeVttYXNrXSArPSAtMC4zICogbnAuZXhwKC0wLjUgKiAoKHRjIC0gMC4xMikgLyAwLjAxKSAqKiAyKQogICAgICAgICAgICAgICAgeVttYXNrXSArPSAwLjMgKiBucC5leHAoLTAuNSAqICgodGMgLSAwLjIpIC8gMC4wMykgKiogMikKICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9ZiJFQ0coe2JwbX1icG0pIiwgdD10LCB5PXksIGZzPWZzLAogICAgICAgICAgICAgICAgICAgICAgc2lnbmFsX3R5cGU9ImRpc2NyZXRlIiBpZiBkaXNjcmV0ZSBlbHNlICJjb250aW51b3VzIikKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgY3VzdG9tX2V4cHJlc3Npb24oZXhwcjogc3RyLCBkdXJhdGlvbj0yLjAsIGZzPTEwMDAuMCwgZGlzY3JldGU9RmFsc2UpIC0+IFNpZ25hbDoKICAgICAgICAiIiLoh6rlrprkuYnmlbDlraboob7ov5vlvI/vvIzlpoIgJ3NpbigyKnBpKjUqdCkgKiBleHAoLXQpJyIiIgogICAgICAgIHQgPSBTaWduYWxHZW5lcmF0b3IuX21ha2VfdGltZShkdXJhdGlvbiwgZnMsIGRpc2NyZXRlKQogICAgICAgIHNhZmUgPSB7InQiOiB0LCAicGkiOiBucC5waSwgInNpbiI6IG5wLnNpbiwgImNvcyI6IG5wLmNvcywKICAgICAgICAgICAgICAgICJleHAiOiBucC5leHAsICJzcXJ0IjogbnAuc3FydCwgImFicyI6IG5wLmFicywKICAgICAgICAgICAgICAgICJsb2ciOiBucC5sb2csICJ0YW4iOiBucC50YW4sICJzaW5jIjogbnAuc2luYywKICAgICAgICAgICAgICAgICJzaW5oIjogbnAuc2luaCwgImNvc2giOiBucC5jb3NofQogICAgICAgIHRyeToKICAgICAgICAgICAgeSA9IGV2YWwoZXhwciwgeyJfX2J1aWx0aW5zX18iOiB7fX0sIHNhZmUpCiAgICAgICAgICAgIHkgPSBucC5hdGxlYXN0XzFkKG5wLmFycmF5KHksIGR0eXBlPWZsb2F0KSkKICAgICAgICAgICAgaWYgbGVuKHkpID09IDE6CiAgICAgICAgICAgICAgICB5ID0gbnAuZnVsbF9saWtlKHQsIHkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKGYi6KGo6L6+5byP6ZSZ6K+vOiB7ZX0iKQogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mImN1c3RvbToge2V4cHJbOjI1XX0iLCB0PXQsIHk9eSwgZnM9ZnMsCiAgICAgICAgICAgICAgICAgICAgICBzaWduYWxfdHlwZT0iZGlzY3JldGUiIGlmIGRpc2NyZXRlIGVsc2UgImNvbnRpbnVvdXMiLAogICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXsiZXhwciI6IGV4cHJ9KQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBmcm9tX2FycmF5cyh0LCB5LCBuYW1lPSJpbXBvcnRlZCIsIGZzPU5vbmUsIGRpc2NyZXRlPUZhbHNlKSAtPiBTaWduYWw6CiAgICAgICAgdCwgeSA9IG5wLmFycmF5KHQsIGR0eXBlPWZsb2F0KSwgbnAuYXJyYXkoeSwgZHR5cGU9ZmxvYXQpCiAgICAgICAgaWYgZnMgaXMgTm9uZSBhbmQgbGVuKHQpID4gMToKICAgICAgICAgICAgZnMgPSAxLjAgLyAodFsxXSAtIHRbMF0pCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPW5hbWUsIHQ9dCwgeT15LCBmcz1mcyBvciAxMDAwLAogICAgICAgICAgICAgICAgICAgICAgc2lnbmFsX3R5cGU9ImRpc2NyZXRlIiBpZiBkaXNjcmV0ZSBlbHNlICJjb250aW51b3VzIikKCiAgICAjIC0tLS0g5a+85YWl5a+85Ye6IC0tLS0KICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBpbXBvcnRfY3N2KHBhdGg6IHN0cikgLT4gU2lnbmFsOgogICAgICAgIGRhdGEgPSBucC5sb2FkdHh0KHBhdGgsIGRlbGltaXRlcj0nLCcsIHNraXByb3dzPTEpCiAgICAgICAgaWYgZGF0YS5uZGltID09IDE6CiAgICAgICAgICAgIHQgPSBucC5hcmFuZ2UobGVuKGRhdGEpKQogICAgICAgICAgICB5ID0gZGF0YQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHQsIHkgPSBkYXRhWzosIDBdLCBkYXRhWzosIDFdCiAgICAgICAgbmFtZSA9IG9zLnBhdGguc3BsaXRleHQob3MucGF0aC5iYXNlbmFtZShwYXRoKSlbMF0KICAgICAgICByZXR1cm4gU2lnbmFsR2VuZXJhdG9yLmZyb21fYXJyYXlzKHQsIHksIG5hbWU9bmFtZSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgaW1wb3J0X3dhdihwYXRoOiBzdHIpIC0+IFNpZ25hbDoKICAgICAgICBmcm9tIHNjaXB5LmlvIGltcG9ydCB3YXZmaWxlCiAgICAgICAgZnMsIGRhdGEgPSB3YXZmaWxlLnJlYWQocGF0aCkKICAgICAgICBpZiBkYXRhLm5kaW0gPiAxOgogICAgICAgICAgICBkYXRhID0gZGF0YVs6LCAwXQogICAgICAgIHQgPSBucC5hcmFuZ2UobGVuKGRhdGEpKSAvIGZzCiAgICAgICAgbmFtZSA9IG9zLnBhdGguc3BsaXRleHQob3MucGF0aC5iYXNlbmFtZShwYXRoKSlbMF0KICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9bmFtZSwgdD10LCB5PWRhdGEuYXN0eXBlKGZsb2F0KSwgZnM9ZnMsCiAgICAgICAgICAgICAgICAgICAgICBzaWduYWxfdHlwZT0iZGlzY3JldGUiKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBpbXBvcnRfbWF0KHBhdGg6IHN0ciwgdmFybmFtZTogc3RyID0gTm9uZSkgLT4gbGlzdFtTaWduYWxdOgogICAgICAgIGZyb20gc2NpcHkuaW8gaW1wb3J0IGxvYWRtYXQKICAgICAgICBtYXQgPSBsb2FkbWF0KHBhdGgpCiAgICAgICAgc2lnbmFscyA9IFtdCiAgICAgICAgZm9yIGtleSwgdmFsIGluIG1hdC5pdGVtcygpOgogICAgICAgICAgICBpZiBrZXkuc3RhcnRzd2l0aCgnX18nKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsLCBucC5uZGFycmF5KSBhbmQgdmFsLm5kaW0gPD0gMjoKICAgICAgICAgICAgICAgIGlmIHZhcm5hbWUgYW5kIGtleSAhPSB2YXJuYW1lOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBpZiB2YWwubmRpbSA9PSAxOgogICAgICAgICAgICAgICAgICAgIHQgPSBucC5hcmFuZ2UobGVuKHZhbCkpCiAgICAgICAgICAgICAgICAgICAgeSA9IHZhbAogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICB0ID0gbnAuYXJhbmdlKHZhbC5zaGFwZVswXSkKICAgICAgICAgICAgICAgICAgICB5ID0gdmFsWzosIDBdIGlmIHZhbC5zaGFwZVsxXSA+IDAgZWxzZSB2YWwKICAgICAgICAgICAgICAgIHNpZ25hbHMuYXBwZW5kKFNpZ25hbChuYW1lPWtleSwgdD10LCB5PXkucmF2ZWwoKSwgZnM9MTAwMCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWduYWxfdHlwZT0iZGlzY3JldGUiKSkKICAgICAgICByZXR1cm4gc2lnbmFscwoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBleHBvcnRfY3N2KHNpZ25hbCwgcGF0aDogc3RyKToKICAgICAgICBucC5zYXZldHh0KHBhdGgsIG5wLmNvbHVtbl9zdGFjayhbc2lnbmFsLnQsIHNpZ25hbC55XSksCiAgICAgICAgICAgICAgICAgICBkZWxpbWl0ZXI9JywnLCBoZWFkZXI9J1RpbWUsQW1wbGl0dWRlJywgY29tbWVudHM9JycpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGV4cG9ydF93YXYoc2lnbmFsLCBwYXRoOiBzdHIpOgogICAgICAgIGZyb20gc2NpcHkuaW8gaW1wb3J0IHdhdmZpbGUKICAgICAgICB5X2ludDE2ID0gbnAuaW50MTYoc2lnbmFsLnkgLyBucC5tYXgobnAuYWJzKHNpZ25hbC55KSkgKiAzMjc2NykKICAgICAgICB3YXZmaWxlLndyaXRlKHBhdGgsIGludChzaWduYWwuZnMpLCB5X2ludDE2KQoKCmNsYXNzIFNpZ25hbE9wczoKICAgICIiIuS/oeWPt+i/kOeul+aTjeS9nCIiIgoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBhZGQoczE6IFNpZ25hbCwgczI6IFNpZ25hbCkgLT4gU2lnbmFsOgogICAgICAgIHQgPSBucC5saW5zcGFjZSgwLCBtaW4oczEuZHVyYXRpb24sIHMyLmR1cmF0aW9uKSwKICAgICAgICAgICAgICAgICAgICAgICAgbWluKHMxLm5fc2FtcGxlcywgczIubl9zYW1wbGVzKSwgZW5kcG9pbnQ9RmFsc2UpCiAgICAgICAgeTEgPSBucC5pbnRlcnAodCwgczEudCwgczEueSkKICAgICAgICB5MiA9IG5wLmludGVycCh0LCBzMi50LCBzMi55KQogICAgICAgIGZzID0gMS4wIC8gKHRbMV0gLSB0WzBdKSBpZiBsZW4odCkgPiAxIGVsc2UgMTAwMAogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mIih7czEubmFtZX0pKyh7czIubmFtZX0pIiwgdD10LCB5PXkxK3kyLCBmcz1mcykKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgc3ViKHMxOiBTaWduYWwsIHMyOiBTaWduYWwpIC0+IFNpZ25hbDoKICAgICAgICB0ID0gbnAubGluc3BhY2UoMCwgbWluKHMxLmR1cmF0aW9uLCBzMi5kdXJhdGlvbiksCiAgICAgICAgICAgICAgICAgICAgICAgIG1pbihzMS5uX3NhbXBsZXMsIHMyLm5fc2FtcGxlcyksIGVuZHBvaW50PUZhbHNlKQogICAgICAgIHkxID0gbnAuaW50ZXJwKHQsIHMxLnQsIHMxLnkpCiAgICAgICAgeTIgPSBucC5pbnRlcnAodCwgczIudCwgczIueSkKICAgICAgICBmcyA9IDEuMCAvICh0WzFdIC0gdFswXSkgaWYgbGVuKHQpID4gMSBlbHNlIDEwMDAKICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9ZiIoe3MxLm5hbWV9KS0oe3MyLm5hbWV9KSIsIHQ9dCwgeT15MS15MiwgZnM9ZnMpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIG11bChzMTogU2lnbmFsLCBzMjogU2lnbmFsKSAtPiBTaWduYWw6CiAgICAgICAgdCA9IG5wLmxpbnNwYWNlKDAsIG1pbihzMS5kdXJhdGlvbiwgczIuZHVyYXRpb24pLAogICAgICAgICAgICAgICAgICAgICAgICBtaW4oczEubl9zYW1wbGVzLCBzMi5uX3NhbXBsZXMpLCBlbmRwb2ludD1GYWxzZSkKICAgICAgICB5MSA9IG5wLmludGVycCh0LCBzMS50LCBzMS55KQogICAgICAgIHkyID0gbnAuaW50ZXJwKHQsIHMyLnQsIHMyLnkpCiAgICAgICAgZnMgPSAxLjAgLyAodFsxXSAtIHRbMF0pIGlmIGxlbih0KSA+IDEgZWxzZSAxMDAwCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYiKHtzMS5uYW1lfSnCtyh7czIubmFtZX0pIiwgdD10LCB5PXkxKnkyLCBmcz1mcykKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgc2NhbGUoczogU2lnbmFsLCBmYWN0b3I6IGZsb2F0KSAtPiBTaWduYWw6CiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYie2ZhY3Rvcn3Ct3tzLm5hbWV9IiwgdD1zLnQuY29weSgpLCB5PXMueSpmYWN0b3IsCiAgICAgICAgICAgICAgICAgICAgICBmcz1zLmZzLCBzaWduYWxfdHlwZT1zLnNpZ25hbF90eXBlKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBkZXJpdmF0aXZlKHM6IFNpZ25hbCkgLT4gU2lnbmFsOgogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mImQvZHQoe3MubmFtZX0pIiwgdD1zLnQuY29weSgpLAogICAgICAgICAgICAgICAgICAgICAgeT1ucC5ncmFkaWVudChzLnksIHMudCksIGZzPXMuZnMsIHNpZ25hbF90eXBlPXMuc2lnbmFsX3R5cGUpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGludGVncmFsKHM6IFNpZ25hbCkgLT4gU2lnbmFsOgogICAgICAgIGZyb20gc2NpcHkuaW50ZWdyYXRlIGltcG9ydCBjdW11bGF0aXZlX3RyYXBlem9pZAogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mIuKIqyh7cy5uYW1lfSkiLCB0PXMudC5jb3B5KCksCiAgICAgICAgICAgICAgICAgICAgICB5PWN1bXVsYXRpdmVfdHJhcGV6b2lkKHMueSwgcy50LCBpbml0aWFsPTApLAogICAgICAgICAgICAgICAgICAgICAgZnM9cy5mcywgc2lnbmFsX3R5cGU9cy5zaWduYWxfdHlwZSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgYWJzX3ZhbHVlKHM6IFNpZ25hbCkgLT4gU2lnbmFsOgogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mInx7cy5uYW1lfXwiLCB0PXMudC5jb3B5KCksIHk9bnAuYWJzKHMueSksCiAgICAgICAgICAgICAgICAgICAgICBmcz1zLmZzLCBzaWduYWxfdHlwZT1zLnNpZ25hbF90eXBlKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBub3JtYWxpemUoczogU2lnbmFsKSAtPiBTaWduYWw6CiAgICAgICAgbXggPSBucC5tYXgobnAuYWJzKHMueSkpCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYibm9ybSh7cy5uYW1lfSkiLCB0PXMudC5jb3B5KCksCiAgICAgICAgICAgICAgICAgICAgICB5PXMueSAvIG14IGlmIG14ID4gMCBlbHNlIHMueSwKICAgICAgICAgICAgICAgICAgICAgIGZzPXMuZnMsIHNpZ25hbF90eXBlPXMuc2lnbmFsX3R5cGUpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHJlY3QoczogU2lnbmFsKSAtPiBTaWduYWw6CiAgICAgICAgIiIi5YWo5rOi5pW05rWBIiIiCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYicmVjdCh7cy5uYW1lfSkiLCB0PXMudC5jb3B5KCksIHk9bnAuYWJzKHMueSksCiAgICAgICAgICAgICAgICAgICAgICBmcz1zLmZzLCBzaWduYWxfdHlwZT1zLnNpZ25hbF90eXBlKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBoYWxmX3JlY3QoczogU2lnbmFsKSAtPiBTaWduYWw6CiAgICAgICAgIiIi5Y2K5rOi5pW05rWBIiIiCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYiaGFsZl9yZWN0KHtzLm5hbWV9KSIsIHQ9cy50LmNvcHkoKSwKICAgICAgICAgICAgICAgICAgICAgIHk9bnAubWF4aW11bShzLnksIDApLCBmcz1zLmZzLCBzaWduYWxfdHlwZT1zLnNpZ25hbF90eXBlKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBjbGlwKHM6IFNpZ25hbCwgbG86IGZsb2F0LCBoaTogZmxvYXQpIC0+IFNpZ25hbDoKICAgICAgICByZXR1cm4gU2lnbmFsKG5hbWU9ZiJjbGlwKHtzLm5hbWV9KSIsIHQ9cy50LmNvcHkoKSwKICAgICAgICAgICAgICAgICAgICAgIHk9bnAuY2xpcChzLnksIGxvLCBoaSksIGZzPXMuZnMsIHNpZ25hbF90eXBlPXMuc2lnbmFsX3R5cGUpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNvbnZvbHZlKHMxOiBTaWduYWwsIHMyOiBTaWduYWwpIC0+IFNpZ25hbDoKICAgICAgICB5ID0gbnAuY29udm9sdmUoczEueSwgczIueSwgbW9kZT0nZnVsbCcpIC8gczEuZnMKICAgICAgICB0ID0gbnAuYXJhbmdlKGxlbih5KSkgLyBzMS5mcwogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mIih7czEubmFtZX0p4oiXKHtzMi5uYW1lfSkiLCB0PXQsIHk9eSwgZnM9czEuZnMpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNvcnJlbGF0ZShzMTogU2lnbmFsLCBzMjogU2lnbmFsKSAtPiBTaWduYWw6CiAgICAgICAgeSA9IG5wLmNvcnJlbGF0ZShzMS55LCBzMi55LCBtb2RlPSdmdWxsJykKICAgICAgICB0ID0gbnAuYXJhbmdlKGxlbih5KSkgLyBzMS5mcwogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mImNvcnIoe3MxLm5hbWV9LHtzMi5uYW1lfSkiLCB0PXQsIHk9eSwgZnM9czEuZnMpCg==
+"""信号生成、导入导出引擎 v2.0 — 20+ 信号类型"""
+import numpy as np
+from dataclasses import dataclass, field
+from typing import Optional, Callable
+import uuid
+import csv
+import os
+
+
+@dataclass
+class Signal:
+    """信号数据结构"""
+    name: str
+    t: np.ndarray
+    y: np.ndarray
+    signal_type: str = "continuous"
+    params: dict = field(default_factory=dict)
+    id: str = field(default_factory=lambda: str(uuid.uuid4())[:8])
+    fs: float = 1000.0
+    description: str = ""
+
+    def __post_init__(self):
+        if self.fs == 1000.0 and len(self.t) > 1:
+            self.fs = 1.0 / (self.t[1] - self.t[0])
+        if not self.description:
+            self.description = self.name
+
+    @property
+    def dt(self) -> float:
+        return 1.0 / self.fs if self.fs > 0 else 0.001
+
+    @property
+    def duration(self) -> float:
+        return float(self.t[-1] - self.t[0]) if len(self.t) > 0 else 0
+
+    @property
+    def n_samples(self) -> int:
+        return len(self.y)
+
+    def copy(self) -> "Signal":
+        return Signal(name=self.name + "_copy", t=self.t.copy(), y=self.y.copy(),
+                      signal_type=self.signal_type, params=self.params.copy(),
+                      fs=self.fs, description=self.description)
+
+
+class SignalGenerator:
+    """信号生成器 — 20+ 种信号类型"""
+
+    @staticmethod
+    def _make_time(duration: float, fs: float, discrete: bool) -> np.ndarray:
+        n = int(duration * fs)
+        return np.arange(n) / fs if discrete else np.linspace(0, duration, n, endpoint=False)
+
+    @staticmethod
+    def sine(freq=1.0, amp=1.0, phase=0.0, duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = amp * np.sin(2 * np.pi * freq * t + phase)
+        return Signal(name=f"sin({freq}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous",
+                      params={"freq": freq, "amp": amp, "phase": phase},
+                      description=f"正弦波 {freq}Hz")
+
+    @staticmethod
+    def cosine(freq=1.0, amp=1.0, phase=0.0, duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = amp * np.cos(2 * np.pi * freq * t + phase)
+        return Signal(name=f"cos({freq}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous",
+                      params={"freq": freq, "amp": amp, "phase": phase})
+
+    @staticmethod
+    def square(freq=1.0, amp=1.0, duty=0.5, duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        from scipy.signal import square as sq
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = amp * sq(2 * np.pi * freq * t, duty)
+        return Signal(name=f"square({freq}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous",
+                      params={"freq": freq, "amp": amp, "duty": duty})
+
+    @staticmethod
+    def sawtooth(freq=1.0, amp=1.0, width=1.0, duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        from scipy.signal import sawtooth as sw
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = amp * sw(2 * np.pi * freq * t, width)
+        return Signal(name=f"sawtooth({freq}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous",
+                      params={"freq": freq, "amp": amp, "width": width})
+
+    @staticmethod
+    def triangle(freq=1.0, amp=1.0, duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        period = 1.0 / freq
+        y = amp * (2 * np.abs(2 * (t / period - np.floor(t / period + 0.5))) - 1)
+        return Signal(name=f"triangle({freq}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous",
+                      params={"freq": freq, "amp": amp})
+
+    @staticmethod
+    def chirp(f0=1.0, f1=100.0, amp=1.0, duration=2.0, fs=1000.0,
+              method='linear', discrete=False) -> Signal:
+        from scipy.signal import chirp as scipy_chirp
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = amp * scipy_chirp(t, f0=f0, f1=f1, t1=duration, method=method)
+        return Signal(name=f"chirp({f0}-{f1}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous",
+                      params={"f0": f0, "f1": f1, "amp": amp, "method": method})
+
+    @staticmethod
+    def impulse(duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = np.zeros_like(t)
+        y[0] = 1.0
+        return Signal(name="δ(t) impulse", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def step(duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = np.ones_like(t)
+        return Signal(name="u(t) step", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def noise(duration=2.0, fs=1000.0, std=0.1, color='white', discrete=False) -> Signal:
+        """白噪声/粉红噪声/布朗噪声"""
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        n = len(t)
+        if color == 'white':
+            y = std * np.random.randn(n)
+        elif color == 'pink':
+            white = np.random.randn(n)
+            pink = np.cumsum(white) / np.sqrt(np.arange(1, n + 1))
+            y = std * pink / np.std(pink)
+        elif color == 'brown':
+            y = std * np.cumsum(np.random.randn(n)) / np.sqrt(n)
+        else:
+            y = std * np.random.randn(n)
+        return Signal(name=f"{color} noise", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous",
+                      params={"std": std, "color": color})
+
+    @staticmethod
+    def gaussian_pulse(center=0.5, sigma=0.05, amp=1.0, duration=1.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = amp * np.exp(-0.5 * ((t - center) / sigma) ** 2)
+        return Signal(name=f"Gaussian(σ={sigma})", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def sinc_pulse(fc=10.0, amp=1.0, duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        t_centered = t - duration / 2
+        y = amp * np.sinc(2 * fc * t_centered)
+        return Signal(name=f"sinc({fc}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def exponential_decay(tau=0.1, amp=1.0, duration=1.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = amp * np.exp(-t / tau)
+        return Signal(name=f"decay(τ={tau})", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def am_modulation(carrier=100.0, modulator=5.0, amp=1.0, depth=0.8,
+                      duration=1.0, fs=2000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = amp * (1 + depth * np.sin(2 * np.pi * modulator * t)) * np.cos(2 * np.pi * carrier * t)
+        return Signal(name=f"AM({carrier}Hz+{modulator}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def fm_modulation(carrier=100.0, modulator=5.0, amp=1.0, deviation=20.0,
+                      duration=1.0, fs=2000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        integral = np.cumsum(np.sin(2 * np.pi * modulator * t)) / fs
+        y = amp * np.cos(2 * np.pi * carrier * t + 2 * np.pi * deviation * integral)
+        return Signal(name=f"FM({carrier}Hz+{modulator}Hz)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def multi_tone(freqs: list, amps: list = None, duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        if amps is None:
+            amps = [1.0] * len(freqs)
+        y = np.zeros_like(t)
+        for f, a in zip(freqs, amps):
+            y += a * np.sin(2 * np.pi * f * t)
+        return Signal(name=f"multi({len(freqs)} tones)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def harmonic_series(f0=50.0, n_harmonics=5, amp=1.0, decay=0.5,
+                        duration=1.0, fs=1000.0, discrete=False) -> Signal:
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        y = np.zeros_like(t)
+        for k in range(1, n_harmonics + 1):
+            y += amp * (decay ** (k - 1)) * np.sin(2 * np.pi * f0 * k * t)
+        return Signal(name=f"harmonics({f0}Hz×{n_harmonics})", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def ecg_like(duration=2.0, fs=500.0, bpm=60.0, discrete=False) -> Signal:
+        """模拟心电信号"""
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        period = 60.0 / bpm
+        y = np.zeros_like(t)
+        for i in range(int(duration / period) + 1):
+            t0 = i * period
+            mask = (t >= t0) & (t < t0 + 0.4)
+            if mask.any():
+                tc = t[mask] - t0
+                y[mask] += 0.1 * np.exp(-0.5 * ((tc - 0.05) / 0.01) ** 2)
+                y[mask] += 1.0 * np.exp(-0.5 * ((tc - 0.08) / 0.008) ** 2)
+                y[mask] += -0.3 * np.exp(-0.5 * ((tc - 0.12) / 0.01) ** 2)
+                y[mask] += 0.3 * np.exp(-0.5 * ((tc - 0.2) / 0.03) ** 2)
+        return Signal(name=f"ECG({bpm}bpm)", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous")
+
+    @staticmethod
+    def custom_expression(expr: str, duration=2.0, fs=1000.0, discrete=False) -> Signal:
+        """自定义数学表达式，如 'sin(2*pi*5*t) * exp(-t)'"""
+        t = SignalGenerator._make_time(duration, fs, discrete)
+        safe = {"t": t, "pi": np.pi, "sin": np.sin, "cos": np.cos,
+                "exp": np.exp, "sqrt": np.sqrt, "abs": np.abs,
+                "log": np.log, "tan": np.tan, "sinc": np.sinc,
+                "sinh": np.sinh, "cosh": np.cosh}
+        try:
+            y = eval(expr, {"__builtins__": {}}, safe)
+            y = np.atleast_1d(np.array(y, dtype=float))
+            if len(y) == 1:
+                y = np.full_like(t, y)
+        except Exception as e:
+            raise ValueError(f"表达式错误: {e}")
+        return Signal(name=f"custom: {expr[:25]}", t=t, y=y, fs=fs,
+                      signal_type="discrete" if discrete else "continuous",
+                      params={"expr": expr})
+
+    @staticmethod
+    def from_arrays(t, y, name="imported", fs=None, discrete=False) -> Signal:
+        t, y = np.array(t, dtype=float), np.array(y, dtype=float)
+        if fs is None and len(t) > 1:
+            fs = 1.0 / (t[1] - t[0])
+        return Signal(name=name, t=t, y=y, fs=fs or 1000,
+                      signal_type="discrete" if discrete else "continuous")
+
+    # ---- 导入导出 ----
+    @staticmethod
+    def import_csv(path: str) -> Signal:
+        data = np.loadtxt(path, delimiter=',', skiprows=1)
+        if data.ndim == 1:
+            t = np.arange(len(data))
+            y = data
+        else:
+            t, y = data[:, 0], data[:, 1]
+        name = os.path.splitext(os.path.basename(path))[0]
+        return SignalGenerator.from_arrays(t, y, name=name)
+
+    @staticmethod
+    def import_wav(path: str) -> Signal:
+        from scipy.io import wavfile
+        fs, data = wavfile.read(path)
+        if data.ndim > 1:
+            data = data[:, 0]
+        t = np.arange(len(data)) / fs
+        name = os.path.splitext(os.path.basename(path))[0]
+        return Signal(name=name, t=t, y=data.astype(float), fs=fs,
+                      signal_type="discrete")
+
+    @staticmethod
+    def import_mat(path: str, varname: str = None) -> list[Signal]:
+        from scipy.io import loadmat
+        mat = loadmat(path)
+        signals = []
+        for key, val in mat.items():
+            if key.startswith('__'):
+                continue
+            if isinstance(val, np.ndarray) and val.ndim <= 2:
+                if varname and key != varname:
+                    continue
+                if val.ndim == 1:
+                    t = np.arange(len(val))
+                    y = val
+                else:
+                    t = np.arange(val.shape[0])
+                    y = val[:, 0] if val.shape[1] > 0 else val
+                signals.append(Signal(name=key, t=t, y=y.ravel(), fs=1000,
+                                      signal_type="discrete"))
+        return signals
+
+    @staticmethod
+    def export_csv(signal, path: str):
+        np.savetxt(path, np.column_stack([signal.t, signal.y]),
+                   delimiter=',', header='Time,Amplitude', comments='')
+
+    @staticmethod
+    def export_wav(signal, path: str):
+        from scipy.io import wavfile
+        y_int16 = np.int16(signal.y / np.max(np.abs(signal.y)) * 32767)
+        wavfile.write(path, int(signal.fs), y_int16)
+
+
+class SignalOps:
+    """信号运算操作"""
+
+    @staticmethod
+    def add(s1: Signal, s2: Signal) -> Signal:
+        t = np.linspace(0, min(s1.duration, s2.duration),
+                        min(s1.n_samples, s2.n_samples), endpoint=False)
+        y1 = np.interp(t, s1.t, s1.y)
+        y2 = np.interp(t, s2.t, s2.y)
+        fs = 1.0 / (t[1] - t[0]) if len(t) > 1 else 1000
+        return Signal(name=f"({s1.name})+({s2.name})", t=t, y=y1+y2, fs=fs)
+
+    @staticmethod
+    def sub(s1: Signal, s2: Signal) -> Signal:
+        t = np.linspace(0, min(s1.duration, s2.duration),
+                        min(s1.n_samples, s2.n_samples), endpoint=False)
+        y1 = np.interp(t, s1.t, s1.y)
+        y2 = np.interp(t, s2.t, s2.y)
+        fs = 1.0 / (t[1] - t[0]) if len(t) > 1 else 1000
+        return Signal(name=f"({s1.name})-({s2.name})", t=t, y=y1-y2, fs=fs)
+
+    @staticmethod
+    def mul(s1: Signal, s2: Signal) -> Signal:
+        t = np.linspace(0, min(s1.duration, s2.duration),
+                        min(s1.n_samples, s2.n_samples), endpoint=False)
+        y1 = np.interp(t, s1.t, s1.y)
+        y2 = np.interp(t, s2.t, s2.y)
+        fs = 1.0 / (t[1] - t[0]) if len(t) > 1 else 1000
+        return Signal(name=f"({s1.name})·({s2.name})", t=t, y=y1*y2, fs=fs)
+
+    @staticmethod
+    def scale(s: Signal, factor: float) -> Signal:
+        return Signal(name=f"{factor}·{s.name}", t=s.t.copy(), y=s.y*factor,
+                      fs=s.fs, signal_type=s.signal_type)
+
+    @staticmethod
+    def derivative(s: Signal) -> Signal:
+        return Signal(name=f"d/dt({s.name})", t=s.t.copy(),
+                      y=np.gradient(s.y, s.t), fs=s.fs, signal_type=s.signal_type)
+
+    @staticmethod
+    def integral(s: Signal) -> Signal:
+        from scipy.integrate import cumulative_trapezoid
+        return Signal(name=f"∫({s.name})", t=s.t.copy(),
+                      y=cumulative_trapezoid(s.y, s.t, initial=0),
+                      fs=s.fs, signal_type=s.signal_type)
+
+    @staticmethod
+    def abs_value(s: Signal) -> Signal:
+        return Signal(name=f"|{s.name}|", t=s.t.copy(), y=np.abs(s.y),
+                      fs=s.fs, signal_type=s.signal_type)
+
+    @staticmethod
+    def normalize(s: Signal) -> Signal:
+        mx = np.max(np.abs(s.y))
+        return Signal(name=f"norm({s.name})", t=s.t.copy(),
+                      y=s.y / mx if mx > 0 else s.y,
+                      fs=s.fs, signal_type=s.signal_type)
+
+    @staticmethod
+    def rect(s: Signal) -> Signal:
+        """全波整流"""
+        return Signal(name=f"rect({s.name})", t=s.t.copy(), y=np.abs(s.y),
+                      fs=s.fs, signal_type=s.signal_type)
+
+    @staticmethod
+    def half_rect(s: Signal) -> Signal:
+        """半波整流"""
+        return Signal(name=f"half_rect({s.name})", t=s.t.copy(),
+                      y=np.maximum(s.y, 0), fs=s.fs, signal_type=s.signal_type)
+
+    @staticmethod
+    def clip(s: Signal, lo: float, hi: float) -> Signal:
+        return Signal(name=f"clip({s.name})", t=s.t.copy(),
+                      y=np.clip(s.y, lo, hi), fs=s.fs, signal_type=s.signal_type)
+
+    @staticmethod
+    def convolve(s1: Signal, s2: Signal) -> Signal:
+        y = np.convolve(s1.y, s2.y, mode='full') / s1.fs
+        t = np.arange(len(y)) / s1.fs
+        return Signal(name=f"({s1.name})∗({s2.name})", t=t, y=y, fs=s1.fs)
+
+    @staticmethod
+    def correlate(s1: Signal, s2: Signal) -> Signal:
+        y = np.correlate(s1.y, s2.y, mode='full')
+        t = np.arange(len(y)) / s1.fs
+        return Signal(name=f"corr({s1.name},{s2.name})", t=t, y=y, fs=s1.fs)

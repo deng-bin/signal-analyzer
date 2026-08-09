@@ -1,1 +1,210 @@
-IiIi5ruk5rOi5Zmo6K6+6K6h5byV5pOOIHYyLjAg4oCUIEZJUi9JSVIgKyDmu6Tms6Llmajnu4QgKyDlrp7ml7bmu6Tms6IiIiIKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IE9wdGlvbmFsLCBUdXBsZSwgTGlzdAoKCkBkYXRhY2xhc3MKY2xhc3MgRmlsdGVyUmVzdWx0OgogICAgbmFtZTogc3RyCiAgICBiOiBucC5uZGFycmF5CiAgICBhOiBucC5uZGFycmF5CiAgICBvcmRlcjogaW50CiAgICBmaWx0ZXJfdHlwZTogc3RyCiAgICBkZXNpZ25fbWV0aG9kOiBzdHIKICAgIGN1dG9mZl9pbmZvOiBzdHIKICAgIGZyZXE6IG5wLm5kYXJyYXkgPSBOb25lCiAgICBtYWc6IG5wLm5kYXJyYXkgPSBOb25lCiAgICBwaGFzZTogbnAubmRhcnJheSA9IE5vbmUKICAgIHplcm9zOiBucC5uZGFycmF5ID0gTm9uZQogICAgcG9sZXM6IG5wLm5kYXJyYXkgPSBOb25lCiAgICBncm91cF9kZWxheTogbnAubmRhcnJheSA9IE5vbmUKICAgIGdkX2ZyZXE6IG5wLm5kYXJyYXkgPSBOb25lCiAgICBwYXJhbXM6IGRpY3QgPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9ZGljdCkKCiAgICBkZWYgX19wb3N0X2luaXRfXyhzZWxmKToKICAgICAgICBpZiBzZWxmLmZyZXEgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5fY29tcHV0ZV9yZXNwb25zZSgpCgogICAgZGVmIF9jb21wdXRlX3Jlc3BvbnNlKHNlbGYpOgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBmcmVxeiwgZ3JvdXBfZGVsYXkKICAgICAgICB3LCBoID0gZnJlcXooc2VsZi5iLCBzZWxmLmEsIHdvck49MjA0OCkKICAgICAgICBzZWxmLmZyZXEgPSB3IC8gbnAucGkgKiA1MDAKICAgICAgICBzZWxmLm1hZyA9IDIwICogbnAubG9nMTAobnAuYWJzKGgpICsgMWUtMTUpCiAgICAgICAgc2VsZi5waGFzZSA9IG5wLnVud3JhcChucC5hbmdsZShoKSkKICAgICAgICBzZWxmLnplcm9zID0gbnAucm9vdHMoc2VsZi5iKQogICAgICAgIHNlbGYucG9sZXMgPSBucC5yb290cyhzZWxmLmEpCiAgICAgICAgdHJ5OgogICAgICAgICAgICBzZWxmLmdkX2ZyZXEsIHNlbGYuZ3JvdXBfZGVsYXkgPSBncm91cF9kZWxheSgoc2VsZi5iLCBzZWxmLmEpLCB3b3JOPTIwNDgpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgc2VsZi5nZF9mcmVxLCBzZWxmLmdyb3VwX2RlbGF5ID0gTm9uZSwgTm9uZQoKICAgIGRlZiBhcHBseShzZWxmLCBzaWduYWwpIC0+ICJTaWduYWwiOgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBsZmlsdGVyLCBmaWx0ZmlsdAogICAgICAgIGZyb20gc2lnbmFsX2VuZ2luZSBpbXBvcnQgU2lnbmFsCiAgICAgICAgeSA9IGxmaWx0ZXIoc2VsZi5iLCBzZWxmLmEsIHNpZ25hbC55KQogICAgICAgIHJldHVybiBTaWduYWwobmFtZT1mImZpbHRlcmVkKHtzaWduYWwubmFtZX0pIiwgdD1zaWduYWwudC5jb3B5KCksIHk9eSwKICAgICAgICAgICAgICAgICAgICAgIGZzPXNpZ25hbC5mcywgc2lnbmFsX3R5cGU9c2lnbmFsLnNpZ25hbF90eXBlLAogICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXsiZmlsdGVyIjogc2VsZi5uYW1lfSkKCiAgICBkZWYgYXBwbHlfZmlsdGZpbHQoc2VsZiwgc2lnbmFsKSAtPiAiU2lnbmFsIjoKICAgICAgICAiIiLpm7bnm7jkvY3mu6Tms6IiIiIKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgZmlsdGZpbHQKICAgICAgICBmcm9tIHNpZ25hbF9lbmdpbmUgaW1wb3J0IFNpZ25hbAogICAgICAgIHkgPSBmaWx0ZmlsdChzZWxmLmIsIHNlbGYuYSwgc2lnbmFsLnkpCiAgICAgICAgcmV0dXJuIFNpZ25hbChuYW1lPWYiZmlsdGZpbHQoe3NpZ25hbC5uYW1lfSkiLCB0PXNpZ25hbC50LmNvcHkoKSwgeT15LAogICAgICAgICAgICAgICAgICAgICAgZnM9c2lnbmFsLmZzLCBzaWduYWxfdHlwZT1zaWduYWwuc2lnbmFsX3R5cGUpCgogICAgZGVmIGltcHVsc2VfcmVzcG9uc2Uoc2VsZiwgbj0xMDApOgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBsZmlsdGVyCiAgICAgICAgaW1wID0gbnAuemVyb3MobikKICAgICAgICBpbXBbMF0gPSAxLjAKICAgICAgICByZXR1cm4gbnAuYXJhbmdlKG4pLCBsZmlsdGVyKHNlbGYuYiwgc2VsZi5hLCBpbXApCgogICAgZGVmIHN0ZXBfcmVzcG9uc2Uoc2VsZiwgbj0xMDApOgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBsZmlsdGVyCiAgICAgICAgcmV0dXJuIG5wLmFyYW5nZShuKSwgbGZpbHRlcihzZWxmLmIsIHNlbGYuYSwgbnAub25lcyhuKSkKCgpjbGFzcyBGSVJGaWx0ZXI6CiAgICAiIiJGSVIg5ruk5rOi5Zmo6K6+6K6hIOKAlCDnqpflh73mlbAgKyBSZW1leiIiIgoKICAgIFdJTkRPV1MgPSBbJ2hhbW1pbmcnLCAnaGFubicsICdibGFja21hbicsICdiYXJ0bGV0dCcsICdrYWlzZXInLCAncmVjdGFuZ3VsYXInLAogICAgICAgICAgICAgICAnZmxhdHRvcCcsICdudXR0YWxsJywgJ2JhcnRoYW5uJywgJ2xhbmN6b3MnLCAndHVrZXknLCAnY2hlYndpbiddCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHdpbmRvd19tZXRob2QoY3V0b2ZmLCBmcywgbnVtdGFwcz0xMDEsIHdpbmRvdz0naGFtbWluZycsIHBhc3NfemVybz1UcnVlKSAtPiBGaWx0ZXJSZXN1bHQ6CiAgICAgICAgZnJvbSBzY2lweS5zaWduYWwgaW1wb3J0IGZpcndpbgogICAgICAgIG55cSA9IGZzIC8gMgogICAgICAgIGN1dG9mZl9ub3JtID0gY3V0b2ZmIC8gbnlxIGlmIGlzaW5zdGFuY2UoY3V0b2ZmLCAoaW50LCBmbG9hdCkpIGVsc2UgW2MvbnlxIGZvciBjIGluIGN1dG9mZl0KICAgICAgICBpZiB3aW5kb3cgPT0gJ2thaXNlcic6CiAgICAgICAgICAgIHcgPSAoJ2thaXNlcicsIDE0KQogICAgICAgIGVsaWYgd2luZG93ID09ICdjaGVid2luJzoKICAgICAgICAgICAgdyA9ICgnY2hlYndpbicsIDYwKQogICAgICAgIGVsaWYgd2luZG93ID09ICd0dWtleSc6CiAgICAgICAgICAgIHcgPSAoJ3R1a2V5JywgMC41KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHcgPSB3aW5kb3cKICAgICAgICBiID0gZmlyd2luKG51bXRhcHMsIGN1dG9mZl9ub3JtLCB3aW5kb3c9dywgcGFzc196ZXJvPXBhc3NfemVybykKICAgICAgICByZXR1cm4gRmlsdGVyUmVzdWx0KAogICAgICAgICAgICBuYW1lPWYiRklSX3t3aW5kb3d9KGZjPXtjdXRvZmZ9SHopIiwgYj1iLCBhPVsxLjBdLCBvcmRlcj1udW10YXBzLTEsCiAgICAgICAgICAgIGZpbHRlcl90eXBlPSJGSVIiLCBkZXNpZ25fbWV0aG9kPWYi56qX5Ye95pWw5rOVKHt3aW5kb3d9KSIsCiAgICAgICAgICAgIGN1dG9mZl9pbmZvPWYi5oiq5q2iPXtjdXRvZmZ9SHosIOmYtuaVsD17bnVtdGFwcy0xfSIsCiAgICAgICAgICAgIHBhcmFtcz17ImN1dG9mZiI6IGN1dG9mZiwgImZzIjogZnMsICJudW10YXBzIjogbnVtdGFwcywgIndpbmRvdyI6IHdpbmRvd30KICAgICAgICApCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIHJlbWV6KGJhbmRzLCBkZXNpcmVkLCBmcywgbnVtdGFwcz0xMDEsIHdlaWdodD1Ob25lKSAtPiBGaWx0ZXJSZXN1bHQ6CiAgICAgICAgZnJvbSBzY2lweS5zaWduYWwgaW1wb3J0IHJlbWV6IGFzIHNjaXB5X3JlbWV6CiAgICAgICAgbnlxID0gZnMgLyAyCiAgICAgICAgYmFuZHNfbm9ybSA9IFtiL255cSBmb3IgYiBpbiBiYW5kc10KICAgICAgICBiID0gc2NpcHlfcmVtZXoobnVtdGFwcywgYmFuZHNfbm9ybSwgZGVzaXJlZCwgd2VpZ2h0PXdlaWdodCwgZnM9MikKICAgICAgICByZXR1cm4gRmlsdGVyUmVzdWx0KAogICAgICAgICAgICBuYW1lPWYiRklSX1JlbWV6KE49e251bXRhcHMtMX0pIiwgYj1iLCBhPVsxLjBdLCBvcmRlcj1udW10YXBzLTEsCiAgICAgICAgICAgIGZpbHRlcl90eXBlPSJGSVIiLCBkZXNpZ25fbWV0aG9kPSJQYXJrcy1NY0NsZWxsYW4gKFJlbWV6KSIsCiAgICAgICAgICAgIGN1dG9mZl9pbmZvPWYi6aKR5bimPXtiYW5kc30sIOmYtuaVsD17bnVtdGFwcy0xfSIKICAgICAgICApCgoKY2xhc3MgSUlSRmlsdGVyOgogICAgIiIiSUlSIOa7pOazouWZqOiuvuiuoSDigJQgQnV0dGVyd29ydGgsIENoZWJ5c2hldiBJL0lJLCBFbGxpcHRpYywgQmVzc2VsIiIiCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGJ1dHRlcndvcnRoKG9yZGVyLCBjdXRvZmYsIGZzLCBidHlwZT0nbG93cGFzcycpIC0+IEZpbHRlclJlc3VsdDoKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgYnV0dGVyCiAgICAgICAgbnlxID0gZnMgLyAyCiAgICAgICAgYiwgYSA9IGJ1dHRlcihvcmRlciwgY3V0b2ZmL255cSBpZiBpc2luc3RhbmNlKGN1dG9mZiwgKGludCwgZmxvYXQpKQogICAgICAgICAgICAgICAgICAgICAgZWxzZSBbYy9ueXEgZm9yIGMgaW4gY3V0b2ZmXSwgYnR5cGU9YnR5cGUpCiAgICAgICAgcmV0dXJuIEZpbHRlclJlc3VsdCgKICAgICAgICAgICAgbmFtZT1mIkJ1dHRlcl97YnR5cGV9KE49e29yZGVyfSkiLCBiPWIsIGE9YSwgb3JkZXI9b3JkZXIsCiAgICAgICAgICAgIGZpbHRlcl90eXBlPSJJSVIiLCBkZXNpZ25fbWV0aG9kPSJCdXR0ZXJ3b3J0aCIsCiAgICAgICAgICAgIGN1dG9mZl9pbmZvPWYi5oiq5q2iPXtjdXRvZmZ9SHosIOmYtuaVsD17b3JkZXJ9IgogICAgICAgICkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgY2hlYnlzaGV2MShvcmRlciwgY3V0b2ZmLCBycCwgZnMsIGJ0eXBlPSdsb3dwYXNzJykgLT4gRmlsdGVyUmVzdWx0OgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBjaGVieTEKICAgICAgICBueXEgPSBmcyAvIDIKICAgICAgICBiLCBhID0gY2hlYnkxKG9yZGVyLCBycCwgY3V0b2ZmL255cSBpZiBpc2luc3RhbmNlKGN1dG9mZiwgKGludCwgZmxvYXQpKQogICAgICAgICAgICAgICAgICAgICAgZWxzZSBbYy9ueXEgZm9yIGMgaW4gY3V0b2ZmXSwgYnR5cGU9YnR5cGUpCiAgICAgICAgcmV0dXJuIEZpbHRlclJlc3VsdCgKICAgICAgICAgICAgbmFtZT1mIkNoZWJ5SV97YnR5cGV9KE49e29yZGVyfSkiLCBiPWIsIGE9YSwgb3JkZXI9b3JkZXIsCiAgICAgICAgICAgIGZpbHRlcl90eXBlPSJJSVIiLCBkZXNpZ25fbWV0aG9kPWYiQ2hlYnlzaGV2IEkgKHJwPXtycH1kQikiLAogICAgICAgICAgICBjdXRvZmZfaW5mbz1mIuaIquatoj17Y3V0b2ZmfUh6LCDpmLbmlbA9e29yZGVyfSwg5rOi57q5PXtycH1kQiIKICAgICAgICApCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGNoZWJ5c2hldjIob3JkZXIsIGN1dG9mZiwgcnMsIGZzLCBidHlwZT0nbG93cGFzcycpIC0+IEZpbHRlclJlc3VsdDoKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgY2hlYnkyCiAgICAgICAgbnlxID0gZnMgLyAyCiAgICAgICAgYiwgYSA9IGNoZWJ5MihvcmRlciwgcnMsIGN1dG9mZi9ueXEgaWYgaXNpbnN0YW5jZShjdXRvZmYsIChpbnQsIGZsb2F0KSkKICAgICAgICAgICAgICAgICAgICAgIGVsc2UgW2MvbnlxIGZvciBjIGluIGN1dG9mZl0sIGJ0eXBlPWJ0eXBlKQogICAgICAgIHJldHVybiBGaWx0ZXJSZXN1bHQoCiAgICAgICAgICAgIG5hbWU9ZiJDaGVieUlJX3tidHlwZX0oTj17b3JkZXJ9KSIsIGI9YiwgYT1hLCBvcmRlcj1vcmRlciwKICAgICAgICAgICAgZmlsdGVyX3R5cGU9IklJUiIsIGRlc2lnbl9tZXRob2Q9ZiJDaGVieXNoZXYgSUkgKHJzPXtyc31kQikiLAogICAgICAgICAgICBjdXRvZmZfaW5mbz1mIuaIquatoj17Y3V0b2ZmfUh6LCDpmLbmlbA9e29yZGVyfSwg6Zi75bim6KGw5YePPXtyc31kQiIKICAgICAgICApCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGVsbGlwdGljKG9yZGVyLCBjdXRvZmYsIHJwLCBycywgZnMsIGJ0eXBlPSdsb3dwYXNzJykgLT4gRmlsdGVyUmVzdWx0OgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBlbGxpcAogICAgICAgIG55cSA9IGZzIC8gMgogICAgICAgIGIsIGEgPSBlbGxpcChvcmRlciwgcnAsIHJzLCBjdXRvZmYvbnlxIGlmIGlzaW5zdGFuY2UoY3V0b2ZmLCAoaW50LCBmbG9hdCkpCiAgICAgICAgICAgICAgICAgICAgIGVsc2UgW2MvbnlxIGZvciBjIGluIGN1dG9mZl0sIGJ0eXBlPWJ0eXBlKQogICAgICAgIHJldHVybiBGaWx0ZXJSZXN1bHQoCiAgICAgICAgICAgIG5hbWU9ZiJFbGxpcHRpY197YnR5cGV9KE49e29yZGVyfSkiLCBiPWIsIGE9YSwgb3JkZXI9b3JkZXIsCiAgICAgICAgICAgIGZpbHRlcl90eXBlPSJJSVIiLCBkZXNpZ25fbWV0aG9kPWYiRWxsaXB0aWMgKHJwPXtycH1kQixycz17cnN9ZEIpIiwKICAgICAgICAgICAgY3V0b2ZmX2luZm89ZiLmiKrmraI9e2N1dG9mZn1Ieiwg6Zi25pWwPXtvcmRlcn0iCiAgICAgICAgKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBiZXNzZWwob3JkZXIsIGN1dG9mZiwgZnMsIGJ0eXBlPSdsb3dwYXNzJykgLT4gRmlsdGVyUmVzdWx0OgogICAgICAgIGZyb20gc2NpcHkuc2lnbmFsIGltcG9ydCBiZXNzZWwKICAgICAgICBueXEgPSBmcyAvIDIKICAgICAgICBiLCBhID0gYmVzc2VsKG9yZGVyLCBjdXRvZmYvbnlxIGlmIGlzaW5zdGFuY2UoY3V0b2ZmLCAoaW50LCBmbG9hdCkpCiAgICAgICAgICAgICAgICAgICAgICBlbHNlIFtjL255cSBmb3IgYyBpbiBjdXRvZmZdLCBidHlwZT1idHlwZSkKICAgICAgICByZXR1cm4gRmlsdGVyUmVzdWx0KAogICAgICAgICAgICBuYW1lPWYiQmVzc2VsX3tidHlwZX0oTj17b3JkZXJ9KSIsIGI9YiwgYT1hLCBvcmRlcj1vcmRlciwKICAgICAgICAgICAgZmlsdGVyX3R5cGU9IklJUiIsIGRlc2lnbl9tZXRob2Q9IkJlc3NlbCAo57q/5oCn55u45L2NKSIsCiAgICAgICAgICAgIGN1dG9mZl9pbmZvPWYi5oiq5q2iPXtjdXRvZmZ9SHosIOmYtuaVsD17b3JkZXJ9IgogICAgICAgICkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgaWlybm90Y2godzAsIFEsIGZzKSAtPiBGaWx0ZXJSZXN1bHQ6CiAgICAgICAgZnJvbSBzY2lweS5zaWduYWwgaW1wb3J0IGlpcm5vdGNoCiAgICAgICAgYiwgYSA9IGlpcm5vdGNoKHcwL2ZzKjIsIFEpCiAgICAgICAgcmV0dXJuIEZpbHRlclJlc3VsdCgKICAgICAgICAgICAgbmFtZT1mIk5vdGNoKHt3MH1IeixRPXtRfSkiLCBiPWIsIGE9YSwgb3JkZXI9MiwKICAgICAgICAgICAgZmlsdGVyX3R5cGU9IklJUiIsIGRlc2lnbl9tZXRob2Q9Ik5vdGNoIiwKICAgICAgICAgICAgY3V0b2ZmX2luZm89ZiLpmbfms6I9e3cwfUh6LCBRPXtRfSIKICAgICAgICApCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGlpcnBlYWsodzAsIFEsIGZzKSAtPiBGaWx0ZXJSZXN1bHQ6CiAgICAgICAgZnJvbSBzY2lweS5zaWduYWwgaW1wb3J0IGlpcnBlYWsKICAgICAgICBiLCBhID0gaWlycGVhayh3MC9mcyoyLCBRKQogICAgICAgIHJldHVybiBGaWx0ZXJSZXN1bHQoCiAgICAgICAgICAgIG5hbWU9ZiJQZWFrKHt3MH1IeixRPXtRfSkiLCBiPWIsIGE9YSwgb3JkZXI9MiwKICAgICAgICAgICAgZmlsdGVyX3R5cGU9IklJUiIsIGRlc2lnbl9tZXRob2Q9IlBlYWsiLAogICAgICAgICAgICBjdXRvZmZfaW5mbz1mIuWzsOWAvD17dzB9SHosIFE9e1F9IgogICAgICAgICkKCgpjbGFzcyBGaWx0ZXJCYW5rOgogICAgIiIi5ruk5rOi5Zmo57uEIOKAlCDlgI3popHnqIsv5YiG5pWw5YCN6aKR56iL5YiG5p6QIiIiCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIG9jdGF2ZV9hbmFseXNpcyhzaWduYWwsIG5fYmFuZHM9MTAsIGZfbWluPTIwLCBmX21heD1Ob25lKSAtPiBUdXBsZVtucC5uZGFycmF5LCBucC5uZGFycmF5LCBucC5uZGFycmF5XToKICAgICAgICAiIiLlgI3popHnqIvliIbmnpAiIiIKICAgICAgICBmcm9tIHNjaXB5LnNpZ25hbCBpbXBvcnQgYnV0dGVyLCBsZmlsdGVyCiAgICAgICAgaWYgZl9tYXggaXMgTm9uZToKICAgICAgICAgICAgZl9tYXggPSBzaWduYWwuZnMgLyAyLjUKICAgICAgICBmX2NlbnRlcnMgPSBucC5nZW9tc3BhY2UoZl9taW4sIGZfbWF4LCBuX2JhbmRzKQogICAgICAgIGJhbmRfcG93ZXIgPSBucC56ZXJvcyhuX2JhbmRzKQogICAgICAgIGZvciBpLCBmYyBpbiBlbnVtZXJhdGUoZl9jZW50ZXJzKToKICAgICAgICAgICAgZl9sb3cgPSBmYyAvIG5wLnNxcnQoMikKICAgICAgICAgICAgZl9oaWdoID0gZmMgKiBucC5zcXJ0KDIpCiAgICAgICAgICAgIGIsIGEgPSBidXR0ZXIoNCwgW2ZfbG93LyhzaWduYWwuZnMvMiksIGZfaGlnaC8oc2lnbmFsLmZzLzIpXSwgJ2JhbmRwYXNzJykKICAgICAgICAgICAgZmlsdGVyZWQgPSBsZmlsdGVyKGIsIGEsIHNpZ25hbC55KQogICAgICAgICAgICBiYW5kX3Bvd2VyW2ldID0gbnAubWVhbihmaWx0ZXJlZCoqMikKICAgICAgICByZXR1cm4gZl9jZW50ZXJzLCAxMCpucC5sb2cxMChiYW5kX3Bvd2VyKzFlLTE1KSwgYmFuZF9wb3dlcgo=
+"""滤波器设计引擎 v2.0 — FIR/IIR + 滤波器组 + 实时滤波"""
+import numpy as np
+from dataclasses import dataclass, field
+from typing import Optional, Tuple, List
+
+
+@dataclass
+class FilterResult:
+    name: str
+    b: np.ndarray
+    a: np.ndarray
+    order: int
+    filter_type: str
+    design_method: str
+    cutoff_info: str
+    freq: np.ndarray = None
+    mag: np.ndarray = None
+    phase: np.ndarray = None
+    zeros: np.ndarray = None
+    poles: np.ndarray = None
+    group_delay: np.ndarray = None
+    gd_freq: np.ndarray = None
+    params: dict = field(default_factory=dict)
+
+    def __post_init__(self):
+        if self.freq is None:
+            self._compute_response()
+
+    def _compute_response(self):
+        from scipy.signal import freqz, group_delay
+        w, h = freqz(self.b, self.a, worN=2048)
+        self.freq = w / np.pi * 500
+        self.mag = 20 * np.log10(np.abs(h) + 1e-15)
+        self.phase = np.unwrap(np.angle(h))
+        self.zeros = np.roots(self.b)
+        self.poles = np.roots(self.a)
+        try:
+            self.gd_freq, self.group_delay = group_delay((self.b, self.a), worN=2048)
+        except Exception:
+            self.gd_freq, self.group_delay = None, None
+
+    def apply(self, signal) -> "Signal":
+        from scipy.signal import lfilter, filtfilt
+        from signal_engine import Signal
+        y = lfilter(self.b, self.a, signal.y)
+        return Signal(name=f"filtered({signal.name})", t=signal.t.copy(), y=y,
+                      fs=signal.fs, signal_type=signal.signal_type,
+                      params={"filter": self.name})
+
+    def apply_filtfilt(self, signal) -> "Signal":
+        """零相位滤波"""
+        from scipy.signal import filtfilt
+        from signal_engine import Signal
+        y = filtfilt(self.b, self.a, signal.y)
+        return Signal(name=f"filtfilt({signal.name})", t=signal.t.copy(), y=y,
+                      fs=signal.fs, signal_type=signal.signal_type)
+
+    def impulse_response(self, n=100):
+        from scipy.signal import lfilter
+        imp = np.zeros(n)
+        imp[0] = 1.0
+        return np.arange(n), lfilter(self.b, self.a, imp)
+
+    def step_response(self, n=100):
+        from scipy.signal import lfilter
+        return np.arange(n), lfilter(self.b, self.a, np.ones(n))
+
+
+class FIRFilter:
+    """FIR 滤波器设计 — 窗函数 + Remez"""
+
+    WINDOWS = ['hamming', 'hann', 'blackman', 'bartlett', 'kaiser', 'rectangular',
+               'flattop', 'nuttall', 'barthann', 'lanczos', 'tukey', 'chebwin']
+
+    @staticmethod
+    def window_method(cutoff, fs, numtaps=101, window='hamming', pass_zero=True) -> FilterResult:
+        from scipy.signal import firwin
+        nyq = fs / 2
+        cutoff_norm = cutoff / nyq if isinstance(cutoff, (int, float)) else [c/nyq for c in cutoff]
+        if window == 'kaiser':
+            w = ('kaiser', 14)
+        elif window == 'chebwin':
+            w = ('chebwin', 60)
+        elif window == 'tukey':
+            w = ('tukey', 0.5)
+        else:
+            w = window
+        b = firwin(numtaps, cutoff_norm, window=w, pass_zero=pass_zero)
+        return FilterResult(
+            name=f"FIR_{window}(fc={cutoff}Hz)", b=b, a=[1.0], order=numtaps-1,
+            filter_type="FIR", design_method=f"窗函数法({window})",
+            cutoff_info=f"截止={cutoff}Hz, 阶数={numtaps-1}",
+            params={"cutoff": cutoff, "fs": fs, "numtaps": numtaps, "window": window}
+        )
+
+    @staticmethod
+    def remez(bands, desired, fs, numtaps=101, weight=None) -> FilterResult:
+        from scipy.signal import remez as scipy_remez
+        nyq = fs / 2
+        bands_norm = [b/nyq for b in bands]
+        b = scipy_remez(numtaps, bands_norm, desired, weight=weight, fs=2)
+        return FilterResult(
+            name=f"FIR_Remez(N={numtaps-1})", b=b, a=[1.0], order=numtaps-1,
+            filter_type="FIR", design_method="Parks-McClellan (Remez)",
+            cutoff_info=f"频带={bands}, 阶数={numtaps-1}"
+        )
+
+
+class IIRFilter:
+    """IIR 滤波器设计 — Butterworth, Chebyshev I/II, Elliptic, Bessel"""
+
+    @staticmethod
+    def butterworth(order, cutoff, fs, btype='lowpass') -> FilterResult:
+        from scipy.signal import butter
+        nyq = fs / 2
+        b, a = butter(order, cutoff/nyq if isinstance(cutoff, (int, float))
+                      else [c/nyq for c in cutoff], btype=btype)
+        return FilterResult(
+            name=f"Butter_{btype}(N={order})", b=b, a=a, order=order,
+            filter_type="IIR", design_method="Butterworth",
+            cutoff_info=f"截止={cutoff}Hz, 阶数={order}"
+        )
+
+    @staticmethod
+    def chebyshev1(order, cutoff, rp, fs, btype='lowpass') -> FilterResult:
+        from scipy.signal import cheby1
+        nyq = fs / 2
+        b, a = cheby1(order, rp, cutoff/nyq if isinstance(cutoff, (int, float))
+                      else [c/nyq for c in cutoff], btype=btype)
+        return FilterResult(
+            name=f"ChebyI_{btype}(N={order})", b=b, a=a, order=order,
+            filter_type="IIR", design_method=f"Chebyshev I (rp={rp}dB)",
+            cutoff_info=f"截止={cutoff}Hz, 阶数={order}, 波纹={rp}dB"
+        )
+
+    @staticmethod
+    def chebyshev2(order, cutoff, rs, fs, btype='lowpass') -> FilterResult:
+        from scipy.signal import cheby2
+        nyq = fs / 2
+        b, a = cheby2(order, rs, cutoff/nyq if isinstance(cutoff, (int, float))
+                      else [c/nyq for c in cutoff], btype=btype)
+        return FilterResult(
+            name=f"ChebyII_{btype}(N={order})", b=b, a=a, order=order,
+            filter_type="IIR", design_method=f"Chebyshev II (rs={rs}dB)",
+            cutoff_info=f"截止={cutoff}Hz, 阶数={order}, 阻带衰减={rs}dB"
+        )
+
+    @staticmethod
+    def elliptic(order, cutoff, rp, rs, fs, btype='lowpass') -> FilterResult:
+        from scipy.signal import ellip
+        nyq = fs / 2
+        b, a = ellip(order, rp, rs, cutoff/nyq if isinstance(cutoff, (int, float))
+                     else [c/nyq for c in cutoff], btype=btype)
+        return FilterResult(
+            name=f"Elliptic_{btype}(N={order})", b=b, a=a, order=order,
+            filter_type="IIR", design_method=f"Elliptic (rp={rp}dB,rs={rs}dB)",
+            cutoff_info=f"截止={cutoff}Hz, 阶数={order}"
+        )
+
+    @staticmethod
+    def bessel(order, cutoff, fs, btype='lowpass') -> FilterResult:
+        from scipy.signal import bessel
+        nyq = fs / 2
+        b, a = bessel(order, cutoff/nyq if isinstance(cutoff, (int, float))
+                      else [c/nyq for c in cutoff], btype=btype)
+        return FilterResult(
+            name=f"Bessel_{btype}(N={order})", b=b, a=a, order=order,
+            filter_type="IIR", design_method="Bessel (线性相位)",
+            cutoff_info=f"截止={cutoff}Hz, 阶数={order}"
+        )
+
+    @staticmethod
+    def iirnotch(w0, Q, fs) -> FilterResult:
+        from scipy.signal import iirnotch
+        b, a = iirnotch(w0/fs*2, Q)
+        return FilterResult(
+            name=f"Notch({w0}Hz,Q={Q})", b=b, a=a, order=2,
+            filter_type="IIR", design_method="Notch",
+            cutoff_info=f"陷波={w0}Hz, Q={Q}"
+        )
+
+    @staticmethod
+    def iirpeak(w0, Q, fs) -> FilterResult:
+        from scipy.signal import iirpeak
+        b, a = iirpeak(w0/fs*2, Q)
+        return FilterResult(
+            name=f"Peak({w0}Hz,Q={Q})", b=b, a=a, order=2,
+            filter_type="IIR", design_method="Peak",
+            cutoff_info=f"峰值={w0}Hz, Q={Q}"
+        )
+
+
+class FilterBank:
+    """滤波器组 — 倍频程/分数倍频程分析"""
+
+    @staticmethod
+    def octave_analysis(signal, n_bands=10, f_min=20, f_max=None) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
+        """倍频程分析"""
+        from scipy.signal import butter, lfilter
+        if f_max is None:
+            f_max = signal.fs / 2.5
+        f_centers = np.geomspace(f_min, f_max, n_bands)
+        band_power = np.zeros(n_bands)
+        for i, fc in enumerate(f_centers):
+            f_low = fc / np.sqrt(2)
+            f_high = fc * np.sqrt(2)
+            b, a = butter(4, [f_low/(signal.fs/2), f_high/(signal.fs/2)], 'bandpass')
+            filtered = lfilter(b, a, signal.y)
+            band_power[i] = np.mean(filtered**2)
+        return f_centers, 10*np.log10(band_power+1e-15), band_power

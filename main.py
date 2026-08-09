@@ -1,1 +1,246 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK5L+h5Y+35YiG5p6Q5bel5YW3566xIHYyLjEg4oCUIFZTIENvZGUg6aOO5qC855WM6Z2i77yI6YeN5p6E54mI77yJCua0u+WKqOagjyB8IOS+p+mdouadvyB8IOS4reWkruagh+etvumhtSB8IOW6lemDqOmdouadvyB8IOeKtuaAgeagjwoiIiIKaW1wb3J0IHN5cwppbXBvcnQgbnVtcHkgYXMgbnAKCmZyb20gUHlRdDYuUXRXaWRnZXRzIGltcG9ydCAoCiAgICBRQXBwbGljYXRpb24sIFFNYWluV2luZG93LCBRV2lkZ2V0LCBRSEJveExheW91dCwKICAgIFFUYWJXaWRnZXQsIFFTcGxpdHRlciwgUUZpbGVEaWFsb2csIFFNZXNzYWdlQm94LAogICAgUVN0YXR1c0JhciwgUURvY2tXaWRnZXQsCikKZnJvbSBQeVF0Ni5RdENvcmUgaW1wb3J0IFF0CmZyb20gUHlRdDYuUXRHdWkgaW1wb3J0IFFGb250LCBRQWN0aW9uCgppbXBvcnQgbWF0cGxvdGxpYgptYXRwbG90bGliLnVzZSgnUXRBZ2cnKQoKZnJvbSB1aS50aGVtZSBpbXBvcnQgREFSS19TVFlMRQpmcm9tIHVpLmxvZ2dlciBpbXBvcnQgbG9nLCBvcCwgZXJyLCB3YXJuCmZyb20gdWkuYWN0aXZpdHlfYmFyIGltcG9ydCBBY3Rpdml0eUJhcgpmcm9tIHVpLnBhbmVscy5zaWduYWxfcGFuZWwgaW1wb3J0IFNpZ25hbE1hbmFnZXIsIFNpZ25hbEdlblBhbmVsCmZyb20gdWkucGFuZWxzLnRpbWVfcGFuZWwgaW1wb3J0IFRpbWVEb21haW5QYW5lbApmcm9tIHVpLnBhbmVscy5mb3VyaWVyX3BhbmVsIGltcG9ydCBGb3VyaWVyUGFuZWwKZnJvbSB1aS5wYW5lbHMubGFwbGFjZV9wYW5lbCBpbXBvcnQgTGFwbGFjZVBhbmVsCmZyb20gdWkucGFuZWxzLmZpbHRlcl9wYW5lbCBpbXBvcnQgRmlsdGVyUGFuZWwKZnJvbSB1aS5wYW5lbHMuZHNwX3BhbmVsIGltcG9ydCBEU1BQYW5lbApmcm9tIHVpLnBhbmVscy5hdWRpb19wYW5lbCBpbXBvcnQgQXVkaW9QYW5lbApmcm9tIHVpLnBhbmVscy5pbXBvcnRfcGFuZWwgaW1wb3J0IEltcG9ydFBhbmVsCmZyb20gdWkucGFuZWxzLmhlbHBfcGFuZWwgaW1wb3J0IEhlbHBQYW5lbApmcm9tIHNpZ25hbF9lbmdpbmUgaW1wb3J0IFNpZ25hbEdlbmVyYXRvcgoKCmNsYXNzIE1haW5XaW5kb3coUU1haW5XaW5kb3cpOgogICAgIiIi5Li756qX5Y+jIOKAlCBWUyBDb2RlIOmjjuagvOS/oeWPt+WIhuaekOW3peWFt+eusSIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLm1hbmFnZXIgPSBTaWduYWxNYW5hZ2VyKCkKICAgICAgICBzZWxmLnNldFdpbmRvd1RpdGxlKCLkv6Hlj7fliIbmnpDlt6XlhbfnrrEgdjIuMSDigJQgU2lnbmFsIEFuYWx5emVyIFBybyIpCiAgICAgICAgc2VsZi5yZXNpemUoMTM2MCwgODIwKQogICAgICAgIHNlbGYuc2V0TWluaW11bVNpemUoMTAwMCwgNjAwKQogICAgICAgIG9wKCJhcHBfaW5pdCIsIHNpemU9ZiJ7MTM2MH14ezgyMH0iKQoKICAgICAgICBzY3JlZW4gPSBRQXBwbGljYXRpb24ucHJpbWFyeVNjcmVlbigpLmF2YWlsYWJsZUdlb21ldHJ5KCkKICAgICAgICBzZWxmLm1vdmUoKHNjcmVlbi53aWR0aCgpIC0gMTM2MCkgLy8gMiwgKHNjcmVlbi5oZWlnaHQoKSAtIDgyMCkgLy8gMikKCiAgICAgICAgc2VsZi5fc2V0dXBfdWkoKQogICAgICAgIHNlbGYuX3NldHVwX21lbnUoKQogICAgICAgIHNlbGYuX3NldHVwX3N0YXR1c2JhcigpCgogICAgICAgICMg6buY6K6k55Sf5oiQ5LiA5Liq5L+h5Y+3CiAgICAgICAgdHJ5OgogICAgICAgICAgICBzaWcgPSBTaWduYWxHZW5lcmF0b3IubXVsdGlfdG9uZShbNSwgMjAsIDUwXSwgWzEsIDAuNSwgMC4zXSkKICAgICAgICAgICAgc2VsZi5tYW5hZ2VyLmFkZChzaWcpCiAgICAgICAgICAgIHNlbGYuc2lnbmFsX3BhbmVsLl9yZWZyZXNoX2xpc3QoKQogICAgICAgICAgICBzZWxmLnNpZ25hbF9wYW5lbC5zaWduYWxfY2hhbmdlZC5lbWl0KCkKICAgICAgICAgICAgb3AoImRlZmF1bHRfc2lnbmFsIiwgbmFtZT1zaWcubmFtZSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGVycigiZGVmYXVsdF9zaWduYWxfZmFpbCIsIGUpCgogICAgZGVmIF9zZXR1cF91aShzZWxmKToKICAgICAgICBjZW50cmFsID0gUVdpZGdldCgpCiAgICAgICAgc2VsZi5zZXRDZW50cmFsV2lkZ2V0KGNlbnRyYWwpCiAgICAgICAgbWFpbl9sYXlvdXQgPSBRSEJveExheW91dChjZW50cmFsKQogICAgICAgIG1haW5fbGF5b3V0LnNldENvbnRlbnRzTWFyZ2lucygwLCAwLCAwLCAwKQogICAgICAgIG1haW5fbGF5b3V0LnNldFNwYWNpbmcoMCkKCiAgICAgICAgIyDmtLvliqjmoI8KICAgICAgICBzZWxmLmFjdGl2aXR5X2JhciA9IEFjdGl2aXR5QmFyKCkKICAgICAgICBtYWluX2xheW91dC5hZGRXaWRnZXQoc2VsZi5hY3Rpdml0eV9iYXIpCgogICAgICAgICMg5bem5L6n6Z2i5p2/77yI5L+h5Y+3566h55CG77yJCiAgICAgICAgc2VsZi5zaWduYWxfcGFuZWwgPSBTaWduYWxHZW5QYW5lbChzZWxmLm1hbmFnZXIpCiAgICAgICAgc2VsZi5zaWduYWxfcGFuZWwuc2lnbmFsX2NoYW5nZWQuY29ubmVjdChzZWxmLl9vbl9zaWduYWxfY2hhbmdlZCkKICAgICAgICBsZWZ0X2RvY2sgPSBRRG9ja1dpZGdldCgi5L+h5Y+36LWE5rqQ566h55CG5ZmoIikKICAgICAgICBsZWZ0X2RvY2suc2V0V2lkZ2V0KHNlbGYuc2lnbmFsX3BhbmVsKQogICAgICAgIGxlZnRfZG9jay5zZXRGZWF0dXJlcyhRRG9ja1dpZGdldC5Eb2NrV2lkZ2V0RmVhdHVyZS5Ob0RvY2tXaWRnZXRGZWF0dXJlcykKICAgICAgICBsZWZ0X2RvY2suc2V0TWluaW11bVdpZHRoKDI4MCkKICAgICAgICBsZWZ0X2RvY2suc2V0U3R5bGVTaGVldCgiUURvY2tXaWRnZXQ6OnRpdGxlIHsgYmFja2dyb3VuZDogIzI1MjUyNjsgdGV4dC1hbGlnbjogbGVmdDsgfSIpCgogICAgICAgICMg5Lit5aSu5qCH562+6aG1CiAgICAgICAgc2VsZi50YWJzID0gUVRhYldpZGdldCgpCiAgICAgICAgc2VsZi50YWJzLnNldERvY3VtZW50TW9kZShUcnVlKQogICAgICAgIHNlbGYudGFicy5zZXRUYWJQb3NpdGlvbihRVGFiV2lkZ2V0LlRhYlBvc2l0aW9uLk5vcnRoKQoKICAgICAgICBzZWxmLnRpbWVfcGFuZWwgPSBUaW1lRG9tYWluUGFuZWwoc2VsZi5tYW5hZ2VyKQogICAgICAgIHNlbGYuZm91cmllcl9wYW5lbCA9IEZvdXJpZXJQYW5lbChzZWxmLm1hbmFnZXIpCiAgICAgICAgc2VsZi5sYXBsYWNlX3BhbmVsID0gTGFwbGFjZVBhbmVsKHNlbGYubWFuYWdlcikKICAgICAgICBzZWxmLmZpbHRlcl9wYW5lbCA9IEZpbHRlclBhbmVsKHNlbGYubWFuYWdlcikKICAgICAgICBzZWxmLmRzcF9wYW5lbCA9IERTUFBhbmVsKHNlbGYubWFuYWdlcikKICAgICAgICBzZWxmLmF1ZGlvX3BhbmVsID0gQXVkaW9QYW5lbChzZWxmLm1hbmFnZXIpCiAgICAgICAgc2VsZi5pbXBvcnRfcGFuZWwgPSBJbXBvcnRQYW5lbChzZWxmLm1hbmFnZXIpCiAgICAgICAgc2VsZi5pbXBvcnRfcGFuZWwuc2lnbmFsX2ltcG9ydGVkLmNvbm5lY3Qoc2VsZi5fb25fc2lnbmFsX2NoYW5nZWQpCiAgICAgICAgc2VsZi5oZWxwX3BhbmVsID0gSGVscFBhbmVsKCkKCiAgICAgICAgc2VsZi50YWJzLmFkZFRhYihzZWxmLnRpbWVfcGFuZWwsICJUaW1lIOaXtuWfnyIpCiAgICAgICAgc2VsZi50YWJzLmFkZFRhYihzZWxmLmZvdXJpZXJfcGFuZWwsICJGRlQg5YKF6YeM5Y+2IikKICAgICAgICBzZWxmLnRhYnMuYWRkVGFiKHNlbGYubGFwbGFjZV9wYW5lbCwgIkxhcCDmi4nmma7mi4nmlq8iKQogICAgICAgIHNlbGYudGFicy5hZGRUYWIoc2VsZi5maWx0ZXJfcGFuZWwsICJGaWx0IOa7pOazouWZqCIpCiAgICAgICAgc2VsZi50YWJzLmFkZFRhYihzZWxmLmRzcF9wYW5lbCwgIkRTUCDpopHosLEiKQogICAgICAgIHNlbGYudGFicy5hZGRUYWIoc2VsZi5hdWRpb19wYW5lbCwgIk1pYyDpn7PpopEiKQogICAgICAgIHNlbGYudGFicy5hZGRUYWIoc2VsZi5pbXBvcnRfcGFuZWwsICJGaWxlIOWvvOWFpSIpCiAgICAgICAgc2VsZi50YWJzLmFkZFRhYihzZWxmLmhlbHBfcGFuZWwsICJIZWxwIOW4ruWKqSIpCgogICAgICAgICMg5rS75Yqo5qCP5YiH5o2i5qCH562+6aG1CiAgICAgICAgc2VsZi5hY3Rpdml0eV9iYXIudGFiX2NoYW5nZWQuY29ubmVjdCgKICAgICAgICAgICAgbGFtYmRhIGk6IHNlbGYudGFicy5zZXRDdXJyZW50SW5kZXgobWluKGksIHNlbGYudGFicy5jb3VudCgpIC0gMSkpCiAgICAgICAgKQoKICAgICAgICAjIOS/oeWPt+WPmOabtOaXtuiHquWKqOWIt+aWsOaXtuWfn+mdouadvwogICAgICAgIHNlbGYubWFuYWdlci5vbl9jaGFuZ2UobGFtYmRhOiBzZWxmLnRpbWVfcGFuZWwucGxvdCgpKQoKICAgICAgICAjIOe7hOijheW4g+WxgAogICAgICAgIHJpZ2h0X3NwbGl0dGVyID0gUVNwbGl0dGVyKFF0Lk9yaWVudGF0aW9uLkhvcml6b250YWwpCiAgICAgICAgcmlnaHRfc3BsaXR0ZXIuYWRkV2lkZ2V0KGxlZnRfZG9jaykKICAgICAgICByaWdodF9zcGxpdHRlci5hZGRXaWRnZXQoc2VsZi50YWJzKQogICAgICAgIHJpZ2h0X3NwbGl0dGVyLnNldFNpemVzKFszMDAsIDEyMDBdKQogICAgICAgIG1haW5fbGF5b3V0LmFkZFdpZGdldChyaWdodF9zcGxpdHRlcikKCiAgICBkZWYgX3NldHVwX21lbnUoc2VsZik6CiAgICAgICAgbWVudWJhciA9IHNlbGYubWVudUJhcigpCiAgICAgICAgbWVudWJhci5zZXRTdHlsZVNoZWV0KCJRTWVudUJhciB7IGJhY2tncm91bmQ6ICMyZDJkMmQ7IGNvbG9yOiAjY2NjOyB9IikKCiAgICAgICAgZmlsZV9tZW51ID0gbWVudWJhci5hZGRNZW51KCLmlofku7YiKQogICAgICAgIGZvciB0ZXh0LCBzbG90IGluIFsKICAgICAgICAgICAgKCLlr7zlhaVDU1YiLCBsYW1iZGE6IHNlbGYuX2ltcG9ydCgiY3N2IikpLAogICAgICAgICAgICAoIuWvvOWFpVdBViIsIGxhbWJkYTogc2VsZi5faW1wb3J0KCJ3YXYiKSksCiAgICAgICAgICAgICgi5a+85YWlTUFUIiwgbGFtYmRhOiBzZWxmLl9pbXBvcnQoIm1hdCIpKSwKICAgICAgICAgICAgKCLlr7zlh7pDU1YiLCBzZWxmLl9leHBvcnRfY3N2KSwKICAgICAgICAgICAgKCLlr7zlh7rlm77niYciLCBzZWxmLl9leHBvcnRfZmlnKSwKICAgICAgICBdOgogICAgICAgICAgICBhY3QgPSBRQWN0aW9uKHRleHQsIHNlbGYpCiAgICAgICAgICAgIGFjdC50cmlnZ2VyZWQuY29ubmVjdChzbG90KQogICAgICAgICAgICBmaWxlX21lbnUuYWRkQWN0aW9uKGFjdCkKICAgICAgICBmaWxlX21lbnUuYWRkU2VwYXJhdG9yKCkKICAgICAgICBhY3RfcXVpdCA9IFFBY3Rpb24oIumAgOWHuiIsIHNlbGYpCiAgICAgICAgYWN0X3F1aXQudHJpZ2dlcmVkLmNvbm5lY3Qoc2VsZi5jbG9zZSkKICAgICAgICBmaWxlX21lbnUuYWRkQWN0aW9uKGFjdF9xdWl0KQoKICAgICAgICBoZWxwX21lbnUgPSBtZW51YmFyLmFkZE1lbnUoIuW4ruWKqSIpCiAgICAgICAgYWN0X2Fib3V0ID0gUUFjdGlvbigi5YWz5LqOIiwgc2VsZikKICAgICAgICBhY3RfYWJvdXQudHJpZ2dlcmVkLmNvbm5lY3QobGFtYmRhOiBRTWVzc2FnZUJveC5hYm91dCgKICAgICAgICAgICAgc2VsZiwgIuWFs+S6jiIsCiAgICAgICAgICAgICLkv6Hlj7fliIbmnpDlt6XlhbfnrrEgdjIuMVxuXG4iCiAgICAgICAgICAgICLwn46vIDIwK+enjeS/oeWPt+exu+WeiyB8IDEwK+enjeWIhuaekOaWueazlVxuIgogICAgICAgICAgICAiRklSL0lJUua7pOazouWZqOiuvuiuoSB8IOWunuaXtumfs+mikVxuIgogICAgICAgICAgICAi8J+TiiBDV1Qv5biM5bCU5Lyv54m5L+WAkuiwsS/nm7jlubLmgKdcbiIKICAgICAgICAgICAgIvCfjqggVlMgQ29kZSDpo47moLzmmpfoibLnlYzpnaJcbiIKICAgICAgICAgICAgIvCflKcg6YeN5p6E54mIOiDmqKHlnZfljJYgVUkg5p625p6EXG5cbiIKICAgICAgICAgICAgIlBvd2VyZWQgYnk6IFB5UXQ2ICsgTnVtUHkgKyBTY2lQeSArIFN5bVB5ICsgTWF0cGxvdGxpYiIsCiAgICAgICAgKSkKICAgICAgICBoZWxwX21lbnUuYWRkQWN0aW9uKGFjdF9hYm91dCkKCiAgICBkZWYgX3NldHVwX3N0YXR1c2JhcihzZWxmKToKICAgICAgICBzZWxmLnN0YXR1c2JhciA9IFFTdGF0dXNCYXIoKQogICAgICAgIHNlbGYuc3RhdHVzYmFyLnNldFN0eWxlU2hlZXQoCiAgICAgICAgICAgICJRU3RhdHVzQmFyIHsgYmFja2dyb3VuZDogIzAwN2FjYzsgY29sb3I6IHdoaXRlOyB9IgogICAgICAgICkKICAgICAgICBzZWxmLnN0YXR1c2Jhci5zaG93TWVzc2FnZSgi5bCx57uqIOKAlCDpgInmi6nkuIDkuKrkv6Hlj7flvIDlp4vliIbmnpAiKQogICAgICAgIHNlbGYuc2V0U3RhdHVzQmFyKHNlbGYuc3RhdHVzYmFyKQoKICAgIGRlZiBfb25fc2lnbmFsX2NoYW5nZWQoc2VsZik6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBzZWwgPSBzZWxmLm1hbmFnZXIuc2VsZWN0ZWQKICAgICAgICAgICAgbmFtZSA9IHNlbC5uYW1lIGlmIHNlbCBlbHNlICdOb25lJwogICAgICAgICAgICBuX2NoZWNrZWQgPSBsZW4oc2VsZi5tYW5hZ2VyLmNoZWNrZWRfc2lnbmFscykKICAgICAgICAgICAgbl90b3RhbCA9IGxlbihzZWxmLm1hbmFnZXIuc2lnbmFscykKICAgICAgICAgICAgc2VsZi5zdGF0dXNiYXIuc2hvd01lc3NhZ2UoCiAgICAgICAgICAgICAgICBmIuW9k+WJjeS/oeWPtzoge25hbWV9ICB8ICDlt7Lli77pgIkge25fY2hlY2tlZH0ve25fdG90YWx9IOS4quS/oeWPtyIKICAgICAgICAgICAgKQogICAgICAgICAgICAjIOaXoOWLvumAieS/oeWPt+aXtua4heepuuaJgOaciemdouadvwogICAgICAgICAgICBpZiBuX2NoZWNrZWQgPT0gMDoKICAgICAgICAgICAgICAgIHNlbGYuZm91cmllcl9wYW5lbC5jbGVhcl9vbl9lbXB0eSgpCiAgICAgICAgICAgICAgICBzZWxmLmRzcF9wYW5lbC5jbGVhcl9vbl9lbXB0eSgpCiAgICAgICAgICAgICAgICBzZWxmLmZpbHRlcl9wYW5lbC5jbGVhcl9vbl9lbXB0eSgpCiAgICAgICAgICAgICAgICBzZWxmLmxhcGxhY2VfcGFuZWwuY2xlYXJfb25fZW1wdHkoKQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgZXJyKCJzdGF0dXNiYXJfdXBkYXRlIiwgZSkKCiAgICBkZWYgX2ltcG9ydChzZWxmLCBmbXQpOgogICAgICAgIG9wKCJtZW51X2ltcG9ydCIsIGZvcm1hdD1mbXQpCiAgICAgICAgc2VsZi50YWJzLnNldEN1cnJlbnRJbmRleCg2KSAgIyBGaWxlIHRhYgoKICAgIGRlZiBfZXhwb3J0X2NzdihzZWxmKToKICAgICAgICBpZiBzZWxmLm1hbmFnZXIuc2VsZWN0ZWQ6CiAgICAgICAgICAgIHBhdGgsIF8gPSBRRmlsZURpYWxvZy5nZXRTYXZlRmlsZU5hbWUoCiAgICAgICAgICAgICAgICBzZWxmLCAi5a+85Ye6Q1NWIiwgZiJ7c2VsZi5tYW5hZ2VyLnNlbGVjdGVkLm5hbWV9LmNzdiIsICJDU1YgKCouY3N2KSIKICAgICAgICAgICAgKQogICAgICAgICAgICBpZiBwYXRoOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIFNpZ25hbEdlbmVyYXRvci5leHBvcnRfY3N2KHNlbGYubWFuYWdlci5zZWxlY3RlZCwgcGF0aCkKICAgICAgICAgICAgICAgICAgICBvcCgiZXhwb3J0X2NzdiIsIHBhdGg9cGF0aCwgbmFtZT1zZWxmLm1hbmFnZXIuc2VsZWN0ZWQubmFtZSkKICAgICAgICAgICAgICAgICAgICBzZWxmLnN0YXR1c2Jhci5zaG93TWVzc2FnZShmIkNTViDlt7Llr7zlh7o6IHtwYXRofSIpCiAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgZXJyKCJleHBvcnRfY3N2X2ZhaWwiLCBlLCBwYXRoPXBhdGgpCiAgICAgICAgICAgICAgICAgICAgUU1lc3NhZ2VCb3gud2FybmluZyhzZWxmLCAi6ZSZ6K+vIiwgc3RyKGUpKQoKICAgIGRlZiBfZXhwb3J0X2ZpZyhzZWxmKToKICAgICAgICBwYXRoLCBfID0gUUZpbGVEaWFsb2cuZ2V0U2F2ZUZpbGVOYW1lKAogICAgICAgICAgICBzZWxmLCAi5a+85Ye65Zu+54mHIiwgImZpZ3VyZS5wbmciLCAiUE5HICgqLnBuZyk7O1NWRyAoKi5zdmcpIgogICAgICAgICkKICAgICAgICBpZiBwYXRoOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBjdXJyZW50X3RhYiA9IHNlbGYudGFicy5jdXJyZW50V2lkZ2V0KCkKICAgICAgICAgICAgICAgIGlmIGhhc2F0dHIoY3VycmVudF90YWIsICdjYW52YXMnKToKICAgICAgICAgICAgICAgICAgICBjdXJyZW50X3RhYi5jYW52YXMuc2F2ZV9maWd1cmUocGF0aCkKICAgICAgICAgICAgICAgICAgICBvcCgiZXhwb3J0X2ZpZyIsIHBhdGg9cGF0aCkKICAgICAgICAgICAgICAgICAgICBzZWxmLnN0YXR1c2Jhci5zaG93TWVzc2FnZShmIuWbvueJh+W3suWvvOWHujoge3BhdGh9IikKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgd2FybigiZXhwb3J0X2ZpZyIsICJubyBjYW52YXMgb24gY3VycmVudCB0YWIiKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICBlcnIoImV4cG9ydF9maWdfZmFpbCIsIGUsIHBhdGg9cGF0aCkKICAgICAgICAgICAgICAgIFFNZXNzYWdlQm94Lndhcm5pbmcoc2VsZiwgIumUmeivryIsIHN0cihlKSkKCgpkZWYgbWFpbigpOgogICAgb3AoImFwcF9zdGFydCIpCiAgICBhcHAgPSBRQXBwbGljYXRpb24oc3lzLmFyZ3YpCiAgICBhcHAuc2V0U3R5bGUoIkZ1c2lvbiIpCiAgICBhcHAuc2V0U3R5bGVTaGVldChEQVJLX1NUWUxFKQoKICAgIGZvbnQgPSBRRm9udCgiTWljcm9zb2Z0IFlhSGVpIFVJIiwgOSkKICAgIGFwcC5zZXRGb250KGZvbnQpCiAgICB0cnk6CiAgICAgICAgaW1wb3J0IG1hdHBsb3RsaWIKICAgICAgICBtYXRwbG90bGliLnJjUGFyYW1zWydmb250LmZhbWlseSddID0gJ01pY3Jvc29mdCBZYUhlaScKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcGFzcwogICAgbWF0cGxvdGxpYi5yY1BhcmFtc1snYXhlcy51bmljb2RlX21pbnVzJ10gPSBGYWxzZQoKICAgIHRyeToKICAgICAgICB3aW5kb3cgPSBNYWluV2luZG93KCkKICAgICAgICB3aW5kb3cuc2hvdygpCiAgICAgICAgb3AoIndpbmRvd19zaG93biIpCiAgICAgICAgZXhpdF9jb2RlID0gYXBwLmV4ZWMoKQogICAgICAgIG9wKCJhcHBfZXhpdCIsIGNvZGU9ZXhpdF9jb2RlKQogICAgICAgIHN5cy5leGl0KGV4aXRfY29kZSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBlcnIoImFwcF9jcmFzaCIsIGUpCiAgICAgICAgc3lzLmV4aXQoMSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+"""
+信号分析工具箱 v2.1 — VS Code 风格界面（重构版）
+活动栏 | 侧面板 | 中央标签页 | 底部面板 | 状态栏
+"""
+import sys
+import numpy as np
+
+from PyQt6.QtWidgets import (
+    QApplication, QMainWindow, QWidget, QHBoxLayout,
+    QTabWidget, QSplitter, QFileDialog, QMessageBox,
+    QStatusBar, QDockWidget,
+)
+from PyQt6.QtCore import Qt
+from PyQt6.QtGui import QFont, QAction
+
+import matplotlib
+matplotlib.use('QtAgg')
+
+from ui.theme import DARK_STYLE
+from ui.logger import log, op, err, warn
+from ui.activity_bar import ActivityBar
+from ui.panels.signal_panel import SignalManager, SignalGenPanel
+from ui.panels.time_panel import TimeDomainPanel
+from ui.panels.fourier_panel import FourierPanel
+from ui.panels.laplace_panel import LaplacePanel
+from ui.panels.filter_panel import FilterPanel
+from ui.panels.dsp_panel import DSPPanel
+from ui.panels.audio_panel import AudioPanel
+from ui.panels.import_panel import ImportPanel
+from ui.panels.help_panel import HelpPanel
+from signal_engine import SignalGenerator
+
+
+class MainWindow(QMainWindow):
+    """主窗口 — VS Code 风格信号分析工具箱"""
+
+    def __init__(self):
+        super().__init__()
+        self.manager = SignalManager()
+        self.setWindowTitle("信号分析工具箱 v2.1 — Signal Analyzer Pro")
+        self.resize(1360, 820)
+        self.setMinimumSize(1000, 600)
+        op("app_init", size=f"{1360}x{820}")
+
+        screen = QApplication.primaryScreen().availableGeometry()
+        self.move((screen.width() - 1360) // 2, (screen.height() - 820) // 2)
+
+        self._setup_ui()
+        self._setup_menu()
+        self._setup_statusbar()
+
+        # 默认生成一个信号
+        try:
+            sig = SignalGenerator.multi_tone([5, 20, 50], [1, 0.5, 0.3])
+            self.manager.add(sig)
+            self.signal_panel._refresh_list()
+            self.signal_panel.signal_changed.emit()
+            op("default_signal", name=sig.name)
+        except Exception as e:
+            err("default_signal_fail", e)
+
+    def _setup_ui(self):
+        central = QWidget()
+        self.setCentralWidget(central)
+        main_layout = QHBoxLayout(central)
+        main_layout.setContentsMargins(0, 0, 0, 0)
+        main_layout.setSpacing(0)
+
+        # 活动栏
+        self.activity_bar = ActivityBar()
+        main_layout.addWidget(self.activity_bar)
+
+        # 左侧面板（信号管理）
+        self.signal_panel = SignalGenPanel(self.manager)
+        self.signal_panel.signal_changed.connect(self._on_signal_changed)
+        left_dock = QDockWidget("信号资源管理器")
+        left_dock.setWidget(self.signal_panel)
+        left_dock.setFeatures(QDockWidget.DockWidgetFeature.NoDockWidgetFeatures)
+        left_dock.setMinimumWidth(280)
+        left_dock.setStyleSheet("QDockWidget::title { background: #252526; text-align: left; }")
+
+        # 中央标签页
+        self.tabs = QTabWidget()
+        self.tabs.setDocumentMode(True)
+        self.tabs.setTabPosition(QTabWidget.TabPosition.North)
+
+        self.time_panel = TimeDomainPanel(self.manager)
+        self.fourier_panel = FourierPanel(self.manager)
+        self.laplace_panel = LaplacePanel(self.manager)
+        self.filter_panel = FilterPanel(self.manager)
+        self.dsp_panel = DSPPanel(self.manager)
+        self.audio_panel = AudioPanel(self.manager)
+        self.import_panel = ImportPanel(self.manager)
+        self.import_panel.signal_imported.connect(self._on_signal_changed)
+        self.help_panel = HelpPanel()
+
+        self.tabs.addTab(self.time_panel, "Time 时域")
+        self.tabs.addTab(self.fourier_panel, "FFT 傅里叶")
+        self.tabs.addTab(self.laplace_panel, "Lap 拉普拉斯")
+        self.tabs.addTab(self.filter_panel, "Filt 滤波器")
+        self.tabs.addTab(self.dsp_panel, "DSP 频谱")
+        self.tabs.addTab(self.audio_panel, "Mic 音频")
+        self.tabs.addTab(self.import_panel, "File 导入")
+        self.tabs.addTab(self.help_panel, "Help 帮助")
+
+        # 活动栏切换标签页
+        self.activity_bar.tab_changed.connect(
+            lambda i: self.tabs.setCurrentIndex(min(i, self.tabs.count() - 1))
+        )
+
+        # 信号变更时自动刷新时域面板
+        self.manager.on_change(lambda: self.time_panel.plot())
+
+        # 组装布局
+        right_splitter = QSplitter(Qt.Orientation.Horizontal)
+        right_splitter.addWidget(left_dock)
+        right_splitter.addWidget(self.tabs)
+        right_splitter.setSizes([300, 1200])
+        main_layout.addWidget(right_splitter)
+
+    def _setup_menu(self):
+        menubar = self.menuBar()
+        menubar.setStyleSheet("QMenuBar { background: #2d2d2d; color: #ccc; }")
+
+        file_menu = menubar.addMenu("文件")
+        for text, slot in [
+            ("导入CSV", lambda: self._import("csv")),
+            ("导入WAV", lambda: self._import("wav")),
+            ("导入MAT", lambda: self._import("mat")),
+            ("导出CSV", self._export_csv),
+            ("导出图片", self._export_fig),
+        ]:
+            act = QAction(text, self)
+            act.triggered.connect(slot)
+            file_menu.addAction(act)
+        file_menu.addSeparator()
+        act_quit = QAction("退出", self)
+        act_quit.triggered.connect(self.close)
+        file_menu.addAction(act_quit)
+
+        help_menu = menubar.addMenu("帮助")
+        act_about = QAction("关于", self)
+        act_about.triggered.connect(lambda: QMessageBox.about(
+            self, "关于",
+            "信号分析工具箱 v2.1\n\n"
+            "🎯 20+种信号类型 | 10+种分析方法\n"
+            "FIR/IIR滤波器设计 | 实时音频\n"
+            "📊 CWT/希尔伯特/倒谱/相干性\n"
+            "🎨 VS Code 风格暗色界面\n"
+            "🔧 重构版: 模块化 UI 架构\n\n"
+            "Powered by: PyQt6 + NumPy + SciPy + SymPy + Matplotlib",
+        ))
+        help_menu.addAction(act_about)
+
+    def _setup_statusbar(self):
+        self.statusbar = QStatusBar()
+        self.statusbar.setStyleSheet(
+            "QStatusBar { background: #007acc; color: white; }"
+        )
+        self.statusbar.showMessage("就绪 — 选择一个信号开始分析")
+        self.setStatusBar(self.statusbar)
+
+    def _on_signal_changed(self):
+        try:
+            sel = self.manager.selected
+            name = sel.name if sel else 'None'
+            n_checked = len(self.manager.checked_signals)
+            n_total = len(self.manager.signals)
+            self.statusbar.showMessage(
+                f"当前信号: {name}  |  已勾选 {n_checked}/{n_total} 个信号"
+            )
+            # 无勾选信号时清空所有面板
+            if n_checked == 0:
+                self.fourier_panel.clear_on_empty()
+                self.dsp_panel.clear_on_empty()
+                self.filter_panel.clear_on_empty()
+                self.laplace_panel.clear_on_empty()
+        except Exception as e:
+            err("statusbar_update", e)
+
+    def _import(self, fmt):
+        op("menu_import", format=fmt)
+        self.tabs.setCurrentIndex(6)  # File tab
+
+    def _export_csv(self):
+        if self.manager.selected:
+            path, _ = QFileDialog.getSaveFileName(
+                self, "导出CSV", f"{self.manager.selected.name}.csv", "CSV (*.csv)"
+            )
+            if path:
+                try:
+                    SignalGenerator.export_csv(self.manager.selected, path)
+                    op("export_csv", path=path, name=self.manager.selected.name)
+                    self.statusbar.showMessage(f"CSV 已导出: {path}")
+                except Exception as e:
+                    err("export_csv_fail", e, path=path)
+                    QMessageBox.warning(self, "错误", str(e))
+
+    def _export_fig(self):
+        path, _ = QFileDialog.getSaveFileName(
+            self, "导出图片", "figure.png", "PNG (*.png);;SVG (*.svg)"
+        )
+        if path:
+            try:
+                current_tab = self.tabs.currentWidget()
+                if hasattr(current_tab, 'canvas'):
+                    current_tab.canvas.save_figure(path)
+                    op("export_fig", path=path)
+                    self.statusbar.showMessage(f"图片已导出: {path}")
+                else:
+                    warn("export_fig", "no canvas on current tab")
+            except Exception as e:
+                err("export_fig_fail", e, path=path)
+                QMessageBox.warning(self, "错误", str(e))
+
+
+def main():
+    op("app_start")
+    app = QApplication(sys.argv)
+    app.setStyle("Fusion")
+    app.setStyleSheet(DARK_STYLE)
+
+    font = QFont("Microsoft YaHei UI", 9)
+    app.setFont(font)
+    try:
+        import matplotlib
+        matplotlib.rcParams['font.family'] = 'Microsoft YaHei'
+    except Exception:
+        pass
+    matplotlib.rcParams['axes.unicode_minus'] = False
+
+    try:
+        window = MainWindow()
+        window.show()
+        op("window_shown")
+        exit_code = app.exec()
+        op("app_exit", code=exit_code)
+        sys.exit(exit_code)
+    except Exception as e:
+        err("app_crash", e)
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
