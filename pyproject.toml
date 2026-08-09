@@ -1,0 +1,21 @@
+[project]
+name = "signal-analyzer"
+version = "2.1.0"
+description = "信号分析工具箱 — 20+ 种信号类型、10+ 种分析方法、FIR/IIR 滤波器设计"
+readme = "README.md"
+authors = [
+    { name = "dengbin", email = "dengbin_@outlook.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "pyqt6>=6.11.0",
+    "pyqtgraph>=0.14.0",
+    "scipy>=1.18.0",
+    "sounddevice>=0.5.5",
+    "sympy>=1.14.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
